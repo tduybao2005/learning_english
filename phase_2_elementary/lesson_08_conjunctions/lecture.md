@@ -1,0 +1,192 @@
+# BÀI 8: LIÊN TỪ (CONJUNCTIONS)
+
+---
+
+## GIỚI THIỆU
+
+Liên từ (Conjunctions) là những từ dùng để **nối các từ, cụm từ, hoặc mệnh đề** lại với nhau, thể hiện mối quan hệ giữa các ý. Tiếng Anh có ba loại liên từ chính: Coordinating, Subordinating, và Correlative.
+
+---
+
+## 1. LIÊN TỪ KẾT HỢP (COORDINATING CONJUNCTIONS) — FANBOYS
+
+Dùng để nối hai mệnh đề **độc lập** (ngang bằng nhau).
+
+**Ký hiệu nhớ: F-A-N-B-O-Y-S**
+
+| Liên từ | Ý nghĩa | Ví dụ |
+|---------|---------|-------|
+| **F**or | vì (lý do — trang trọng) | I was tired, **for** I had worked all day. |
+| **A**nd | và, thêm vào | She studies hard **and** gets good grades. |
+| **N**or | cũng không (sau neither) | He neither called **nor** texted me. |
+| **B**ut | nhưng, tuy nhiên | I wanted to go, **but** I was too tired. |
+| **O**r | hoặc, hay là | You can take the bus **or** the metro. |
+| **Y**et | nhưng (mâu thuẫn) | She is young **yet** very experienced. |
+| **S**o | vì vậy, nên | It was raining, **so** we stayed inside. |
+
+### Quy tắc dấu phẩy:
+- **Có dấu phẩy** khi nối hai mệnh đề độc lập: "She studied hard**, but** she failed."
+- **Không có dấu phẩy** khi chỉ nối hai từ/cụm từ: "She is smart **and** hardworking."
+
+---
+
+## 2. LIÊN TỪ PHỤ — THỜI GIAN (SUBORDINATING — TIME)
+
+Dùng để nối mệnh đề phụ chỉ thời gian với mệnh đề chính.
+
+| Liên từ | Ý nghĩa | Ví dụ |
+|---------|---------|-------|
+| when | khi | **When** I arrived, the meeting had already started. |
+| while | trong khi (hai hành động cùng lúc) | She was cooking **while** I was cleaning. |
+| as | trong khi, khi, vì | **As** she entered the room, everyone looked up. |
+| before | trước khi | Finish your homework **before** you watch TV. |
+| after | sau khi | **After** he left, we discussed the plan. |
+| until / till | cho đến khi | Wait here **until** I come back. |
+| as soon as | ngay khi | **As soon as** she heard the news, she cried. |
+| by the time | vào lúc mà | **By the time** we arrived, it was too late. |
+| once | một khi, sau khi | **Once** you understand the rules, it's easy. |
+| whenever | bất cứ khi nào | **Whenever** I see her, she's smiling. |
+| since | từ khi | I have lived here **since** I was born. |
+| no sooner...than | vừa...đã | **No sooner** had he sat down **than** the phone rang. |
+
+> **Dấu phẩy:** Nếu mệnh đề phụ đứng **TRƯỚC** mệnh đề chính → có dấu phẩy.
+> - **When** I was a child**,** I loved cartoons. *(mệnh đề phụ trước → có phẩy)*
+> - I loved cartoons **when** I was a child. *(mệnh đề phụ sau → không cần phẩy)*
+
+---
+
+## 3. LIÊN TỪ PHỤ — NGUYÊN NHÂN (SUBORDINATING — CAUSE)
+
+| Từ/Cụm từ | Loại | Theo sau là | Ví dụ |
+|-----------|------|------------|-------|
+| because | liên từ | mệnh đề (S + V) | She was late **because** she missed the bus. |
+| since | liên từ | mệnh đề (S + V) | **Since** you are here, let's begin. |
+| as | liên từ | mệnh đề (S + V) | **As** it was raining, we took a taxi. |
+| due to | cụm từ | danh từ / danh động từ | The flight was cancelled **due to** bad weather. |
+| owing to | cụm từ | danh từ / danh động từ | **Owing to** the heavy rain, the match was postponed. |
+| because of | cụm từ | danh từ / danh động từ | She left **because of** the noise. |
+| on account of | cụm từ | danh từ / danh động từ | **On account of** his illness, he missed the exam. |
+
+> **Lỗi phổ biến:**
+> - ❌ "The match was cancelled due to **it rained**." (due to + mệnh đề — SAI)
+> - ✓ "The match was cancelled due to **the rain**." (due to + danh từ — ĐÚNG)
+> - ✓ "The match was cancelled **because** it rained." (because + mệnh đề — ĐÚNG)
+
+---
+
+## 4. LIÊN TỪ PHỤ — TƯƠNG PHẢN (SUBORDINATING — CONTRAST)
+
+### 4.1 Although / Though / Even though + mệnh đề
+
+| Liên từ | Mức độ | Ví dụ |
+|---------|--------|-------|
+| although | tuy...nhưng (trang trọng) | **Although** he studied hard, he failed. |
+| though | tuy...nhưng (thông thường) | **Though** it was cold, we went swimming. |
+| even though | mặc dù (nhấn mạnh hơn) | **Even though** she was tired, she kept working. |
+
+### 4.2 Despite / In spite of + danh từ / danh động từ
+
+- **Despite** the rain, they continued the match.
+- **In spite of** being tired, she finished the report.
+- **Despite** his age, he runs marathons.
+
+### 4.3 Whereas / While — So sánh tương phản
+
+- He is outgoing, **whereas** his sister is shy.
+- **While** some people love cities, others prefer the countryside.
+
+### 4.4 However / Nevertheless / Nonetheless (trạng từ liên kết)
+
+- The exam was difficult. **However**, most students passed.
+- It was raining heavily. **Nevertheless**, they went ahead with the outdoor event.
+- The project is expensive. **Nonetheless**, it is worth pursuing.
+
+> **Chú ý:** However/Nevertheless là **trạng từ**, KHÔNG PHẢI liên từ:
+> - ❌ "I was tired however I continued." (không có dấu chấm phẩy/phẩy — SAI)
+> - ✓ "I was tired**; however,** I continued." ✓
+> - ✓ "I was tired. **However,** I continued." ✓
+
+### LỖI KINH ĐIỂN: although + but (SAI!)
+> ❌ "**Although** he studied hard, **but** he failed." *(KHÔNG ĐƯỢC dùng cả hai)*
+> ✓ "**Although** he studied hard, he failed." *(chỉ dùng although)*
+> ✓ "He studied hard, **but** he failed." *(chỉ dùng but)*
+
+---
+
+## 5. LIÊN TỪ PHỤ — ĐIỀU KIỆN (SUBORDINATING — CONDITION)
+
+| Liên từ | Ý nghĩa | Ví dụ |
+|---------|---------|-------|
+| if | nếu | **If** it rains, we will cancel the picnic. |
+| unless | nếu không, trừ khi | **Unless** you study, you will fail. |
+| provided that | với điều kiện là | You can go **provided that** you finish your work. |
+| as long as | miễn là, chỉ cần | You can stay **as long as** you follow the rules. |
+| on condition that | với điều kiện rằng | I'll help you **on condition that** you help me later. |
+| in case | phòng trường hợp | Take an umbrella **in case** it rains. |
+
+> **Unless = If...not:**
+> - "**Unless** you hurry, you'll miss the train."
+> - = "**If** you **don't** hurry, you'll miss the train."
+
+---
+
+## 6. LIÊN TỪ PHỤ — MỤC ĐÍCH (SUBORDINATING — PURPOSE)
+
+| Từ/Cụm từ | Theo sau là | Ví dụ |
+|-----------|-----------|-------|
+| so that | mệnh đề | She whispered **so that** no one could hear her. |
+| in order that | mệnh đề (trang trọng) | He worked overtime **in order that** the project could be completed. |
+| in order to | nguyên mẫu | She woke up early **in order to** catch the train. |
+| so as to | nguyên mẫu | He spoke quietly **so as to** avoid waking the baby. |
+| to (simple) | nguyên mẫu | I went to the shop **to** buy some milk. |
+
+---
+
+## 7. LIÊN TỪ PHỤ — KẾT QUẢ (SUBORDINATING — RESULT)
+
+| Từ/Cụm từ | Cấu trúc | Ví dụ |
+|-----------|---------|-------|
+| so + adj/adv + that | so + tính từ/trạng từ + that | It was **so hot that** I couldn't sleep. |
+| such + noun + that | such + (a/an) + tính từ + danh từ + that | It was **such a hot day that** we stayed inside. |
+| therefore | trạng từ (vì vậy) | She was ill**; therefore,** she couldn't attend. |
+| consequently | trạng từ (do đó) | He didn't study**; consequently,** he failed. |
+| as a result | cụm trạng từ | It rained heavily. **As a result,** the match was cancelled. |
+| thus | trạng từ (vì vậy — trang trọng) | The budget was cut**; thus,** the project was delayed. |
+
+---
+
+## 8. LIÊN TỪ TƯƠNG QUAN (CORRELATIVE CONJUNCTIONS)
+
+Các liên từ này luôn **xuất hiện theo cặp**:
+
+| Cặp liên từ | Ý nghĩa | Ví dụ |
+|------------|---------|-------|
+| both...and | cả...lẫn | She is **both** talented **and** hardworking. |
+| either...or | hoặc...hoặc | You can **either** call me **or** send an email. |
+| neither...nor | không...cũng không | He **neither** apologised **nor** explained. |
+| not only...but also | không chỉ...mà còn | She is **not only** smart **but also** kind. |
+| whether...or | dù...hay | I'll come **whether** it rains **or** not. |
+
+### Lưu ý về hòa hợp chủ-vị:
+- **Both...and** → động từ số nhiều: "Both he and she **are** wrong."
+- **Either...or / Neither...nor** → động từ chia theo chủ ngữ GẦN NHẤT:
+  - "Either the teachers or the principal **is** responsible."
+  - "Either the principal or the teachers **are** responsible."
+
+---
+
+## 9. QUY TẮC DẤU CÂU VỚI LIÊN TỪ
+
+| Loại liên từ | Dấu câu | Ví dụ |
+|-------------|---------|-------|
+| Coordinating (FANBOYS) | dấu phẩy trước liên từ khi nối 2 mệnh đề độc lập | "I was tired**, but** I kept going." |
+| Subordinating — mệnh đề phụ TRƯỚC | dấu phẩy sau mệnh đề phụ | "**Because** it rained**,** we stayed in." |
+| Subordinating — mệnh đề phụ SAU | không cần dấu phẩy | "We stayed in **because** it rained." |
+| However / Nevertheless | dấu chấm phẩy trước, dấu phẩy sau | "I was tired**; however,** I continued." |
+| Therefore / Consequently | dấu chấm phẩy trước, dấu phẩy sau | "It rained**; therefore,** the match was cancelled." |
+
+---
+
+## 10. VÍ DỤ TỔNG HỢP TRONG VĂN VIẾT
+
+"**Although** the government has introduced many environmental policies, pollution levels continue to rise. **This is because** industries prioritise profit over sustainability. **However**, there are some encouraging signs. **Both** businesses **and** individuals are becoming more aware of their environmental impact. **Unless** drastic changes are made soon, **the consequences** will be severe. **Therefore**, it is essential that everyone takes action — **not only** for ourselves **but also** for future generations."
