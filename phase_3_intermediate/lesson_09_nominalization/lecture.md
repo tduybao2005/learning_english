@@ -349,3 +349,38 @@ Nominalization rất phổ biến khi mô tả biểu đồ/bảng số liệu:
 ---
 
 *Học xong lý thuyết → Làm bài tập trong exercise.md và vocabulary.md*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| There has been a rise of temperature recently. | There has been a rise **in** temperature recently. | "Rise/increase/fall/decrease" đi với giới từ "IN", không phải "of" |
+| The decision of pollution is a major problem. | The **increase** in pollution is a major problem. | Chọn sai danh từ hóa — "decision" không phù hợp ngữ nghĩa; phải dùng "increase" |
+| The conduct of the investigation led to the achievement of results. | Authorities **investigated** and **achieved** results. | Over-nominalization — quá nhiều danh từ hóa làm câu nặng nề; đôi khi câu chủ động rõ hơn |
+| Technology has a bad affect on children. | Technology has a bad **effect** on children. | "Affect" là động từ; "effect" là danh từ — nhầm hai từ này là lỗi rất phổ biến |
+| We need a solution of this problem urgently. | We need a solution **to** this problem urgently. | "Solution" đi với giới từ "TO", không phải "of" |
+| There was increase in oil prices last year. | There was **an** increase in oil prices last year. | Danh từ đếm được số ít cần mạo từ "an/a" — không được bỏ |
+| We should address the need of better education. | We should address the need **for** better education. | "Need" đi với giới từ "FOR", không phải "of" |
+| The failure to implementing the policy was costly. | The failure to **implement** the policy was costly. | Sau "failure to" dùng bare infinitive, không phải gerund |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Nominalization là gì:** chuyển verb/adjective → noun để văn trở nên học thuật, súc tích và khách quan hơn
+- **Hậu tố phổ biến:** -ment (develop→**development**), -tion (decide→**decision**), -ity (able→**ability**), -ness (aware→**awareness**), -al (arrive→**arrival**)
+- **Giới từ cố định:** rise/fall **IN**; effect/impact **ON**; solution **TO**; cause **OF**; need **FOR**; attitude **TOWARDS**
+- **Chuyển mệnh đề → cụm danh từ:** "because the economy grew rapidly" → "**the rapid economic growth**"
+- **Tránh over-nominalization:** khi câu chủ động đơn giản rõ hơn, đừng cố dùng danh từ hóa
+- **IELTS Band 7+:** danh từ hóa tự nhiên trong cả Task 1 (a dramatic increase in...) và Task 2 (the development of... / the failure to...)
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 1 — Thể bị động](../lesson_01_passive_voice/lecture.md) — nominalization kết hợp với passive giúp viết văn học thuật mà không cần nhắc đến chủ thể
+- [Bài 4 — Mệnh đề quan hệ](../lesson_04_relative_clauses/lecture.md) — rút gọn mệnh đề quan hệ thành cụm danh từ là ứng dụng của nominalization
+- [Bài 11 — Discourse Markers](../lesson_11_discourse_markers/lecture.md) — "summary nouns" (this development, such challenges) là nominalization dùng để liên kết ý
+- [Phase 4 — Bài 9: Academic Essay Writing](../../phase_4_advanced/lesson_09_academic_essay_writing/lecture.md) — nominalization là kỹ năng cốt lõi trong viết luận học thuật nâng cao

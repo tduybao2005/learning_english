@@ -280,3 +280,38 @@ Bảng tổng hợp cách chuyển đổi:
 | Perfect Participle | Having + V3 | Trước mệnh đề chính (chủ động) | *Having reviewed the data, she revised her conclusions.* |
 | Perfect Passive | Having been + V3 | Trước mệnh đề chính (bị động) | *Having been thoroughly tested, the drug was approved.* |
 | Being | Being + adj/noun/V3 | Trạng thái / Bị động đang diễn ra | *Being a specialist, he was widely consulted.* |
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| Walking to school, the rain started. | Walking to school, I got caught in the rain. | Dangling participle: chủ ngữ ẩn của participle phải là chủ ngữ của mệnh đề chính. |
+| Building in 1920, the bridge is still in use. | Built in 1920, the bridge is still in use. | Cầu được xây (bị động) → dùng V3 (built), không dùng V-ing (building). |
+| The researchers published their findings causing a major controversy. | The researchers published their findings, causing a major controversy. | Bắt buộc có dấu phẩy trước V-ing khi diễn tả kết quả ở cuối câu. |
+| Finishing the report, he started writing it. | Having finished the report, he submitted it for review. | Hành động xảy ra trước → phải dùng perfect participle (Having + V3). |
+| Having walked to school, she arrived on time. | Walking to school, she arrived on time. | Hai hành động kế tiếp bình thường không cần perfect participle. |
+| Having awarded a scholarship, she studied freely. | Having been awarded a scholarship, she studied freely. | Cô ấy được nhận học bổng (bị động) → "Having been awarded", không phải "Having awarded". |
+| Submitting the form, a confirmation email was sent. | Submitting the form, you will receive a confirmation email. | "A confirmation email" không thể tự submit form → đây là dangling participle. |
+| The policy, designing to reduce inequality, failed. | The policy, designed to reduce inequality, failed. | Thu gọn relative clause bị động → V3 (designed), không phải V-ing (designing). |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Present Participle (V-ing):** Diễn tả đồng thời, nguyên nhân, hoặc kết quả — e.g., "Lacking resources, the researchers abandoned the project."
+- **Past Participle (V3):** Mang nghĩa bị động, thu gọn relative clause bị động — e.g., "Policies designed to tackle inequality often fail."
+- **Perfect Participle (Having + V3):** Hành động xảy ra TRƯỚC mệnh đề chính (chủ động) — e.g., "Having reviewed the data, she revised her conclusions."
+- **Perfect Passive Participle (Having been + V3):** Hành động xảy ra trước và ở thể bị động — e.g., "Having been thoroughly tested, the drug was approved."
+- **Quy tắc vàng — Dangling Participle:** Chủ ngữ ẩn của participle clause phải trùng với chủ ngữ của mệnh đề chính — vi phạm tạo câu sai nghiêm trọng.
+- **Dấu phẩy kết quả:** Bắt buộc có dấu phẩy trước V-ing khi diễn tả kết quả ở cuối câu — e.g., "The government raised taxes, causing widespread protests."
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Phase 3 — Bài 4 — Relative Clauses](../../phase_3_intermediate/lesson_04_relative_clauses/lecture.md) — Past participle clause (V3) thu gọn trực tiếp từ relative clause bị động (which is/was + V3).
+- [Phase 3 — Bài 6 — Gerunds & Infinitives](../../phase_3_intermediate/lesson_06_gerunds_infinitives/lecture.md) — Phân biệt V-ing trong participle clause (mệnh đề) và V-ing trong gerund (danh từ).
+- [Bài 5 — Advanced Passive](../lesson_05_advanced_passive/lecture.md) — Passive participle clauses (V3 và Having been + V3) liên quan chặt chẽ đến advanced passive voice.
+- [Phase 5 — Bài 3 — Writing Task 2](../../phase_5_ielts_prep/lesson_03_writing_task2_opinion_essay/lecture.md) — Participle clauses là công cụ "nén câu" học thuật quan trọng để nâng band Writing từ 6 lên 7–8.

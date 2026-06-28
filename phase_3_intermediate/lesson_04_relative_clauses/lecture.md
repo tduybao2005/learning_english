@@ -336,3 +336,38 @@ Dùng khi muốn diễn đạt **một phần của nhóm** được đề cập
 | where | — | — | ✓ | ✓ | ✗ |
 | when | — | — | ✓ | ✓ | ✗ |
 | why | — | — | ✓ | ✗ | Sau "reason" |
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| My city, that is beautiful, is developing fast. | My city, **which** is beautiful, is developing fast. | Non-defining clause KHÔNG dùng "that"; chỉ dùng "which" sau dấu phẩy |
+| The man lives here is my neighbour. | The man **who** lives here is my neighbour. | Không được bỏ relative pronoun khi nó là **chủ ngữ** của mệnh đề quan hệ |
+| My father who is 60 is a teacher. | My father**, who is 60,** is a teacher. | Non-defining clause cần dấu phẩy hai bên để tách thông tin bổ sung |
+| The book which I read it was good. | The book which I read was good. | Không lặp đại từ — "the book" đã là chủ ngữ, không thêm "it" sau "read" |
+| The car who is parked outside is mine. | The car **which/that** is parked outside is mine. | "Who" chỉ dùng cho người; "which" hoặc "that" cho vật/động vật |
+| The student which passed was happy. | The student **who/that** passed was happy. | "Which" không dùng cho người; phải dùng "who" hoặc "that" (defining) |
+| The man whom called you is my uncle. | The man **who** called you is my uncle. | "Whom" là tân ngữ; "who" là chủ ngữ — "called" cần chủ ngữ → dùng "who" |
+| The reason why is she left never known. | The reason **why** she left was never known. | Sau "why" trong mệnh đề quan hệ, giữ nguyên trật tự S + V (không đảo ngữ) |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Đại từ quan hệ:** who/whom = người; which = vật/động vật; that = người hoặc vật (chỉ trong defining); whose = sở hữu
+- **Defining (xác định):** không có dấu phẩy, có thể dùng "that", có thể bỏ pronoun khi nó là **tân ngữ**
+- **Non-defining (không xác định):** có dấu phẩy hai bên, KHÔNG dùng "that", KHÔNG bỏ relative pronoun
+- **Rút gọn chủ động:** who/which + đang làm → V-ing (*the man **standing** at the door*)
+- **Rút gọn bị động:** who/which + is/was + V3 → V3 (*the report **compiled** by the team*)
+- **Quantitative relatives:** most of whom / none of which / several of whom — diễn đạt một phần của nhóm
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 1 — Thể bị động](../lesson_01_passive_voice/lecture.md) — rút gọn mệnh đề quan hệ bị động dùng V3 liên quan trực tiếp đến passive participle
+- [Bài 9 — Danh từ hóa](../lesson_09_nominalization/lecture.md) — thay mệnh đề quan hệ dài bằng cụm danh từ giúp văn học thuật súc tích hơn
+- [Phase 2 — Bài 8: Conjunctions](../../phase_2_elementary/lesson_08_conjunctions/lecture.md) — liên từ và mệnh đề phụ là nền tảng để hiểu mệnh đề quan hệ
+- [Phase 4 — Bài 3: Participle Clauses](../../phase_4_advanced/lesson_03_participle_clauses/lecture.md) — rút gọn mệnh đề quan hệ thành participial phrase ở trình độ nâng cao

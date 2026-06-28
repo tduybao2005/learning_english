@@ -209,3 +209,38 @@ Trong tiếng Anh thông thường (informal), giới từ thường đứng **c
 6. **Tag:** "This park is beautiful, **isn't it**?" — "Yes, it really is."
 7. **Echo:** "I run 5km every morning." — "**Do you**? That's impressive!"
 8. **Preposition end:** "What are you studying **for**?" — "My IELTS exam."
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| Where you are going? | Where are you going? | Câu hỏi Wh- cần đảo trợ động từ lên trước chủ ngữ |
+| What does he likes? | What does he like? | Sau "does/did" dùng bare infinitive, không thêm -s |
+| Who did call you? | Who called you? | "Who" là chủ ngữ → không cần trợ động từ "did" |
+| Do you are ready? | Are you ready? | Với động từ "be", đảo "be" lên, không dùng "do" |
+| Can you tell me where is the station? | Can you tell me where the station is? | Câu hỏi gián tiếp dùng trật tự từ bình thường (S + V) |
+| He asked me that what I wanted. | He asked me what I wanted. | Câu hỏi gián tiếp không dùng "that" sau từ để hỏi |
+| It's cold today, isn't he? | It's cold today, isn't it? | Tag question dùng đại từ tương ứng với chủ ngữ: "it" |
+| You don't like coffee, do you not? | You don't like coffee, do you? | Tag question: phủ định → tag khẳng định ngắn, không lặp "not" |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Yes/No questions:** Trợ động từ (do/does/did/am/is/are/will/can...) + S + V? — "Do you speak English?"
+- **Wh- questions (tân ngữ):** Wh- + trợ động từ + S + V? — "Where does she live?"
+- **Wh- questions (chủ ngữ):** Wh- + V (không cần trợ động từ) — "Who broke the window?"
+- **Câu hỏi gián tiếp:** S + V + từ để hỏi + S + V (trật tự bình thường) — "Can you tell me where he lives?"
+- **Tag questions:** Mệnh đề khẳng định → tag phủ định; phủ định → tag khẳng định — "She is kind, isn't she?"
+- **Động từ "be":** Đảo trực tiếp, không dùng "do" — "Is he tired?" (không phải "Does he be tired?")
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Lesson 06: Modal Verbs](../lesson_06_modal_verbs/lecture.md) — Modal verbs đảo lên đầu để tạo câu hỏi Yes/No: "Can she drive?"
+- [Lesson 04: Subject-Verb Agreement](../lesson_04_subject_verb_agreement/lecture.md) — Trợ động từ trong câu hỏi phải hòa hợp với chủ ngữ.
+- [Phase 1 - Lesson 11: Sentence Structure](../../phase_1_foundation/lesson_11_sentence_structure/lecture.md) — Nắm vững cấu trúc câu khẳng định là bước đầu để đặt câu hỏi đúng.
+- [Phase 3 - Lesson 05: Reported Speech](../../phase_3_intermediate/lesson_05_reported_speech/lecture.md) — Câu hỏi trong reported speech (câu hỏi gián tiếp) thay đổi trật tự từ quan trọng.

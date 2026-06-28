@@ -299,3 +299,38 @@ Bổ nghĩa cho **tính từ** hoặc **trạng từ khác**, chỉ mức độ 
 | ADJ sau linking verbs | look, feel, taste, sound, seem, be |
 | ADV sau action verbs | run, speak, work, sing... |
 | Nguy hiểm | hard ≠ hardly; late ≠ lately |
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| She sings beautiful. | She sings beautifully. | Sau động từ hành động (sings) phải dùng trạng từ -ly, không dùng tính từ. |
+| He speaks very slow. | He speaks very slowly. | "Slow" là tính từ; cần trạng từ "slowly" để bổ nghĩa cho động từ "speaks". |
+| She cooks always in the evening. | She always cooks in the evening. | Trạng từ tần suất đứng TRƯỚC động từ thường, không đứng sau. |
+| She plays the piano good. | She plays the piano well. | "Well" là trạng từ của "good"; dùng "well" để bổ nghĩa cho động từ "plays". |
+| She hardly studies and gets good grades. | She studies hard and gets good grades. | "Hardly" = hầu như không; "hard" = chăm chỉ — hai nghĩa hoàn toàn khác nhau. |
+| This is very perfect. | This is absolutely perfect. | "Perfect" là tính từ tuyệt đối, không dùng "very" mà dùng "absolutely/completely". |
+| He is always not on time. | He is never on time. | Không kết hợp "always" với "not"; dùng "never" hoặc "not always" tùy nghĩa. |
+| Please write careful. | Please write carefully. | Tính từ "careful" phải đổi thành trạng từ "carefully" khi bổ nghĩa cho động từ. |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Năm loại trạng từ:** Manner (cách thức), Frequency (tần suất), Time (thời gian), Place (nơi chốn), Degree (mức độ).
+- **Thứ tự trong câu:** Manner → Place → Time — ví dụ: *She sang beautifully at the concert last night.*
+- **Thành lập trạng từ:** thêm -ly vào tính từ; đổi -y thành -ily (happy→happily); đổi -le thành -ly (gentle→gently); thêm -ally với -ic (basic→basically).
+- **Bất quy tắc quan trọng:** good→well; fast/hard/late/early → không đổi khi làm trạng từ.
+- **Vị trí tần suất:** TRƯỚC động từ thường; SAU "be" — ví dụ: *She always smiles. He is always late.*
+- **Cạm bẫy thường gặp:** hard ≠ hardly; late ≠ lately; near ≠ nearly — mỗi cặp có nghĩa hoàn toàn khác nhau.
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 8 — Tính Từ](../lesson_08_adjectives/lecture.md) — Phân biệt tính từ (đứng trước danh từ hoặc sau linking verb) và trạng từ (đứng sau action verb) là điểm mấu chốt.
+- [Bài 1 — Thì Hiện Tại Đơn](../lesson_01_simple_present/lecture.md) — Trạng từ tần suất (always, usually, never) là dấu hiệu nhận biết và thành phần quan trọng của Simple Present.
+- [Bài 11 — Cấu Trúc Câu](../lesson_11_sentence_structure/lecture.md) — Trạng ngữ (Adverbial) là một trong năm thành phần câu cơ bản; hiểu vị trí trạng từ giúp viết câu đúng cấu trúc.
+- [Bài 12 — So Sánh Cơ Bản](../lesson_12_basic_comparisons/lecture.md) — Trạng từ mức độ (much, far, a bit) dùng để nhấn mạnh so sánh hơn (much better, far more expensive).

@@ -534,3 +534,38 @@ Khi viết bài luận, ưu tiên từ học thuật nhưng một số phrasal v
 
 **Phrasal verbs inseparable (không tách):**
 > "I **looked into** the matter." ✓ / ~~"I looked the matter into."~~ ✗
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| She gave up to pressure from her boss. | She **gave in** to pressure from her boss. | "Give up" = từ bỏ hoàn toàn; "give in" = đầu hàng/nhượng bộ — hai nghĩa khác nhau hoàn toàn |
+| I looked the matter into. | I **looked into** the matter. | Phrasal verb inseparable: không tách "into" ra; tân ngữ đặt sau toàn bộ cụm |
+| We need to sort out this problem. (IELTS Writing) | We need to **resolve** this problem. | Trong IELTS Writing Task 2, ưu tiên từ formal thay vì phrasal verb thông thường |
+| She ran into difficulties with completing the project. | She ran into difficulties **in** completing the project. | Giới từ đúng sau "difficulties" là "in" (hoặc bỏ giới từ) |
+| The company is phasing out slowly their products. | The company is **phasing out** their products slowly. | Với phrasal verb separable, trạng từ đặt sau tân ngữ, không đặt giữa V và particle |
+| The patient was looked. | The patient was **looked after**. | Phrasal verb passive: giữ nguyên toàn bộ cụm, không bỏ "after" |
+| She came up with a great idea for the project quickly. | She **came up with** a great idea for the project quickly. | "Come up with" là inseparable — không tách được |
+| He went through with the contract then backed out of it. | He backed **out of** the deal at the last minute. | "Back out" cần giới từ "of" khi có tân ngữ |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Phrasal verb = V + particle/prep:** tạo nghĩa mới hoàn toàn — "give up" ≠ "give" + "up" riêng lẻ
+- **Separable (có thể tách):** tân ngữ đặt giữa hoặc sau cả cụm — *turn the music down* = *turn down the music*
+- **Inseparable (không tách được):** tân ngữ PHẢI đặt sau cả cụm — *look into the matter* (KHÔNG: look the matter into)
+- **Formal vs Informal:** IELTS Speaking → phrasal verbs tự nhiên; IELTS Writing Task 2 → ưu tiên từ academic (bring about→cause; come up with→devise; phase out→eliminate)
+- **Ba chiều nghĩa:** literal (đen) / figurative (bóng) / idiomatic (thành ngữ) — cần học cả ba trong ngữ cảnh
+- **Phrasal verb passive:** giữ nguyên toàn bộ cụm — *The complaint was followed up by the manager*
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 6 — Gerunds vs Infinitives](../lesson_06_gerunds_infinitives/lecture.md) — nhiều phrasal verbs kết hợp với gerund (look forward to **doing**, give up **doing**, keep on **doing**)
+- [Bài 8 — Collocations](../lesson_08_collocations/lecture.md) — phrasal verbs là một loại collocation đặc biệt; formal alternatives của phrasal verbs thường là AWL collocations
+- [Phase 2 — Bài 9: Basic Phrasal Verbs](../../phase_2_elementary/lesson_09_basic_phrasal_verbs/lecture.md) — nền tảng phrasal verbs cần học trước khi tiếp cận 100 phrasal verbs nâng cao này
+- [Phase 1 — Bài 10: Prepositions](../../phase_1_foundation/lesson_10_prepositions/lecture.md) — giới từ là thành phần cấu tạo quan trọng của phrasal verbs

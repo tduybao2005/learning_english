@@ -399,3 +399,38 @@ Sử dụng lần đầu: [ngày]
 ---
 
 *Bài tiếp theo → Bài thi cuối Phase 4: Kiểm tra tổng hợp ngữ pháp + từ vựng + đọc + viết*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| The research made a conclusion that... | The research drew the conclusion that... | "Draw a conclusion" là collocation đúng — "make a conclusion" là sai collocation phổ biến. |
+| The policy facilitates people to access healthcare. | The policy facilitates access to healthcare. | "Facilitate" đi với noun phrase, không đi với "someone to do something". |
+| The data proves that pollution causes illness. | The data indicates/suggests that pollution is linked to illness. | "Indicate/suggest" phù hợp hơn "prove" trong academic writing — giữ hedging chính xác. |
+| The experiment was very significant. | The experiment yielded significant results. | "Very significant" là redundant — "significant" đã hàm nghĩa đáng kể. Sửa collocation: "significant results/findings". |
+| They implemented the idea of using solar panels. | They implemented a policy/strategy of using solar panels. | "Implement" đi với "policy, reforms, strategy, programme" — không đi với "idea". |
+| attribute /əˈtrɪbjuːt/ (khi dùng làm noun) | attribute /ˈætrɪbjuːt/ (N) vs. /əˈtrɪbjuːt/ (V) | Nhiều AWL words có hai cách phát âm khác nhau theo loại từ — cần chú ý stress placement. |
+| The study done by researchers found... | The study conducted by researchers found... | "Conduct research/a study" là collocation học thuật; "do research" là informal. |
+| She utilised her time very efficiently. | She utilised her time efficiently. | "Utilised + efficiently" là collocation tự nhiên; thêm "very" trước adverb không sai nhưng thường là redundant. |
+
+---
+
+## TÓM TẮT NHANH
+
+- **AWL = 10% của academic text:** Nắm Sublist 1–5 là đủ cho IELTS 7.0+; học theo word families, không chỉ từ đơn lẻ.
+- **Học theo collocation, không chỉ học nghĩa:** "conduct research" (không phải "do research"), "draw a conclusion" (không phải "make"), "implement a policy" (không phải "implement an idea").
+- **Word families:** Mỗi AWL word có nhiều dạng — contribute → contribution → contributory → contributor — dùng đúng dạng theo chức năng trong câu.
+- **Thay thế từ đơn giản bằng AWL:** show → demonstrate/indicate; big → significant/substantial; need → require/necessitate; change → alter/transform.
+- **Tránh redundancy với AWL:** Không thêm "very/extremely" trước AWL đã mang nghĩa mạnh — significant, considerable, substantial đã đủ mạnh.
+- **Hedging vẫn cần thiết dù dùng AWL:** "The data indicates..." (không phải "proves") — AWL nâng register nhưng không loại bỏ yêu cầu hedging.
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 6 — Vocabulary Nuances](../lesson_06_vocabulary_nuances/lecture.md) — Sắc thái từ và register bổ sung trực tiếp cho AWL mastery — biết khi nào dùng "claim" vs. "demonstrate" vs. "indicate."
+- [Phase 3 — Bài 12 — AWL Introduction](../../phase_3_intermediate/lesson_12_awl_introduction/lecture.md) — Bài nền tảng về AWL Sublist 1–2 trước khi học Sublists 3–5 trong bài này.
+- [Bài 9 — Academic Essay Writing](../lesson_09_academic_essay_writing/lecture.md) — AWL là nền tảng của Lexical Resource (25% điểm IELTS Writing) — cần kết hợp với cấu trúc bài luận tốt.
+- [Phase 5 — Bài 3-4 — Writing Task 2](../../phase_5_ielts_prep/lesson_03_writing_task2_opinion_essay/lecture.md) — Ứng dụng AWL collocations vào bài luận thi thực tế — nơi Lexical Resource được đánh giá trực tiếp.

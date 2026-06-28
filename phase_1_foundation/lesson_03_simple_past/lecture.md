@@ -255,3 +255,38 @@ Thì Quá Khứ Đơn (Simple Past) dùng để nói về những sự kiện đ
 > - sing-sang-sung / ring-rang-rung / drink-drank-drunk / begin-began-begun ← Nhóm i/a/u
 > - keep-kept / feel-felt / sleep-slept / mean-meant / leave-left ← Nhóm thêm -t
 > - buy-bought / think-thought / catch-caught / teach-taught ← Nhóm -ought/-aught
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| She didn't went to school. | She didn't go to school. | Sau "didn't", động từ giữ nguyên dạng nguyên thể, không dùng V-ed hoặc V2. |
+| He goed to the market. | He went to the market. | "Go" là động từ bất quy tắc: go → went, không có dạng "goed". |
+| They was very happy. | They were very happy. | "They" dùng "were", không phải "was". |
+| She taked a taxi. | She took a taxi. | "Take" là động từ bất quy tắc: take → took, không phải "taked". |
+| Yesterday I am very tired. | Yesterday I was very tired. | Có từ chỉ quá khứ "yesterday", phải dùng was/were, không dùng am/is/are. |
+| Did he went to Hanoi? | Did he go to Hanoi? | Sau "Did" trong câu hỏi, dùng động từ nguyên thể, không dùng V2. |
+| She studyed hard last night. | She studied hard last night. | Kết thúc "phụ âm + y" đổi thành -ied: study → studied. |
+| He didn't ate anything. | He didn't eat anything. | Sau "didn't", không dùng V2, dùng động từ nguyên thể: eat. |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Cấu trúc khẳng định:** S + V-ed (quy tắc) hoặc S + V2 (bất quy tắc) — ví dụ: *She worked. He went.*
+- **Câu phủ định:** S + didn't + V (nguyên thể) — không bao giờ dùng V-ed sau "didn't".
+- **Câu hỏi:** Did + S + V (nguyên thể)? — ví dụ: *Did you see her?*
+- **To be trong quá khứ:** I/He/She/It → was; You/We/They → were.
+- **Dấu hiệu nhận biết:** yesterday, last night/week/month, ago, in 2020, when I was young.
+- **Lưu ý về động từ bất quy tắc:** học thuộc các nhóm như go/went, take/took, eat/ate, write/wrote — không có cách nào khác!
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 1 — Thì Hiện Tại Đơn](../lesson_01_simple_present/lecture.md) — Nắm vững Simple Present trước khi học Simple Past để hiểu sự thay đổi cấu trúc theo thời gian.
+- [Bài 5 — Thì Hiện Tại Hoàn Thành](../lesson_05_present_perfect/lecture.md) — Phân biệt Simple Past (thời điểm xác định) với Present Perfect (kết nối quá khứ và hiện tại).
+- [Bài 4 — Thì Tương Lai](../lesson_04_simple_future/lecture.md) — Hiểu cả ba thì cơ bản: quá khứ, hiện tại, tương lai để dùng đúng trong hội thoại.
+- [Bài 11 — Cấu Trúc Câu](../lesson_11_sentence_structure/lecture.md) — Câu kể chuyện thường dùng Simple Past; học cấu trúc câu phức giúp kể chuyện mạch lạc hơn.

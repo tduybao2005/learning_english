@@ -295,3 +295,38 @@ Một số tính từ chỉ **trạng thái tuyệt đối** — không thể "h
 | Compound adj: gạch ngang trước N | a well-known artist |
 | Không thêm -s cho adj | good students (not goods) |
 | Adj không đứng sau N | a big house (not a house big) |
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| I want a house big. | I want a big house. | Trong tiếng Anh, tính từ đứng TRƯỚC danh từ (khác với tiếng Việt "nhà to"). |
+| She sings beautiful. | She sings beautifully. | Sau động từ hành động (sings) phải dùng trạng từ "beautifully", không dùng tính từ. |
+| The movie was bored. | The movie was boring. | Tình huống gây cảm xúc → dùng đuôi -ing; người cảm thấy cảm xúc → dùng đuôi -ed. |
+| I am very interesting in music. | I am very interested in music. | Người có cảm xúc "thích thú" → dùng -ed adjective "interested". |
+| She has beautifuls eyes. | She has beautiful eyes. | Tính từ trong tiếng Anh không đổi theo số lượng, không thêm -s. |
+| A Korean new car. | A new Korean car. | Thứ tự OSASCOMP: Age (new) phải đứng trước Origin (Korean). |
+| The asleep baby is cute. | The sleeping baby is cute. | "Asleep" chỉ dùng ở vị trí predicative (sau be); trước danh từ dùng "sleeping". |
+| She seems happily today. | She seems happy today. | "Seem" là linking verb, sau nó dùng tính từ (happy), không dùng trạng từ (happily). |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Vị trí attributive:** tính từ đứng TRƯỚC danh từ — ví dụ: *a beautiful house, an old car.*
+- **Vị trí predicative:** tính từ đứng SAU linking verbs (be, seem, look, feel, taste, smell, sound) — ví dụ: *She looks tired.*
+- **Thứ tự OSASCOMP:** Opinion → Size → Age → Shape → Color → Origin → Material → Purpose — ví dụ: *a lovely small old red Italian leather bag.*
+- **Phân biệt -ed/-ing:** đuôi -ing mô tả tình huống gây cảm xúc; đuôi -ed mô tả cảm xúc của người — ví dụ: *The film is boring. I am bored.*
+- **Tính từ ghép:** dùng dấu gạch ngang khi đứng trước danh từ — ví dụ: *a five-year-old boy, a well-known singer.*
+- **Không thêm -s cho tính từ:** tính từ không biến đổi theo số — ví dụ: *good students* (không phải "goods students").
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 9 — Trạng Từ](../lesson_09_adverbs/lecture.md) — Phân biệt tính từ (adjective) và trạng từ (adverb) là điểm cốt lõi của cả hai bài.
+- [Bài 6 — Danh Từ](../lesson_06_nouns/lecture.md) — Tính từ bổ nghĩa cho danh từ; hiểu danh từ đếm được/không đếm được giúp chọn đúng tính từ đi kèm.
+- [Bài 12 — So Sánh Cơ Bản](../lesson_12_basic_comparisons/lecture.md) — So sánh hơn và so sánh nhất là ứng dụng nâng cao của tính từ.
+- [Bài 11 — Cấu Trúc Câu](../lesson_11_sentence_structure/lecture.md) — Bổ ngữ (complement) trong mô hình SVC thường là tính từ đứng sau linking verb.

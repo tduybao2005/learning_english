@@ -135,3 +135,38 @@ Trong IELTS Writing và văn học thuật, passive voice được dùng để:
 ❌ *I had my hair cutting.* → ✓ *I had my hair cut.*
 ❌ *She is being promoted next month.* → ✓ *She will be promoted* (future event, not being-in-progress)
 ❌ *The report needs submitting.* → ambiguous; better: *The report needs to be submitted.*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| The book was writing by Shakespeare. | The book was written by Shakespeare. | Passive voice dùng V3 (past participle), không dùng V-ing. |
+| She wants to promote before year end. | She wants to be promoted before year end. | "Muốn được thăng chức" = passive infinitive "to be promoted", không phải active. |
+| She is being promoted next month. | She will be promoted next month. | Sự kiện tương lai không thể dùng "is being + V3" (chỉ dùng cho hành động đang diễn ra). |
+| I had my hair cutting yesterday. | I had my hair cut yesterday. | Causative "have something done" dùng V3, không dùng V-ing. |
+| He avoided be seen at the party. | He avoided being seen at the party. | Sau preposition hoặc "avoid", dùng passive gerund "being + V3". |
+| It is believe that he stole money. | It is believed that he stole the money. | Impersonal passive: "It is believed/reported/suggested that..." — động từ ở dạng V3. |
+| He is believed to stolen the money. | He is believed to have stolen the money. | Subject + passive + perfect infinitive: "to have + V3", không bỏ "have". |
+| It has been suggested that he should resigns. | It has been suggested that he should resign. | Sau "should", dùng bare infinitive, không thêm "-s" hay "-ed". |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Impersonal passive:** "It is believed/reported/expected/suggested that..." — duy trì giọng khách quan học thuật trong IELTS Writing.
+- **Subject + passive + to infinitive:** "He is believed to have stolen the money." — cùng nghĩa với impersonal passive nhưng đặt trọng tâm vào chủ thể.
+- **Causative "Have something done":** S + have + O + V3 — nhờ người khác làm cho mình — e.g., "She had her hair cut."
+- **Passive gerund (being + V3):** Dùng sau preposition hoặc động từ cần gerund — e.g., "She hates being interrupted."
+- **Perfect passive infinitive:** "to have been + V3" — e.g., "The documents appear to have been altered."
+- **GET passive (informal):** "She got promoted." — dùng trong Speaking, tuyệt đối KHÔNG dùng trong IELTS Academic Writing.
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Phase 3 — Bài 1 — Passive Voice](../../phase_3_intermediate/lesson_01_passive_voice/lecture.md) — Ôn lại cấu trúc passive cơ bản theo tất cả thì trước khi học các dạng advanced passive.
+- [Bài 3 — Participle Clauses](../lesson_03_participle_clauses/lecture.md) — Past participle clause (V3) và "Having been + V3" liên quan trực tiếp đến passive participle.
+- [Phase 3 — Bài 6 — Gerunds & Infinitives](../../phase_3_intermediate/lesson_06_gerunds_infinitives/lecture.md) — Passive gerund (being + V3) và passive infinitive (to be + V3) cần nắm vững gerund/infinitive cơ bản.
+- [Phase 5 — Bài 3 — Writing Task 2](../../phase_5_ielts_prep/lesson_03_writing_task2_opinion_essay/lecture.md) — Impersonal passive là công cụ tạo giọng học thuật khách quan thiết yếu trong IELTS Writing.

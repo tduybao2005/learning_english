@@ -150,3 +150,38 @@ Một gốc từ có thể tạo ra nhiều loại từ:
 ❌ *The develop of technology is fast.* → ✓ *The development of technology is fast.*
 ❌ *He works hardly.* → ✓ *He works hard.* (hard là cả adj và adv)
 ❌ *She spoke very fastly.* → ✓ *She spoke very fast.* (fast không có -ly)
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| She is very beauty. | She is very beautiful. | "Beauty" là danh từ; sau "be" + "very" cần tính từ: "beautiful" |
+| The develop of technology is fast. | The development of technology is fast. | Sau mạo từ "The" cần danh từ: "development" |
+| He works hardly. | He works hard. | "Hard" vừa là tính từ vừa là trạng từ; "hardly" có nghĩa "hầu như không" |
+| She is very success in her career. | She is very successful in her career. | "Success" là danh từ; sau "be" + "very" cần tính từ: "successful" |
+| The teacher gave a usefull advice. | The teacher gave useful advice. | Spelling: "useful" không có double 'l'; và "advice" là uncountable |
+| He showed great courageousness. | He showed great courage. | "Courageousness" quá phức tạp; dùng danh từ gốc "courage" |
+| The informations were incorrect. | The information was incorrect. | "Information" là uncountable noun, không có số nhiều |
+| She has good knowledges about history. | She has good knowledge of history. | "Knowledge" là uncountable; và dùng "knowledge of" không phải "knowledge about" |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Nhận biết loại từ cần thiết trong câu:** sau "the" → danh từ; sau "be/feel/seem" → tính từ; bổ nghĩa động từ → trạng từ.
+- **Suffix tạo danh từ:** -tion/-sion (information), -ment (development), -ness (happiness), -er/-or (teacher), -ity (possibility).
+- **Suffix tạo tính từ:** -ful (useful), -less (helpless), -ous (dangerous), -al (national), -ive (creative), -able (comfortable).
+- **Suffix tạo trạng từ:** -ly (quickly, carefully) — lưu ý: "hard," "fast," "early" không thêm -ly.
+- **Prefix đổi nghĩa:** un- (unhappy), re- (redo), mis- (misunderstand), over- (overwork), pre- (prepaid).
+- **Quy tắc đánh vần:** bỏ -e cuối trước vowel suffix (create → creation); double consonant (run → running).
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Lesson 09: Basic Phrasal Verbs](../lesson_09_basic_phrasal_verbs/lecture.md) — Phrasal verbs thường tạo ra danh từ ghép: "break down" → "a breakdown."
+- [Phase 1 - Lesson 06: Nouns](../../phase_1_foundation/lesson_06_nouns/lecture.md) — Nắm vững các loại danh từ giúp áp dụng đúng suffix và quy tắc đếm được/không đếm được.
+- [Phase 1 - Lesson 08: Adjectives](../../phase_1_foundation/lesson_08_adjectives/lecture.md) — Tính từ là một trong bốn loại từ tạo ra bởi word formation.
+- [Phase 3 - Lesson 09: Nominalization](../../phase_3_intermediate/lesson_09_nominalization/lecture.md) — Danh từ hóa (nominalization) là ứng dụng nâng cao của word formation trong văn viết học thuật.

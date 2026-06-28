@@ -256,3 +256,37 @@ Modal + be + past participle
 | ought to | lời khuyên (trang trọng) | You ought to apologise. |
 | had better | lời khuyên có cảnh báo | You'd better hurry. |
 | used to | thói quen quá khứ (không còn nữa) | I used to play football. |
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| She can to swim very fast. | She can swim very fast. | Sau modal verb KHÔNG dùng "to" (dùng bare infinitive) |
+| He musts leave now. | He must leave now. | Modal verbs không chia theo ngôi, không thêm -s |
+| You don't must smoke here. | You mustn't smoke here. | "Mustn't" = cấm tuyệt đối; không nói "don't must" |
+| You don't have to go there — it's forbidden. | You mustn't go there — it's forbidden. | "Don't have to" = không cần thiết; "mustn't" = bị cấm |
+| I could finished the work yesterday. | I could have finished the work yesterday. | Modal + quá khứ = modal + have + V3 |
+| May I to borrow your pen? | May I borrow your pen? | Sau "may" không dùng "to" |
+| She should to rest more. | She should rest more. | Sau "should" không dùng "to" |
+| He might to come later. | He might come later. | Sau "might" không dùng "to" |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Không chia theo ngôi và thì:** Modal verbs (can, could, may, might, will, would, shall, should, must, ought to) không thêm -s/-ed.
+- **Sau modal: bare infinitive:** She can swim / He must leave / You should rest (không có "to").
+- **Must vs Have to:** "must" = bắt buộc từ nội tâm người nói; "have to" = bắt buộc do quy tắc bên ngoài.
+- **Mustn't vs Don't have to:** "mustn't" = tuyệt đối cấm; "don't have to" = không bắt buộc (nhưng có thể làm).
+- **Modal + have + V3 cho quá khứ:** "She could have won" (đáng lẽ đã thắng được) / "He must have left" (chắc đã đi rồi).
+- **Khả năng:** can (chắc chắn) > may (50%) > might (30%) > could (giả thuyết).
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Lesson 07: Question Formation](../lesson_07_question_formation/lecture.md) — Modal verbs đảo lên đầu câu để tạo câu hỏi Yes/No: "Can you help me?"
+- [Phase 3 - Lesson 02: Conditionals Type 1 & 2](../../phase_3_intermediate/lesson_02_conditionals_type1_2/lecture.md) — "Would" và "could" là thành phần chính trong mệnh đề kết quả của câu điều kiện.
+- [Phase 3 - Lesson 03: Conditionals Type 3 & Mixed](../../phase_3_intermediate/lesson_03_conditionals_type3_mixed/lecture.md) — "Would have + V3" sử dụng cấu trúc modal + have + V3.

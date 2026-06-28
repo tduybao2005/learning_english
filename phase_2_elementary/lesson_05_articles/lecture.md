@@ -216,3 +216,36 @@ Khi đề cập đến bất kỳ một thứ nào đó trong một nhóm:
 ⑧ Đã nhắc ở câu trước → **the**
 ⑨ Trước âm nguyên âm /e/ → **an**
 ⑩ Ngôn ngữ → **zero article**
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| She plays the piano beautiful. | She plays the piano beautifully. | Không liên quan mạo từ, nhưng đây: "piano" là nhạc cụ → dùng "the" ✓ |
+| He is engineer. | He is an engineer. | Nghề nghiệp sau "be" cần mạo từ a/an |
+| I have headache. | I have a headache. | Bệnh/triệu chứng cụ thể cần mạo từ a/an |
+| Can you pass the salt? (lần đầu đề cập) | Can you pass the salt? ✓ | Khi vật đó rõ ràng trong ngữ cảnh, "the" là đúng |
+| I visited the France last year. | I visited France last year. | Tên quốc gia không có "the" (trừ số nhiều: the Philippines) |
+| The music is my passion. | Music is my passion. | Sở thích/khái niệm chung → zero article |
+| She is a honest person. | She is an honest person. | "Honest" bắt đầu bằng nguyên âm /ɒ/ → dùng "an" |
+| I go to the work every day. | I go to work every day. | "Go to work" là cụm cố định → zero article |
+
+---
+
+## TÓM TẮT NHANH
+
+- **"a/an":** Dùng khi đề cập lần đầu, không xác định, nghề nghiệp — "She is a doctor."
+- **"the":** Dùng khi người nghe biết đó là gì, lần nhắc lại, duy nhất trên thế giới, tên sông/biển/dãy núi.
+- **Zero article (Ø):** Khái niệm chung (music, love, life), tên người/quốc gia/thành phố, "go to school/work/bed."
+- **"an" trước nguyên âm:** Xác định theo ÂM, không phải chữ cái — "an hour" (h câm), "a university" (/juː/).
+- **Thứ tự xác định:** Lần đầu nhắc → a/an; lần tiếp theo trong cùng văn bản → the.
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Lesson 04: Subject-Verb Agreement](../lesson_04_subject_verb_agreement/lecture.md) — Loại danh từ (đếm được/không đếm được) quyết định cả mạo từ lẫn chia động từ.
+- [Phase 1 - Lesson 06: Nouns](../../phase_1_foundation/lesson_06_nouns/lecture.md) — Hiểu danh từ đếm được/không đếm được là nền tảng để chọn đúng mạo từ.
+- [Phase 3 - Lesson 09: Nominalization](../../phase_3_intermediate/lesson_09_nominalization/lecture.md) — Danh từ hóa tạo ra nhiều danh từ mới cần áp dụng quy tắc mạo từ.

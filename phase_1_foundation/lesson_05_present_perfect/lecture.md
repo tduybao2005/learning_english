@@ -344,3 +344,38 @@ Chia động từ đúng — PP hay QKĐ?
 ---
 
 *Học xong bài này, hãy làm bài tập trong file exercise.md và ôn từ vựng trong vocabulary.md trước khi chuyển sang Bài 6.*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| I have gone to Da Nang last summer. | I went to Da Nang last summer. | "Last summer" là mốc thời gian xác định → phải dùng Simple Past. |
+| Did you ever eat sushi? | Have you ever eaten sushi? | "Ever" kết hợp với kinh nghiệm trong cuộc đời → dùng Present Perfect. |
+| She have finished her homework. | She has finished her homework. | Với she/he/it phải dùng "has", không dùng "have". |
+| I have go to school. | I have gone to school. | Sau "have/has" phải dùng V3 (past participle), không dùng động từ nguyên thể. |
+| I have lived here since 5 years. | I have lived here for 5 years. | "For" + khoảng thời gian (5 years); "since" + mốc thời gian cụ thể (2020). |
+| I have eaten already the cake. | I have already eaten the cake. | "Already" đứng giữa have/has và V3, không đứng giữa V3 và tân ngữ. |
+| They didn't arrive yet. | They haven't arrived yet. | "Yet" trong câu phủ định kết hợp với Present Perfect, không phải Simple Past. |
+| She has never been to Europe since her childhood. | She has never been to Europe. / She hasn't been to Europe since her childhood. | "Never" đã mang nghĩa phủ định; không dùng "never" kết hợp với "since" theo cách gây mâu thuẫn nghĩa. |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Cấu trúc:** S + have/has + V3 (past participle) — ví dụ: *She has finished the report.*
+- **Bốn cách dùng:** kinh nghiệm cuộc đời (ever/never), kết quả hiện tại (just/already/yet), thời gian kéo dài đến nay (for/since), tin tức mới nhất (recently/lately).
+- **Phân biệt have/has:** I/You/We/They → have; He/She/It → has.
+- **For vs Since:** "for 3 years" (khoảng thời gian kéo dài); "since 2020" (mốc thời gian bắt đầu).
+- **Khi nào KHÔNG dùng Present Perfect:** khi có từ chỉ thời gian cụ thể như yesterday, last week, in 2020 → dùng Simple Past thay thế.
+- **Vị trí từ khoá:** just/already/never đứng TRƯỚC V3; yet đứng CUỐI câu.
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 3 — Thì Quá Khứ Đơn](../lesson_03_simple_past/lecture.md) — Điểm khác biệt quan trọng nhất: Simple Past = thời điểm xác định; Present Perfect = kết nối với hiện tại.
+- [Bài 1 — Thì Hiện Tại Đơn](../lesson_01_simple_present/lecture.md) — Simple Present diễn tả trạng thái hiện tại; Present Perfect diễn tả quá trình dẫn đến trạng thái đó.
+- [Bài 9 — Trạng Từ](../lesson_09_adverbs/lecture.md) — Các trạng từ just, already, yet, never, recently đóng vai trò quan trọng trong Present Perfect.
+- [Bài 11 — Cấu Trúc Câu](../lesson_11_sentence_structure/lecture.md) — Câu phức với mệnh đề quan hệ (who/which/that) thường kết hợp với Present Perfect để mô tả kinh nghiệm.

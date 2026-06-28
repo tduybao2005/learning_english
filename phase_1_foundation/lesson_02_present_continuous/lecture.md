@@ -309,3 +309,38 @@ Dùng để mô tả những thay đổi đang diễn ra trong xã hội, cuộc
 
 > **Ghi nhớ số 1:** Stative verbs (know, love, want, need...) KHÔNG BAOGIO dùng -ing!
 > **Ghi nhớ số 2:** Kiểm tra quy tắc nhân đôi phụ âm trước khi thêm -ing!
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| He are working now. | He is working now. | Với he/she/it dùng "is", không dùng "are". |
+| She is play football. | She is playing football. | Sau am/is/are phải dùng dạng V-ing, không dùng nguyên thể. |
+| I am knowing the answer. | I know the answer. | "Know" là stative verb, không được dùng ở dạng -ing. |
+| He is runing fast. | He is running fast. | "Run" kết thúc bằng CVC, phải nhân đôi phụ âm cuối: running. |
+| She is makeing dinner. | She is making dinner. | "Make" kết thúc -e, bỏ -e trước khi thêm -ing: making. |
+| They are always talk loudly. | They are always talking loudly. | Dù với "always" vẫn phải dùng V-ing trong Present Continuous. |
+| She is wanting a new phone. | She wants a new phone. | "Want" là stative verb, dùng Simple Present, không dùng -ing. |
+| I am not liking this food. | I don't like this food. | "Like" là stative verb, không dùng dạng tiếp diễn. |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Cấu trúc:** S + am/is/are + V-ing — ví dụ: *She is studying now.*
+- **Bốn cách dùng:** hành động đang xảy ra ngay lúc nói, kế hoạch tương lai đã sắp xếp, xu hướng đang thay đổi, phàn nàn (always + V-ing).
+- **Quy tắc thêm -ing:** nhân đôi phụ âm cuối nếu từ kết thúc CVC (run→running), bỏ -e trước -ing (make→making), đổi -ie thành -y trước -ing (lie→lying).
+- **Stative verbs không dùng -ing:** know, believe, want, need, love, like, hate, understand, remember, hear, see (nghĩa trạng thái).
+- **Dấu hiệu nhận biết:** now, right now, at the moment, Look!, Listen!, currently, these days.
+- **Phân biệt với Simple Present:** Simple Present = thói quen; Present Continuous = đang xảy ra hoặc kế hoạch cụ thể.
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 1 — Thì Hiện Tại Đơn](../lesson_01_simple_present/lecture.md) — So sánh thói quen (Simple Present) với hành động đang diễn ra lúc này (Present Continuous).
+- [Bài 4 — Thì Tương Lai](../lesson_04_simple_future/lecture.md) — Present Continuous cũng dùng để diễn đạt kế hoạch tương lai đã sắp xếp.
+- [Bài 8 — Tính Từ](../lesson_08_adjectives/lecture.md) — Stative verbs liên quan đến tính chất trạng thái là lý do không dùng -ing với một số động từ.
+- [Bài 9 — Trạng Từ](../lesson_09_adverbs/lecture.md) — Trạng từ "always" kết hợp với Present Continuous tạo nghĩa phàn nàn.

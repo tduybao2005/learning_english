@@ -243,3 +243,38 @@ Người Việt hay nói "Tôi sẽ..." và dịch thẳng thành "I will..." ch
 | Lịch trình chính thức | **Simple Present** | The train leaves at 8. |
 
 > **Mẹo nhớ:** WILL = Vừa nghĩ ra / Chưa có kế hoạch / Cảm giác. GOING TO = Đã nghĩ từ trước / Đã quyết định / Nhìn thấy bằng chứng.
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| She will goes to school tomorrow. | She will go to school tomorrow. | Sau "will", luôn dùng động từ nguyên thể, không thêm -s/-es. |
+| I will go to the cinema — I already bought tickets. | I am going to the cinema — I already bought tickets. | Đã mua vé (kế hoạch có từ trước) → dùng going to hoặc Present Continuous, không dùng will. |
+| She is going to to study English. | She is going to study English. | Sau "going to" chỉ cần động từ nguyên thể, không thêm "to" thứ hai. |
+| I go to Hanoi next week. | I am going to go to Hanoi next week. | Không dùng Simple Present cho kế hoạch tương lai (trừ lịch trình cố định). |
+| Look at the clouds! It will rain. | Look at the clouds! It is going to rain. | Có bằng chứng rõ ràng (nhìn thấy mây đen) → dùng going to, không dùng will. |
+| Shall she help us? | Will she help us? | "Shall" chỉ dùng với I và We để đề nghị, không dùng với she/he/they. |
+| I am going to probably pass. | I will probably pass. | Dự đoán dựa trên ý kiến cá nhân → dùng will, thường đi kèm "probably". |
+| She will to call you later. | She will call you later. | Sau "will" không thêm "to" — dùng thẳng động từ nguyên thể. |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Will:** dùng cho quyết định tức thì, dự đoán không có bằng chứng, lời hứa, đề nghị — ví dụ: *I'll help you.*
+- **Going to:** dùng cho kế hoạch đã quyết định từ trước, dự đoán có bằng chứng trước mắt — ví dụ: *I'm going to study medicine.*
+- **Present Continuous cho tương lai:** kế hoạch đã đặt lịch, hẹn trước với người khác — ví dụ: *I'm meeting the doctor tomorrow.*
+- **Be about to:** việc sắp xảy ra ngay lập tức — ví dụ: *The train is about to leave.*
+- **Simple Present cho tương lai:** chỉ dùng cho lịch trình chính thức cố định — ví dụ: *The bus leaves at 8 am.*
+- **Mẹo nhớ:** WILL = vừa nghĩ ra; GOING TO = đã nghĩ từ trước hoặc nhìn thấy bằng chứng ngay lúc này.
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 1 — Thì Hiện Tại Đơn](../lesson_01_simple_present/lecture.md) — Lịch trình cố định dùng Simple Present để diễn tả tương lai (the bus leaves at 8).
+- [Bài 2 — Thì Hiện Tại Tiếp Diễn](../lesson_02_present_continuous/lecture.md) — Present Continuous cũng dùng cho kế hoạch tương lai đã sắp xếp cụ thể.
+- [Bài 3 — Thì Quá Khứ Đơn](../lesson_03_simple_past/lecture.md) — Nắm cả ba thì (quá khứ, hiện tại, tương lai) để chuyển đổi linh hoạt trong hội thoại.
+- [Bài 11 — Cấu Trúc Câu](../lesson_11_sentence_structure/lecture.md) — Câu điều kiện loại 1 (if + Simple Present + will) thường gặp khi nói về tương lai.

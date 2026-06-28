@@ -308,3 +308,37 @@ Trước khi nộp bài, kiểm tra:
 ---
 
 *Bài tiếp theo: Bài 9 — Academic Essay Writing (IELTS Writing Task 2)*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| Technology is useful. However, it has risks. However, regulation helps. However, users must be aware. | Technology is useful. However, it carries risks. Notwithstanding these concerns, regulation can mitigate harm. Users, nonetheless, must remain vigilant. | Không dùng "However" liên tiếp nhiều câu — thay bằng nevertheless, notwithstanding, even so, yet. |
+| "Some say it's harmful. On the contrary, it has some benefits." | "Some say it's harmful. That said / However, it does have benefits." | "On the contrary" chỉ dùng khi phủ nhận HOÀN TOÀN ý trước — không dùng cho contrast đơn giản. |
+| "Technology is useful. Furthermore, pollution is a problem." | "Technology is useful. Furthermore, it has democratised access to information." | Chỉ dùng connector khi hai ý thực sự có quan hệ logic — "furthermore" không nối hai ý không liên quan. |
+| "Social media is popular. Social media has advantages. Social media can..." | "Social media is popular. Such platforms offer advantages. This medium, however, can..." | Tránh lặp noun — dùng reference devices: such + noun, this + summary noun, these networks. |
+| "Governments should invest more. This is important." | "Governments should invest more. This commitment is essential." | "This" vague cần được theo sau bởi summary noun cụ thể để clarity. |
+| In conclusion, to sum up, this essay has discussed... | In the final analysis, the evidence strongly supports... | "To sum up" và "this essay has discussed" là informal và yếu — tránh bắt đầu conclusion như vậy. |
+| "The benefits are economic, they help society, and helping the environment." | "The benefits are economic, social, and environmental." | Parallel structure: danh sách phải cùng loại từ (adjectives, không mix noun/clause). |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Thay thế "however":** nevertheless, nonetheless, even so, that said, all the same, yet, notwithstanding this — chọn theo mức độ contrast.
+- **Thay thế "furthermore/in addition":** moreover, what is more, over and above this, beyond that, by the same token, equally importantly.
+- **Thay thế "for example":** to illustrate, a case in point is, as evidenced by, as exemplified by, a prime illustration of this is.
+- **Reference devices:** the former/latter; such + noun; this/these + summary noun (phenomenon, trend, shift, challenge, disparity, mechanism).
+- **Hedging:** may/might/could, arguably, apparently, seem to, tend to, in all likelihood — không tuyệt đối hóa điều không chắc chắn.
+- **Parallel structure:** danh sách 3 items phải cùng dạng ngữ pháp — "reduce costs, improve efficiency, and create jobs."
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Phase 3 — Bài 11 — Discourse Markers](../../phase_3_intermediate/lesson_11_discourse_markers/lecture.md) — Bài nền tảng về từ nối cơ bản (however, furthermore, therefore) trước khi học advanced cohesive devices.
+- [Bài 9 — Academic Essay Writing](../lesson_09_academic_essay_writing/lecture.md) — Coherence & Cohesion chiếm 25% điểm IELTS Writing — bài này cung cấp framework để ứng dụng cohesive devices.
+- [Bài 2 — Câu Chẻ](../lesson_02_cleft_sentences/lecture.md) — IT-cleft và WH-cleft là cohesive devices nâng cao giúp quản lý information focus trong đoạn văn.
+- [Phase 5 — Bài 3-4 — Writing Task 2](../../phase_5_ielts_prep/lesson_03_writing_task2_opinion_essay/lecture.md) — Áp dụng trực tiếp tất cả cohesive devices vào bài thi IELTS Writing Task 2 thực tế.

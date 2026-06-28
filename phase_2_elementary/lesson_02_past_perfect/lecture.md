@@ -308,3 +308,38 @@ Khi chuyển từ câu trực tiếp sang gián tiếp (reported speech), các t
 ---
 
 > **MẸO HỌC:** Hãy nghĩ Past Perfect như một "nhãn thời gian" đặt trước sự kiện. Khi bạn viết "She had eaten", bạn đang nói "Hành động ăn đã xong TRƯỚC điểm tham chiếu trong quá khứ." Hỏi bản thân: "Trong câu này, hành động nào xảy ra TRƯỚC?" — Hành động đó dùng Past Perfect.
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| She had went to the store. | She had gone to the store. | "Go" là động từ bất quy tắc: go → went → gone (V3) |
+| By the time he arrived, I already left. | By the time he arrived, I had already left. | Hành động xảy ra TRƯỚC cần dùng Past Perfect |
+| I had never seen that movie before yesterday. | I had never seen that movie before yesterday. ✓ | Đúng rồi — "never" + QKHT cho trải nghiệm trước mốc QK |
+| He didn't had eaten breakfast. | He hadn't eaten breakfast. | Phủ định: hadn't + V3, không dùng didn't had |
+| Had she finished the report? Yes, she haved. | Had she finished the report? Yes, she had. | Trả lời ngắn chỉ dùng "had", không thêm "-d" hay "-ve" |
+| After I had eaten, I go to bed. | After I had eaten, I went to bed. | Mệnh đề chính phải dùng Past Simple, không dùng Present |
+| They have arrived before us. | They had arrived before us. | Đang nói về quá khứ → dùng Past Perfect, không phải Present Perfect |
+| I had study English for five years. | I had studied English for five years. | Cần dạng V3: studied |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Cấu trúc:** S + had + V3 (past participle) — "She had finished the homework."
+- **Ý nghĩa cốt lõi:** Hành động xảy ra TRƯỚC một hành động khác trong quá khứ — "He had left before I arrived."
+- **Từ khóa nhận biết:** before, after, when, by the time, already, just, never, yet, once.
+- **Phân biệt với Past Simple:** QKHT (had + V3) = hoàn tất TRƯỚC; Past Simple = chuỗi sự kiện tuần tự.
+- **Câu điều kiện loại 3:** If + Past Perfect, would have + V3 — "If I had studied, I would have passed."
+- **Reported Speech:** "I have eaten" (trực tiếp) → "She said she had eaten" (gián tiếp).
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Lesson 01: Past Continuous](../lesson_01_past_continuous/lecture.md) — Hai thì quá khứ này thường kết hợp để kể chuyện; Past Continuous làm nền, Past Perfect chỉ hành động hoàn tất trước đó.
+- [Lesson 03: Future Perfect Continuous](../lesson_03_future_perfect_continuous/lecture.md) — Cùng cấu trúc "perfect" nhưng ở tương lai.
+- [Phase 3 - Lesson 03: Conditionals Type 3 & Mixed](../../phase_3_intermediate/lesson_03_conditionals_type3_mixed/lecture.md) — Past Perfect là thành phần bắt buộc của câu điều kiện loại 3.
+- [Phase 3 - Lesson 05: Reported Speech](../../phase_3_intermediate/lesson_05_reported_speech/lecture.md) — Past Perfect xuất hiện trong backshifting khi tường thuật lời nói.
