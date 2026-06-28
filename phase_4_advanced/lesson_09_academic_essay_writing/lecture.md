@@ -387,3 +387,37 @@ Hedging rất quan trọng trong học thuật. Không tuyệt đối hoá.
 ---
 
 *Bài tiếp theo → Bài 10: AWL Mastery — Thành thạo Academic Word List*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| "Nowadays, many people think that technology is changing our lives." | "The rapid proliferation of digital technology has fundamentally transformed modern life." | "Nowadays, many people think that..." là hook yếu nhất — examiners nhận ra ngay và đánh giá thấp. |
+| "This essay will discuss both sides of social media." | "Although social media facilitates connectivity, its unregulated use poses considerable risks to adolescent mental health." | Thesis phải có lập trường rõ ràng, không chỉ thông báo chủ đề sẽ bàn. |
+| "Technology destroys creativity and social relationships." | "Technology may undermine creative development and could erode face-to-face social bonds in certain contexts." | Tuyệt đối hóa (destroys) không phù hợp academic writing — phải dùng hedging. |
+| (Đoạn văn bắt đầu bằng ví dụ ngay) "For example, in Finland, students use technology..." | "Technology has enhanced learning outcomes for students. For example, in Finland, personalised learning platforms..." | Mỗi đoạn phải bắt đầu bằng topic sentence (luận điểm), không bắt đầu bằng ví dụ. |
+| (Đưa bằng chứng nhưng không giải thích) "A study found 60% of teens use social media 3+ hours daily. This is bad." | "A study found... This correlation can be attributed to constant exposure to idealised portrayals, which fosters unrealistic social comparisons." | Bằng chứng PHẢI được giải thích — tại sao nó hỗ trợ luận điểm? |
+| (Kết bài) "In conclusion, as I mentioned in the introduction, technology is good and bad." | "In the final analysis, the evidence suggests technology, while transformative, must be deployed with pedagogical intentionality." | Kết bài không được chép lại mở bài — phải paraphrase và thêm broader significance. |
+| (Kết bài) "In conclusion, governments should also invest in mental health support, which is another important issue." | Không đưa luận điểm mới vào kết bài — chỉ tổng kết và restate thesis. | Ý mới trong kết bài không được phát triển → làm mất cân đối và giảm điểm Task Achievement. |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Cấu trúc bài:** Introduction (Hook + Background + Thesis) → Body × 2 (PEEL) → Conclusion (Restate + Summary + Broader significance).
+- **Thesis tốt:** Specific + Arguable + One clear claim — mẫu: "Although [concession], [position] because [reason 1] and [reason 2]."
+- **PEEL paragraph:** Point (topic sentence) → Evidence (data/example) → Explain (tại sao evidence hỗ trợ point?) → Link (kết nối lại thesis).
+- **Hook cần tránh:** "Nowadays...", "In today's modern world...", "Since ancient times...", "This essay will discuss..." — tất cả đều yếu và không học thuật.
+- **Hedging bắt buộc:** Không tuyệt đối hóa — dùng: may, might, tend to, appear to, suggest, indicate, in many cases, generally.
+- **Kết bài:** Không có ý mới; paraphrase thesis bằng từ ngữ khác; kết bằng broader implication hoặc recommendation.
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 8 — Cohesive Devices](../lesson_08_cohesive_devices/lecture.md) — Coherence & Cohesion chiếm 25% điểm IELTS Writing — nắm vững cohesive devices trước khi viết bài hoàn chỉnh.
+- [Bài 10 — AWL Mastery](../lesson_10_awl_mastery/lecture.md) — Từ vựng học thuật AWL nâng chất lượng bài viết từ band 6 lên band 7+ về Lexical Resource.
+- [Phase 5 — Bài 3 — Writing Task 2 Opinion Essay](../../phase_5_ielts_prep/lesson_03_writing_task2_opinion_essay/lecture.md) — Áp dụng toàn bộ kỹ năng academic writing vào dạng bài "to what extent do you agree or disagree."
+- [Phase 5 — Bài 4 — Writing Task 2 Discussion Essay](../../phase_5_ielts_prep/lesson_04_writing_task2_discussion_essay/lecture.md) — Mở rộng sang dạng "discuss both views and give your own opinion" với cấu trúc và chiến lược riêng.

@@ -469,3 +469,37 @@ Dùng idioms với confidence nhưng sau đó phát triển ý bằng academic l
 ---
 
 *Bài tiếp theo: Bài 8 — Advanced Cohesive Devices*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| Urbanisation is a blessing in disguise. (trong IELTS Writing Task 2) | Urbanisation has generated both opportunities and challenges. | Idiom là informal — tuyệt đối không dùng trong IELTS Writing Task 1 hoặc Task 2. |
+| "I want to use the idiom 'once in a blue moon' — I rarely go." | "I rarely go to the cinema — maybe once in a blue moon." | Đừng báo trước idiom; tích hợp tự nhiên vào câu như một phần bình thường. |
+| "This problem costs an arm and a leg for society." | "Addressing this problem requires considerable financial resources." | Idiom về tiền không phù hợp với ngữ cảnh xã hội — chọn idiom đúng ngữ cảnh. |
+| "He has a thick skin" = dễ bị tổn thương. | "He has a thick skin" = không bị tổn thương dễ dàng, chịu đựng được chỉ trích. | Học đúng nghĩa bóng của idiom — không dịch nghĩa đen. |
+| Dùng 4–5 idioms liên tiếp trong một lượt nói Speaking. | Dùng tối đa 1–2 idioms mỗi phần thi Speaking, phân bổ đều. | Nhồi nhét idiom khiến bài nói gượng ép — chất lượng quan trọng hơn số lượng. |
+| "I think sitting on the fence is good sometimes." (không giải thích) | "I think sitting on the fence on controversial issues — deliberately avoiding commitment — can sometimes be strategically necessary." | Sau idiom nên paraphrase ngay để đảm bảo examiner hiểu ý và thấy bạn dùng có chủ ý. |
+| "At the end of the day, in the end, sooner or later, things will work out." | "At the end of the day, consistent effort yields results." | Không nhồi nhiều idiom/cụm cố định trong một câu ngắn. |
+
+---
+
+## TÓM TẮT NHANH
+
+- **IELTS Writing Task 1 & 2:** Tuyệt đối KHÔNG dùng idiom — sai register, sẽ hạ điểm Lexical Resource ngay lập tức.
+- **IELTS Speaking:** Idiom được dùng có chọn lọc — tối đa 1–2 idiom mỗi phần thi, phải tự nhiên và đúng ngữ cảnh.
+- **Band Descriptors:** Band 7 yêu cầu "some less common and idiomatic vocabulary"; Band 8 yêu cầu "uses idiomatic vocabulary skilfully."
+- **Tích hợp tự nhiên:** Không báo trước idiom; dùng ở cuối câu như comment; có thể paraphrase ngay sau để đảm bảo clarity.
+- **10 idiom tốt nhất để bắt đầu:** at the end of the day, without a shadow of a doubt, a blessing in disguise, tip of the iceberg, the elephant in the room, think outside the box, go the extra mile, a step in the right direction, when push comes to shove, make ends meet.
+- **Học nghĩa bóng:** Không dịch nghĩa đen — "a thick skin" ≠ "da dày"; "sit on the fence" ≠ "ngồi trên hàng rào".
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 6 — Vocabulary Nuances](../lesson_06_vocabulary_nuances/lecture.md) — Idiom là ngôn ngữ với register và connotation riêng — hiểu sắc thái từ giúp dùng idiom đúng ngữ cảnh.
+- [Phase 2 — Bài 9 — Basic Phrasal Verbs](../../phase_2_elementary/lesson_09_basic_phrasal_verbs/lecture.md) — Phrasal verbs là bước đệm từ từ đơn sang idiom colloquial trong tiếng Anh thông thường.
+- [Phase 3 — Bài 7 — Advanced Phrasal Verbs](../../phase_3_intermediate/lesson_07_advanced_phrasal_verbs/lecture.md) — Phrasal verbs nâng cao giáp ranh với idiom — cùng thuộc informal/semi-formal register.
+- [Phase 5 — Bài 6 — Speaking Part 1 & 2](../../phase_5_ielts_prep/lesson_06_speaking_part1_2/lecture.md) — Áp dụng trực tiếp idiom vào kỹ năng Speaking IELTS — nơi idiom được phép và đánh giá cao.

@@ -285,3 +285,38 @@ Kết hợp với phủ định để làm rõ sự đối lập:
 - WH-cleft rất tự nhiên trong Speaking: "What I think is..."
 - IT-cleft dùng để phản bác: "It is not X but Y that..."
 - Luyện nói to với ngữ điệu đặt vào phần được nhấn mạnh
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| It was Einstein which developed the theory. | It was Einstein who developed the theory. | Khi nhấn mạnh người, dùng "who" hoặc "that", KHÔNG dùng "which". |
+| What we need are long-term solutions. | What we need is a long-term solution. | "What" làm chủ ngữ số ít → động từ phải chia số ít (is/was). |
+| It is in 1939 that the war begins. | It was in 1939 that the war began. | Thì phải nhất quán: sự kiện trong quá khứ → "It was...that...V-past". |
+| What he did was denying the allegations. | What he did was (to) deny the allegations. | Trong All-cleft, động từ sau "was" là bare infinitive hoặc to-infinitive, KHÔNG phải -ing. |
+| It is coffee that I drink every morning. | (Dùng câu bình thường) I drink coffee every morning. | Chỉ dùng câu chẻ khi thông tin thực sự cần nhấn mạnh và đối lập với lựa chọn khác. |
+| It is poverty which drive crime. | It is poverty that drives crime. | Sau "it is...that", động từ chia theo chủ ngữ thực ("poverty" = số ít → "drives"). |
+| What governments need to do are reform policies. | What governments need to do is reform policies. | "What...do" là cụm danh từ số ít → động từ be phải là "is". |
+| It was the government that have introduced the policy. | It was the government that introduced the policy. | "that" trong IT-cleft đòi hỏi động từ chia theo thì của câu gốc, không thêm trợ động từ. |
+
+---
+
+## TÓM TẮT NHANH
+
+- **IT-cleft (It is/was X that/who Y):** Nhấn mạnh một phần cụ thể — chủ ngữ, túc ngữ, thời gian, nơi chốn; dùng để mở đầu đoạn văn ấn tượng.
+- **WH-cleft (What X is/was Y):** Nhấn mạnh thông tin mới hoặc giải pháp — thường dùng ở cuối đoạn dẫn đến kết luận.
+- **Reversed WH-cleft (Y is what X):** Đặt thông tin quan trọng nhất lên đầu câu để tăng tính nhấn mạnh.
+- **All-cleft (What S did was (to) V):** Nhấn mạnh hành động; động từ sau "was" là bare infinitive hoặc to-infinitive, KHÔNG phải -ing.
+- **"who" vs. "that":** Người → who hoặc that; vật/khái niệm → that hoặc which (formal); thời gian/nơi chốn → that.
+- **Giới hạn sử dụng:** Tối đa 2–3 câu chẻ trong bài 250 từ; chỉ dùng khi thông tin thực sự cần được nhấn mạnh so với các lựa chọn khác.
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 1 — Đảo Ngữ](../lesson_01_inversion/lecture.md) — Cũng là kỹ thuật nhấn mạnh cấu trúc câu; kết hợp với câu chẻ để tạo variety trong bài viết.
+- [Bài 8 — Cohesive Devices](../lesson_08_cohesive_devices/lecture.md) — IT-cleft và WH-cleft là công cụ quản lý thông tin (information focus) quan trọng trong cohesion.
+- [Phase 3 — Bài 4 — Relative Clauses](../../phase_3_intermediate/lesson_04_relative_clauses/lecture.md) — Câu chẻ IT-cleft dùng mệnh đề quan hệ "that/who/which" — cần nắm vững relative clauses trước.
+- [Phase 5 — Bài 3 — Writing Task 2 Opinion Essay](../../phase_5_ielts_prep/lesson_03_writing_task2_opinion_essay/lecture.md) — Câu chẻ dùng làm topic sentence ấn tượng và counter-argument trong bài luận IELTS.

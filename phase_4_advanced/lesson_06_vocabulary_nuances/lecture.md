@@ -147,3 +147,38 @@ it is claimed that / it has been argued that / according to / as X suggests
 
 **Register awareness:** Biết khi nào dùng formal vs informal
 - Báo cáo IELTS Task 2: *"This is detrimental to..."* KHÔNG phải *"This is bad for..."*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| She is very furious about the decision. | She is furious about the decision. | "Furious" đã hàm nghĩa cực kỳ tức giận — thêm "very" là redundant và kém tự nhiên. |
+| He is stubborn about achieving his goals. | He is determined to achieve his goals. | Cùng tính cách nhưng "stubborn" mang connotation tiêu cực, "determined" tích cực — chọn theo luận điểm. |
+| The data shows that pollution is increasing. | The data demonstrates/indicates that pollution is increasing. | "Show" quá đơn giản trong academic writing; "demonstrate/indicate" học thuật và chính xác hơn. |
+| Scientists claim that CO₂ causes global warming. | Scientists demonstrate/confirm that CO₂ causes global warming. | "Claim" ngụ ý nghi ngờ về độ chính xác; không phù hợp khi tác giả đồng ý với ý kiến đó. |
+| It is definitely possible that prices may rise. | It is possible that prices may rise. | "Definitely possible" mâu thuẫn — "definitely" = chắc chắn, "possible" = có thể. |
+| She is very economic with her spending. | She is very economical with her spending. | "Economic" = thuộc về kinh tế học; "economical" = tiết kiệm, chi tiêu hợp lý. |
+| The boss told them to get the job done. | The manager instructed the team to complete the task. | "Boss/told/get the job done" là informal — không phù hợp với IELTS Writing Task 2. |
+| He is very slim but she is very scrawny. | He is slim but she is scrawny. | "Slim" có connotation tích cực; "scrawny" có connotation tiêu cực — chọn từ phù hợp với nghĩa định nói. |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Connotation tích cực/tiêu cực:** Cùng một tính cách có thể mô tả bằng từ tích cực (determined, thrifty, assertive) hoặc tiêu cực (stubborn, miserly, aggressive) — chọn từ phục vụ luận điểm.
+- **Intensity gradient:** Học chuỗi từ nhẹ đến mạnh — sad → distressed → devastated → inconsolable; không thêm "very" trước từ đã mang nghĩa cực độ.
+- **Register pyramid:** Formal academic (demonstrate, utilise, significant) > Semi-formal > Informal (show, use, big) — IELTS Writing Task 2 yêu cầu formal hoặc semi-formal.
+- **Hedging vocabulary:** Mức chắc chắn — definitely > probably > possibly > apparently — dùng đúng mức độ, không tuyệt đối hóa trong học thuật.
+- **Strong adjectives không cần "very":** furious, devastated, ecstatic, terrified, astounded — đã hàm nghĩa cực độ.
+- **Verbs of speaking:** Chọn đúng connotation — "claim" (nghi ngờ), "declare" (chính thức), "boast" (khoe khoang), "insist" (khăng khăng) — không dùng "say" trong mọi trường hợp.
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 10 — AWL Mastery](../lesson_10_awl_mastery/lecture.md) — AWL là kho từ vựng học thuật quan trọng nhất — kết hợp với sắc thái từ để chọn đúng từ đúng ngữ cảnh.
+- [Phase 3 — Bài 8 — Collocations](../../phase_3_intermediate/lesson_08_collocations/lecture.md) — Sắc thái từ và collocation liên quan chặt chẽ — dùng đúng từ cũng phải đi với đúng collocation.
+- [Bài 8 — Cohesive Devices](../lesson_08_cohesive_devices/lecture.md) — Hedging language trong bài 8 mở rộng từ mục "mức độ chắc chắn" của bài này.
+- [Phase 3 — Bài 12 — AWL Introduction](../../phase_3_intermediate/lesson_12_awl_introduction/lecture.md) — Bài nền tảng về AWL trước khi học sắc thái từ nâng cao và collocation chính xác.
