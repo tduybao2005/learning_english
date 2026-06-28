@@ -295,6 +295,27 @@ _______________
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+Writing an effective academic essay demands a clear understanding of both structure and argumentation. The (G1) ______ serves as the essay's foundation, establishing context and signalling the writer's central position on the issue. A strong (G2) ______ statement does more than simply announce a topic; it advances a precise, arguable claim that the body paragraphs will subsequently develop with evidence and analysis. Each body paragraph should open with a clear (G3) ______ sentence that introduces the paragraph's central argument, followed by concrete (G4) ______ in the form of data, research, or specific examples. The writer must then provide a detailed (G5) ______ of how this evidence supports the broader thesis, avoiding the common error of allowing evidence to speak for itself without analytical commentary. The paragraph concludes with a (G6) ______ sentence that reinforces the argument and transitions toward the next point. A well-crafted (G7) ______ does not merely summarise the essay's content; it restates the thesis in fresh language and offers a broader (G8) ______ that reflects the significance of the argument in a wider context. Throughout the essay, the writer should employ appropriate (G9) ______ language — such as "it may be argued" or "evidence suggests" — to avoid overstating claims. Finally, maintaining a consistently (G10) ______ register, free from contractions and colloquialisms, is essential for achieving the highest band scores in IELTS Academic Writing.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. What do you consider to be the most common structural weaknesses in IELTS Writing Task 2 essays at the Band 5–6 level?
+2. Why is it important for a thesis statement to be arguable rather than simply a statement of fact?
+3. How does applying the PEEL structure consistently help learners develop more disciplined and analytical academic writing?
+4. In what ways does appropriate hedging language contribute to the academic credibility and persuasiveness of an essay?
+
+**Model answer (Band 7–8):** *The most fundamental distinction between Band 6 and Band 7 academic essays lies not in the complexity of ideas but in the precision and discipline of their organisation. A compelling thesis statement establishes an arguable, specific position that guides every subsequent paragraph; without it, even well-researched body paragraphs tend to feel disconnected and purposeless. Moreover, applying the PEEL structure consistently ensures that evidence is never presented in isolation but is always accompanied by the analytical commentary that transforms raw information into persuasive argument. In essence, academic essay writing rewards not those who think the most, but those who structure their thinking most rigorously.*
+
+---
+
 ## ĐÁP ÁN VÀ NHẬN XÉT
 
 ---
@@ -391,3 +412,17 @@ _______________
 ---
 
 *Hoàn thành bài tập → Xem bài tiếp theo: Bài 10 — AWL Mastery*
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. introduction  G2. thesis  G3. topic  G4. evidence  G5. explanation
+G6. clincher  G7. conclusion  G8. implication  G9. hedging  G10. formal
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Vận dụng đúng cấu trúc PEEL: topic sentence → evidence → explanation → clincher, với mỗi thành phần đảm nhận đúng vai trò
+- Thesis statement arguable và cụ thể, không chỉ thông báo chủ đề
+- Sử dụng hedging language phù hợp (may, suggest, indicate, appear to) và formal register nhất quán

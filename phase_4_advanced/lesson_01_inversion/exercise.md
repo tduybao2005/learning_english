@@ -214,6 +214,27 @@ _______________________________________________
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+(G1) ______ before in recorded history have global temperatures risen so rapidly within a single century. So severe (G2) ______ the projected consequences that even the most optimistic climate models predict significant agricultural disruption. Only through immediate and coordinated international action (G3) ______ the worst scenarios be averted. No sooner had one region introduced carbon-pricing mechanisms (G4) ______ neighbouring economies began reassessing their own emissions policies. Not only (G5) ______ these policies alter energy markets, but they also prompted major shifts in investment away from fossil fuels. (G6) ______ governments to have implemented such measures decisively decades ago, the current crisis would be considerably less severe. Under no circumstances (G7) ______ policymakers allow short-term economic pressures to override the long-term imperative of environmental sustainability. (G8) ______ there be any relaxation of international targets, the consequences for future generations would be irreversible. Seldom (G9) ______ societies confronted a challenge so complex and so urgent simultaneously. Rarely (G10) ______ the decisions of one generation carried such profound consequences for those that follow.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. To what extent do you think formal grammatical structures such as inversion enhance the persuasiveness of academic writing?
+2. Some argue that complex grammar can make writing seem artificial and forced. Do you agree with this view?
+3. How might mastery of inversion structures give IELTS candidates a competitive advantage in Writing Task 2?
+4. Should advanced grammar structures like inversion be explicitly taught at secondary school level, or only in higher education contexts?
+
+**Model answer (Band 7–8):** *Mastering formal inversion structures undeniably enhances the sophistication and persuasive force of academic writing. Never should such structures be dismissed as mere stylistic ornamentation; they signal precision, control, and a nuanced command of register. Not only do inverted constructions allow writers to foreground key information more emphatically, but they also demonstrate the kind of lexicogrammatical range that IELTS examiners actively reward at Band 7 and above. Were students to practise these structures systematically from an early stage, their written output would be considerably more compelling and academically credible.*
+
+---
+
 # ĐÁP ÁN (ANSWER KEY)
 
 ## PHẦN A
@@ -339,3 +360,17 @@ D6. exacerbate  |  D7. mitigate  |  D8. formidable  |  D9. curtail  |  D10. tenu
 3. Not only does climate change require..., but it also demands... (Not only + does) ✓
 4. Only through the convergence... can meaningful progress... (Only through + can) ✓
 5. Were humanity to rely... (Were + S + to) ✓ **(bonus — 5 cấu trúc)**
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. Never  G2. are  G3. can  G4. than  G5. do
+G6. Had  G7. should  G8. Should  G9. have  G10. have
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Ít nhất 3–4 cấu trúc đảo ngữ chính xác (Never, Not only...but, Were, Should) được dùng tự nhiên
+- Từ vựng học thuật phong phú phù hợp với chủ đề được chọn
+- Lập luận mạch lạc, nhất quán với academic register

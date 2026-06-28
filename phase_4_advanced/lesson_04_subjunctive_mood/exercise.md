@@ -86,6 +86,27 @@ Write a formal paragraph (80-100 words) making 3 recommendations about how to im
 Starter: "In order to improve the quality of higher education, several measures are recommended. First, it is essential that..."
 
 ---
+
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+International health organisations consistently recommend that member states (G1) ______ minimum standards of sanitation across all public health facilities. It is essential that every hospital (G2) ______ equipped with adequate emergency resources before any crisis occurs. The WHO has proposed that a global pandemic response fund (G3) ______ established to enable faster resource deployment in affected regions. It is crucial that all frontline healthcare workers (G4) ______ trained in the latest infection prevention protocols. Existing regulations stipulate that any new pharmaceutical product (G5) ______ subjected to at least three years of rigorous clinical evaluation. Experts insist that governments (G6) ______ investment in preventative care above acute crisis management. It is imperative that public health infrastructure (G7) ______ treated as a matter of national security, not merely a budgetary concern. If the international community (G8) ______ to take these recommendations seriously, millions of preventable deaths could be avoided each year. The committee demanded that all trial results (G9) ______ independently verified before any policy changes (G10) ______ implemented at scale.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Do you think the subjunctive mood is gradually disappearing from modern English? What evidence can you give to support your view?
+2. In what formal contexts — legal, academic, medical — is the mandative subjunctive especially important?
+3. Why do many learners of English as a foreign language struggle with the mandative subjunctive in formal recommendations?
+4. How does using the subjunctive in professional writing affect the overall tone and authority of the text?
+
+**Model answer (Band 7–8):** *The subjunctive mood remains an essential feature of formal and academic English, particularly in contexts requiring precise, authoritative expression of recommendations or requirements. It is essential that all advanced learners be exposed to its mandative forms, as these structures are prevalent in legal documentation, academic policy writing, and professional correspondence. The subjunctive conveys a level of formality and institutional authority that indicative equivalents cannot replicate. Were its use to be neglected in formal English instruction, learners would risk producing writing that falls short of the register expected at IELTS Band 7 and above.*
+
+---
 ## ANSWER KEY
 
 **Section A:**
@@ -111,3 +132,17 @@ Starter: "In order to improve the quality of higher education, several measures 
 
 **Section D:**
 1. essential / be  2. be  3. rest  4. sign / be  5. be / be
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. maintain  G2. be  G3. be  G4. be  G5. be
+G6. prioritise  G7. be  G8. were  G9. be  G10. be
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Sử dụng đúng mandative subjunctive (bare infinitive sau "that") trong ít nhất 2–3 cấu trúc khuyến nghị
+- Phân biệt rõ giữa "were + to-infinitive" (conditional) và "be/verb (base form)" (mandative)
+- Formal academic register, hedging phù hợp khi trình bày ý kiến cá nhân

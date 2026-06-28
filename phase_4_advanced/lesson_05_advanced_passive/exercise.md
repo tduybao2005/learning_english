@@ -87,6 +87,27 @@ Rewrite each sentence in a more academic style using impersonal passive:
    → _______________
 
 ---
+
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+It is widely (G1) ______ that artificial intelligence represents the most transformative technological force of the twenty-first century. Millions of existing jobs are widely (G2) ______ to be automated within the next two decades, particularly in manufacturing and data processing. It has been (G3) ______ that economies failing to invest in workforce retraining will face severe structural unemployment. Several major corporations have recently (G4) ______ their customer service operations redesigned by specialist AI development firms. Workers in vulnerable sectors are widely (G5) ______ to require substantial support from both governments and employers if they are to adapt successfully. The economic impact of automation is widely (G6) ______ to be unprecedented in its scale and speed. It is widely (G7) ______ that nations with robust social safety nets will manage the transition most effectively. Many public institutions have (G8) ______ their administrative procedures streamlined through AI-driven process automation. It has been (G9) ______ that investment in digital literacy education could significantly mitigate the projected negative impacts. This view is now widely (G10) ______ across the political and economic spectrum.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Why is the impersonal passive particularly valuable in academic and scientific writing?
+2. How does the choice between active and passive voice affect the perceived objectivity of a text?
+3. What are the potential risks of overusing passive structures in academic writing?
+4. In what disciplines is the passive voice most commonly expected, and why do you think this is the case?
+
+**Model answer (Band 7–8):** *The impersonal passive is an indispensable feature of academic discourse, enabling writers to foreground findings and processes rather than personal agency. It is widely believed that this structure enhances the perceived objectivity of scientific and policy writing, as it distances the text from subjective attribution. The technique is particularly valued in fields such as medicine, law, and economics, where institutional authority rather than individual voice is expected. That said, passive structures can be overused; it has been observed that the most accomplished academic writers alternate between passive and active constructions to maintain both objectivity and stylistic variety.*
+
+---
 ## ANSWER KEY
 
 **Section A:**
@@ -131,3 +152,17 @@ Rewrite each sentence in a more academic style using impersonal passive:
 4. It has been widely argued that social media negatively affects mental health.
 5. It is estimated that the world population will reach 10 billion by 2057.
 6. This is widely considered to be the most significant scientific discovery of the decade.
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. believed  G2. expected  G3. suggested  G4. had  G5. understood
+G6. estimated  G7. argued  G8. had  G9. suggested  G10. accepted
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Sử dụng đúng impersonal passive Type A ("It is believed/reported/estimated that...") và Type B ("Subject + passive + to-infinitive")
+- Sử dụng causative "have/get + object + past participle" ít nhất một lần
+- Cân bằng giữa passive và active voice để duy trì đa dạng văn phong học thuật

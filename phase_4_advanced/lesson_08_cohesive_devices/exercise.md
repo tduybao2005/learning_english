@@ -96,6 +96,27 @@ Read this paragraph:
 4. "Such" (sentence 4) refers to _______________
 5. "this rate" (sentence 5) refers to _______________
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+Remote working has transformed the modern professional landscape in ways both beneficial and challenging. (G1) ______, it has granted workers unprecedented flexibility in managing the balance between professional obligations and personal life. (G2) ______, studies consistently indicate that the absence of a structured office environment can impair motivation and reduce the frequency of spontaneous creative collaboration. (G3) ______ its widespread adoption during the COVID-19 pandemic, many organisations are now permanently integrating remote arrangements into their operational models. (G4) ______, not all industries are equally suited to this transition; roles requiring physical presence or close team coordination remain difficult to perform remotely. (G5) ______, the expansion of remote working has intensified demand for robust digital infrastructure in regions previously underserved by broadband connectivity. (G6) ______, productivity research presents a nuanced picture: some employees report significant output gains, (G7) ______ others describe chronic difficulties with concentration and professional boundaries. (G8) ______, the burden of remote work tends to fall disproportionately on parents and caregivers, who must balance professional responsibilities with domestic duties simultaneously. (G9) ______, organisations that invest in regular virtual check-ins and collaborative digital tools report higher employee satisfaction and retention rates. (G10) ______, the future of work is unlikely to be defined by a single model but by a flexible hybrid approach tailored to individual roles and organisational needs.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Why are cohesive devices essential for achieving a high Band score in IELTS Writing Task 2?
+2. How does overusing the same cohesive device — for example, repeating "Furthermore" in every paragraph — affect the quality and credibility of a text?
+3. What is the key difference between cohesion and coherence in academic writing?
+4. In your experience, which cohesive devices do learners of English tend to misuse most frequently, and why?
+
+**Model answer (Band 7–8):** *Cohesive devices are the connective tissue of academic discourse, enabling writers to signal logical relationships between ideas with precision and economy. However, their value lies not in quantity but in appropriateness: a paragraph that opens every sentence with "Furthermore" or "Moreover" quickly becomes monotonous and suggests a mechanical rather than sophisticated grasp of textual organisation. Consequently, the most accomplished academic writers vary their cohesive strategies, using reference devices, lexical chains, and structural parallelism alongside explicit discourse markers. That said, even experienced writers must remain vigilant against under-signalling transitions, which can leave readers struggling to follow the argument's logical development.*
+
+---
+
 ## SECTION E: IELTS Writing — Cohesive paragraph practice
 Write a well-cohesive paragraph (100-120 words) on ONE of these topics. Use at least 6 different cohesive devices and underline each one.
 
@@ -133,3 +154,17 @@ Checklist:
 3. The Amazon rainforest
 4. The destruction (of the Amazon)
 5. The current rate of deforestation
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. Firstly  G2. However  G3. Despite  G4. Nevertheless  G5. Furthermore
+G6. That said  G7. while  G8. Additionally  G9. Consequently  G10. Overall
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Sử dụng đa dạng cohesive devices: addition (furthermore/moreover), contrast (however/nevertheless), result (consequently/therefore), và concession (that said/admittedly)
+- Tránh lặp lại cùng một device quá 2 lần trong một đoạn văn
+- Phân biệt cohesion (liên kết ngôn ngữ cụ thể) và coherence (mạch lạc logic tổng thể)

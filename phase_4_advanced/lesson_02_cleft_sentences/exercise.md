@@ -241,6 +241,27 @@ Write **two original sentences** using cleft structures — one It-cleft and one
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+(G1) ______ the rapid expansion of digital platforms (G2) ______ has most profoundly altered the dynamics of public discourse in contemporary societies. (G3) ______ communication scholars observe most consistently (G4) ______ the extraordinary speed with which misinformation can now reach mass audiences. (G5) ______ during the years following major political crises (G6) ______ institutional trust began to erode most dramatically. (G7) ______ ordinary citizens, not journalists alone, (G8) ______ now function as primary distributors of breaking news. (G9) ______ governments most urgently need is a robust regulatory framework for platform accountability. Yet (G10) ______ we must ultimately acknowledge is that technology alone cannot resolve the democratic challenges it has, in part, created.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Why do you think cleft sentences are particularly effective in academic and journalistic writing?
+2. How does emphasising different elements of a sentence using cleft structures change the meaning or focus of an argument?
+3. Do you think native speakers are consciously aware of when they use cleft structures in natural speech?
+4. In what contexts might overusing it-cleft sentences make academic writing sound unnatural or overly mechanical?
+
+**Model answer (Band 7–8):** *Cleft sentences are among the most elegant devices available to academic writers seeking to direct their reader's attention with precision. It is not simply their grammatical complexity that makes them valuable — it is their capacity to foreground specific information and correct implicit misunderstandings within a single, economical construction. What distinguishes sophisticated academic writing is not the volume of ideas presented but the clarity with which each idea is foregrounded and contextualised. In IELTS Writing, deploying cleft structures judiciously can elevate both lexical resource and coherence scores, provided they are used purposefully rather than mechanically.*
+
+---
+
 ## ANSWER KEY
 
 ### Section A — It-Cleft Answers
@@ -362,3 +383,17 @@ Explanation: The focus is on the outcome or benefit (the "thing gained") — a n
 *It-cleft:* It is through equitable access to quality education — regardless of socioeconomic background — that societies can most effectively dismantle the structural barriers that perpetuate inequality.
 
 *What-cleft:* What education systems in developing nations urgently need is not merely increased enrolment rates, but a fundamental shift toward inclusive pedagogy that serves students from all economic strata.
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. It is  G2. that  G3. What  G4. is  G5. It was
+G6. that  G7. It is  G8. who  G9. What  G10. what
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Sử dụng cả it-cleft và what-cleft một cách phù hợp với ngữ cảnh (nhấn mạnh noun phrase vs. action/solution)
+- Hiểu rõ sự khác biệt về chức năng giữa hai loại cleft và lý do lựa chọn mỗi loại
+- Academic register rõ ràng với hedging phù hợp

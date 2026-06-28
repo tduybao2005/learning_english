@@ -212,6 +212,27 @@ Câu viết lại: _______________
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+Education is widely regarded as the most (G1) ______ mechanism for reducing long-term economic inequality within and between societies. Research (G2) ______ across multiple national contexts consistently (G3) ______ a significant correlation between educational attainment and upward social mobility. (G4) ______, the benefits of education are not equitably distributed: access to quality schooling remains heavily (G5) ______ by socioeconomic background, geographic location, and systemic (G6) ______ in resource allocation. (G7) ______ this inequality requires coordinated policy (G8) ______ that integrate investment in teacher training, infrastructure, and curriculum development. Evidence (G9) ______ that nations achieving the greatest reductions in educational inequality have typically (G10) ______ a combination of universal early childhood programmes, targeted scholarships, and progressive school funding models.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Why is mastering Academic Word List vocabulary particularly important for IELTS candidates aiming for Band 7 or above?
+2. How does learning words in their full word families (noun, verb, adjective, adverb forms) help with both receptive and productive vocabulary skills?
+3. Do you think vocabulary lists like the AWL are sufficient tools for language acquisition, or must they be supplemented with extensive authentic reading?
+4. In what ways can incorrect AWL collocations undermine the fluency of an otherwise well-structured academic paragraph?
+
+**Model answer (Band 7–8):** *Mastering the Academic Word List equips learners with the lexical infrastructure necessary to engage confidently with the register demands of IELTS Academic Writing. Research consistently indicates that effective AWL use — particularly through accurate collocations such as "conduct research," "draw a conclusion," and "address an issue" — significantly enhances both the precision and the perceived sophistication of written output. Furthermore, understanding words in their full family forms enables candidates to exploit grammatical flexibility, deploying "evaluation" where context requires a noun, or "evaluative" where an adjective better serves the sentence — demonstrating exactly the lexical range that IELTS examiners associate with Band 7 and above.*
+
+---
+
 ## SECTION E: IELTS WRITING TASK 2 — AWL PARAGRAPH CHALLENGE (20 điểm)
 
 ### Chủ đề: *"The role of education in reducing economic inequality"*
@@ -337,6 +358,20 @@ _______________
 - ✅ Hedging: *"can be attributed to," "is associated with," "perhaps the most"*
 - ✅ Formal register — không có contractions
 - ✅ 89 từ (nằm trong yêu cầu 80–100)
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. sustainable  G2. conducted  G3. indicates  G4. Nevertheless  G5. determined
+G6. disparities  G7. Addressing  G8. frameworks  G9. suggests  G10. implemented
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Sử dụng ít nhất 6–8 AWL words chính xác, bao gồm collocations chuẩn học thuật (conduct research, draw a conclusion, address an issue, indicate a correlation)
+- Thể hiện word family awareness bằng cách dùng các dạng từ khác nhau trong cùng một câu trả lời
+- Hedging phù hợp (suggest, indicate, appear to, may) và formal register nhất quán
 
 ---
 

@@ -342,6 +342,27 @@ Idiom(s) đã dùng: _______
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+The journey toward meaningful career success rarely follows a straight path. Many young professionals find themselves (G1) ______ the ropes in their first positions, navigating workplace dynamics they were never formally taught. Some, overwhelmed by early setbacks, are tempted to (G2) ______ in the towel and abandon their ambitions entirely. However, those who (G3) ______ the bullet and commit to learning from failure invariably develop the resilience that defines long-term achievement. Experienced mentors often encourage newcomers not to (G4) ______ bridges with colleagues or supervisors, even in difficult circumstances, as professional networks prove invaluable throughout one's career. Setbacks that initially appear devastating can, with hindsight, reveal themselves to be a (G5) ______ in disguise — redirecting individuals toward more suitable and fulfilling paths. Ambitious professionals who consistently (G6) ______ the extra mile tend to be noticed by decision-makers, even in large organisations. At a certain (G7) ______, most professionals must decide whether to remain in familiar roles or pursue more challenging opportunities. Those who (G8) ______ on the fence indefinitely risk being perceived as lacking direction. Wise professionals know when to (G9) ______ to the point in meetings and when to avoid (G10) ______ around the bush, as clarity and concision are highly valued in professional environments.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Why is it important to understand the difference between idioms appropriate for IELTS Speaking and those that are too informal for Academic Writing Task 2?
+2. How can the overuse of idioms in IELTS Speaking actually lower a candidate's score rather than raise it?
+3. Do you think idioms are becoming more or less prevalent in formal English as the language continues to evolve?
+4. In what ways can a well-chosen, naturally deployed idiom in IELTS Speaking Part 3 demonstrate genuine language sophistication?
+
+**Model answer (Band 7–8):** *Idioms, when deployed judiciously, can significantly enhance the natural fluency and expressive range of IELTS Speaking responses. The key, however, lies in understanding that not all idioms are created equal: some, like "without a shadow of a doubt," carry a semi-formal register appropriate to extended discourse, while others, such as "pull the other one," are far too colloquial for an academic examination context. Candidates who go the extra mile to learn contextually appropriate idioms — and, crucially, know when not to use them — demonstrate the kind of nuanced communicative competence that examiners associate with the upper band scores.*
+
+---
+
 ## SECTION F: IELTS SPEAKING PART 2 — Extended Response
 
 **Hướng dẫn:** Viết một bài nói 2 phút (khoảng 200–250 từ viết tay) cho câu hỏi IELTS Speaking Part 2 dưới đây. Bạn phải sử dụng ĐÚNG 3 idioms một cách tự nhiên (không gượng ép). Gạch chân các idioms đã dùng.
@@ -409,3 +430,17 @@ _______
 *The experience taught me that setbacks are often redirections. The most valuable lessons I carry today were forged in that period of difficulty."*
 
 **Idioms used:** burn the midnight oil / back to square one / bite the bullet / a blessing in disguise / without a shadow of a doubt (5 idioms — 3 minimum required, these flow naturally)
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. learning  G2. throw  G3. bite  G4. burn  G5. blessing
+G6. go  G7. crossroads  G8. sit  G9. get  G10. beating
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Sử dụng ít nhất 2 idioms một cách tự nhiên, phù hợp với ngữ cảnh (không gượng ép)
+- Phân biệt rõ giữa idioms phù hợp cho IELTS Speaking và những idiom quá informal hoặc quá casual
+- Câu trả lời mạch lạc, có lập luận rõ ràng, không chỉ "liệt kê" idioms

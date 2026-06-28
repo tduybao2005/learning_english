@@ -165,6 +165,27 @@
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+(G1) ______ mounting pressure from environmental campaigners, the government announced a comprehensive review of its national energy policy. The legislation (G2) ______ in response to this public pressure represents one of the most ambitious environmental reforms in recent decades. Scientists (G3) ______ the long-term effects of carbon emissions for years have broadly welcomed the new regulatory measures. (G4) ______ their findings in a leading international journal, the research team immediately attracted significant global attention. The coastal communities (G5) ______ by rising sea levels are now demanding urgent government intervention. (G6) ______ the full scale of public concern, policymakers were initially slow to formulate a coherent response. The policy, (G7) ______ to reduce emissions by 40% within a decade, has since been adopted by several neighbouring nations. (G8) ______ an exhaustive review of the available evidence, the parliamentary committee recommended immediate legislative action. The industrial zones (G9) ______ as the primary sources of pollution are now subject to stringent new regulations. (G10) ______ that incremental change was insufficient, the administration committed to a complete overhaul of its climate strategy.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. How do participle clauses contribute to the concision and elegance of academic writing?
+2. Why is it essential to ensure that a participle clause's implied subject matches the subject of the main clause?
+3. In what ways can dangling participles undermine the credibility of an academic or professional text?
+4. Do you think learners of English as a foreign language are taught enough about participle clauses in formal education?
+
+**Model answer (Band 7–8):** *Participle clauses represent one of the most effective tools for achieving the concision and syntactic sophistication that advanced academic writing demands. Having mastered their use, writers can compress complex relationships — of time, cause, and result — into compact phrases that enhance the text's overall flow. Recognised by examiners as indicators of grammatical range, these structures consistently distinguish Band 7 and Band 8 writing from more elementary responses. Acknowledging their potential while remaining vigilant against dangling participles is, therefore, an essential discipline for any writer aiming for the highest levels of formal precision.*
+
+---
+
 ## ANSWER KEY
 
 ### Section A — Answers
@@ -302,3 +323,17 @@
 3. "which were initially considered" → **"initially considered"** (reduced passive relative clause)
 4. "Because the team had failed" → **"Having failed"** (perfect participle for reason)
 5. "which was eventually submitted" → **"eventually submitted"** (reduced passive relative clause)
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. Facing  G2. introduced  G3. studying  G4. Having published  G5. affected
+G6. Not having anticipated  G7. designed  G8. Having completed  G9. identified  G10. Recognising
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Sử dụng đúng ba loại participle clause chính: present (-ing), past (-ed), và perfect (having + past participle)
+- Tránh dangling participles bằng cách đảm bảo implied subject khớp với chủ ngữ mệnh đề chính
+- Academic register với từ vựng chính xác, tránh vague language

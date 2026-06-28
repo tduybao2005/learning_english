@@ -399,6 +399,27 @@ _______________________________________________
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+The debate over urban versus rural childhoods demands (G1) ______ vocabulary choices that accurately reflect each environment's genuine advantages and limitations. Those who (G2) ______ for urban upbringings contend that cities offer unparalleled access to diverse educational institutions and cultural experiences. This exposure can (G3) ______ adaptable, globally-minded individuals who are better equipped for a competitive modern economy. Critics, however, (G4) ______ that the relentless pace of urban life may be deeply (G5) ______ to children's emotional development and wellbeing. The (G6) ______ stimulation of city environments — noise, congestion, and social fragmentation — can (G7) ______ the psychological foundations of healthy childhood. By (G8) ______, advocates of rural upbringings point to the close-knit communities, open spaces, and slower pace of life that many families (G9) ______ as essential to healthy development. The challenge for policymakers is to (G10) ______ the genuine merits of both environments and design policies that ensure no child, regardless of location, is deprived of critical developmental opportunities.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. How does choosing words with the correct connotation affect the reader's perception of a piece of writing?
+2. Can you think of an example where using the wrong register in a professional or academic context could cause misunderstanding or offence?
+3. Why is it important for IELTS candidates to develop sensitivity to gradations of intensity in vocabulary?
+4. Do you think vocabulary nuance can be effectively taught in class, or is it something learners mainly acquire through extensive authentic reading?
+
+**Model answer (Band 7–8):** *Developing sensitivity to vocabulary nuance — encompassing connotation, register, and intensity — is one of the most demanding yet rewarding aspects of advancing toward C1-level English proficiency. The difference between describing a policy as "cost-effective" versus "cheap," for instance, is not merely stylistic; it fundamentally alters the evaluative stance of the entire sentence. Cultivating this precision requires not only extensive exposure to authentic academic and journalistic texts but also deliberate reflection on the social and cultural contexts in which particular lexical choices carry weight. For IELTS candidates, such discriminating word choice is precisely what distinguishes Band 7 from Band 6 responses.*
+
+---
+
 ## ANSWER KEY — Sections A–D
 
 ### Section A Answers:
@@ -474,3 +495,17 @@ _______________________________________________
 7. "Pollution is a **pressing challenge / pervasive issue** that **poses significant risks to / affects adversely** nations across the globe."
 
 8. "I **would like to enquire about / am writing to request information regarding** the current status of my application."
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. nuanced  G2. advocate  G3. cultivate  G4. contend  G5. detrimental
+G6. incessant  G7. undermine  G8. contrast  G9. perceive  G10. acknowledge
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Lựa chọn từ vựng chính xác theo connotation (positive/negative/neutral) phù hợp với ngữ cảnh và mục đích viết
+- Duy trì register nhất quán (formal academic, journalistic, hoặc conversational) xuyên suốt câu trả lời
+- Sử dụng emotion/intensity words ở cấp độ phù hợp thay vì vague words như "good/bad/very"
