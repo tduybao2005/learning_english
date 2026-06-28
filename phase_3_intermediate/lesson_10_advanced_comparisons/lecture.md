@@ -298,3 +298,38 @@ Dùng độc lập như giới từ/liên từ:
 ---
 
 *Tiếp theo: Làm vocabulary.md để học từ vựng so sánh trong IELTS Task 1, sau đó exercise.md để luyện tập.*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| There are less cars on the road today. | There are **fewer** cars on the road today. | "Cars" là danh từ đếm được số nhiều → dùng "fewer", không phải "less" |
+| There is fewer traffic on weekends. | There is **less** traffic on weekends. | "Traffic" là danh từ không đếm được → dùng "less", không phải "fewer" |
+| The more you study, the more better you become. | The more you study, the **better** you become. | Trong double comparative, không thêm "more" trước comparative đã đúng |
+| Do it like I told you. | Do it **as** I told you. | Trước mệnh đề có S + V: dùng "as"; trước danh từ/đại từ: dùng "like" |
+| She works as a machine. | She works **like** a machine. | So sánh ví von → dùng "like"; "as" + danh từ = "với tư cách là" |
+| She prefers walking than driving. | She prefers walking **to** driving. | "Prefer + gerund + **to** + gerund" — không dùng "than" trong cấu trúc này |
+| She is as tall like him. | She is as tall **as** him. | Cấu trúc "as...as" cần "as" ở cả hai vị trí, không dùng "like" |
+| I'd rather to stay at home. | I'd rather **stay** at home. | Sau "would rather" dùng bare infinitive (không "to") |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Double comparative:** The + comparative + S + V, the + comparative + S + V → *The more you practice, the better you become*
+- **Intensifier lớn:** much / far / considerably / significantly / dramatically + comparative → *far more effective*
+- **Intensifier nhỏ:** slightly / marginally / somewhat / fractionally + comparative → *marginally higher*
+- **fewer** (đếm được số nhiều) vs **less** (không đếm được) — *fewer students* / *less pollution*
+- **Multiplier:** twice / three times / four times as + adj + as → *three times as expensive as*
+- **Prefer:** prefer + gerund + **to** + gerund; **would rather** + bare infinitive + **than** + bare infinitive
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Phase 1 — Bài 12: Basic Comparisons](../../phase_1_foundation/lesson_12_basic_comparisons/lecture.md) — nền tảng so sánh hơn và so sánh nhất cần nắm vững trước khi học so sánh nâng cao
+- [Bài 11 — Discourse Markers](../lesson_11_discourse_markers/lecture.md) — từ nối so sánh (whereas, in contrast, similarly, conversely) là công cụ liên kết ý so sánh trong bài viết
+- [Phase 5 — Bài 1: Writing Task 1 Charts](../../phase_5_ielts_prep/lesson_01_writing_task1_charts/lecture.md) — ngôn ngữ so sánh và intensifiers là kỹ năng cốt lõi để mô tả biểu đồ IELTS Task 1
+- [Bài 8 — Collocations](../lesson_08_collocations/lecture.md) — intensifier collocations (deeply concerned, widely accepted, significantly higher) là ứng dụng thực tế của bài này

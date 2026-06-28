@@ -378,3 +378,38 @@ IELTS Speaking Part 2 & 3 thường hỏi về mong ước, hối tiếc:
 ---
 
 *Bài tiếp theo: BÀI 4 - MỆNH ĐỀ QUAN HỆ (RELATIVE CLAUSES)*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| If I would have known, I would have helped. | If I **had known**, I would have helped. | Mệnh đề if của Loại 3 dùng Past Perfect, KHÔNG dùng "would have" |
+| If she had studied medicine, she would have been a doctor now. | If she had studied medicine, she **would be** a doctor now. | "Now" chỉ hiện tại → Mixed 3+2: mệnh đề chính dùng "would + V", không phải "would have + V3" |
+| I wish the rain will stop. | I wish the rain **would** stop. | Sau "wish" không dùng "will"; dùng "would" để diễn tả mong muốn thay đổi |
+| I wish I studied harder last year. | I wish I **had studied** harder last year. | Hối tiếc về quá khứ → wish + Past Perfect |
+| Hadn't he been warned, he would have fallen. | **Had he not** been warned, he would have fallen. | Trong đảo ngữ phủ định Loại 3, "not" đứng tách riêng sau chủ ngữ |
+| She wishes she is taller. | She wishes she **were** taller. | Sau "wish" diễn tả ước hiện tại → Past Simple (dùng "were" cho tất cả ngôi) |
+| I'd rather you will come early. | I'd rather you **came** early. | "I'd rather + người khác" → Past Simple cho hiện tại/tương lai |
+| It's time we act now. | It's time we **acted** now. | "It's time + S" → Past Simple để diễn tả điều cần làm ngay |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Loại 3:** If + Past Perfect (had + V3), would/could/might + **have** + V3 → giả định quá khứ không có thật, hay dùng để hối hận hoặc phê phán
+- **Đảo ngữ Loại 3:** Had + S + V3, ... → bỏ "if", đảo "had" lên trước chủ ngữ; phủ định: Had S **not** + V3
+- **Mixed 3+2 (Quá khứ → Hiện tại):** If + Past Perfect, would + V → *If she had studied medicine, she would be a doctor now*
+- **Mixed 2+3 (Hiện tại → Quá khứ):** If + Past Simple, would have + V3 → *If she were braver, she would have spoken up*
+- **Wish + Past Simple** = ước hiện tại khác đi; **Wish + Past Perfect** = hối hận quá khứ; **Wish + would** = muốn ai thay đổi hành vi
+- **I'd rather/It's time + S + Past Simple** = muốn người khác làm gì (hiện tại/tương lai)
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 2 — Câu điều kiện Loại 1 & 2](../lesson_02_conditionals_type1_2/lecture.md) — cần nắm vững Loại 1 & 2 trước khi học Loại 3 và Mixed Conditionals
+- [Bài 5 — Câu tường thuật](../lesson_05_reported_speech/lecture.md) — khi tường thuật câu Loại 3, "would have + V3" giữ nguyên hoặc backshift thêm
+- [Phase 4 — Bài 4: Subjunctive Mood](../../phase_4_advanced/lesson_04_subjunctive_mood/lecture.md) — lối giả định (subjunctive) được nghiên cứu sâu hơn ở trình độ nâng cao
+- [Phase 1 — Bài 5: Present Perfect](../../phase_1_foundation/lesson_05_present_perfect/lecture.md) — cấu trúc "had + V3" (Past Perfect) là nền tảng của mệnh đề if Loại 3

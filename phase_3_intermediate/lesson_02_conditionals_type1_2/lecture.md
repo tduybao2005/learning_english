@@ -414,3 +414,38 @@ Câu điều kiện giúp:
 ---
 
 *Bài tiếp theo: BÀI 3 - CÂU ĐIỀU KIỆN LOẠI 3 & HỖN HỢP (MIXED CONDITIONALS)*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| If it will rain, we'll cancel. | If it **rains**, we'll cancel. | Mệnh đề if của Loại 1 dùng Present Simple, KHÔNG dùng "will" |
+| If I would have more time, I'd travel. | If I **had** more time, I'd travel. | Mệnh đề if của Loại 2 dùng Past Simple, KHÔNG dùng "would" |
+| If I am a bird, I will fly. | If I **were** a bird, I **would** fly. | Người không thể là chim → giả thuyết không thật → phải dùng Loại 2 |
+| Unless you don't come, the party is cancelled. | Unless you **come**, the party is cancelled. | "Unless" đã mang nghĩa phủ định, không thêm "don't" |
+| If it rains we'll stay home. | If it rains**,** we'll stay home. | Khi mệnh đề if đứng trước, cần dấu phẩy ngăn cách |
+| If I was you, I would accept. (formal) | If I **were** you, I would accept. | Trong văn trang trọng/IELTS, dùng "were" cho tất cả ngôi trong Loại 2 |
+| In case it rains, I'll take an umbrella. | I'll take an umbrella **in case** it rains. | "In case" = hành động chuẩn bị TRƯỚC; "if" = điều kiện dẫn đến hành động |
+| Provided that you will study, you'll pass. | Provided that you **study**, you'll pass. | Sau "provided that" dùng Present Simple như sau "if" |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Loại 0:** If + Present Simple, Present Simple → sự thật khoa học và quy luật luôn đúng; "when" có thể thay "if"
+- **Loại 1:** If + Present Simple, will/can/may/must + V → điều kiện có thể xảy ra trong tương lai
+- **Loại 2:** If + Past Simple (**were** cho tất cả ngôi), would/could/might + V → giả thuyết không có thật ở hiện tại
+- **Quy tắc vàng:** KHÔNG bao giờ dùng "will" hoặc "would" trực tiếp trong mệnh đề if của Loại 1 và Loại 2
+- **Unless = If...not:** "Unless you study" = "If you don't study" — đừng thêm "not" sau "unless"
+- **Were to + V:** tăng mức giả thuyết trong văn trang trọng — *If the government were to raise taxes...*
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 3 — Câu điều kiện Loại 3 & Hỗn hợp](../lesson_03_conditionals_type3_mixed/lecture.md) — tiếp nối trực tiếp: Loại 3 và Mixed Conditionals xây dựng trên nền Loại 1 & 2
+- [Bài 5 — Câu tường thuật](../lesson_05_reported_speech/lecture.md) — khi tường thuật câu điều kiện, "will" đổi thành "would" (backshift liên quan mật thiết)
+- [Phase 2 — Bài 6: Modal Verbs](../../phase_2_elementary/lesson_06_modal_verbs/lecture.md) — would/could/might trong mệnh đề chính là modal verbs cần nắm vững trước
+- [Phase 1 — Bài 4: Simple Future](../../phase_1_foundation/lesson_04_simple_future/lecture.md) — nền tảng dùng will/won't là cơ sở của mệnh đề chính Loại 1

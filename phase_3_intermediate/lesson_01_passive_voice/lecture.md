@@ -498,3 +498,38 @@ Subject + passive reporting verb + to + infinitive
 ---
 
 *Bài tiếp theo: BÀI 2 - CÂU ĐIỀU KIỆN LOẠI 1 & 2 (Conditionals Type 1 & 2)*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| The letter is written yesterday. | The letter **was** written yesterday. | "Yesterday" là quá khứ → "to be" phải chia là "was", không phải "is" |
+| The bridge is repaired now. | The bridge **is being** repaired now. | Đang được sửa ở thời điểm nói → cần "is being + V3" (Present Continuous Passive) |
+| The report was write by the manager. | The report was **written** by the manager. | Sau "be" trong câu bị động phải dùng V3 (past participle), không phải V1 |
+| The painting was created with Picasso. | The painting was created **by** Picasso. | "By" chỉ người/tác nhân thực hiện; "with" chỉ công cụ/vật liệu |
+| The book was written it by the author. | The book was written by the author. | Không lặp đại từ — "the book" đã là chủ ngữ, không thêm "it" |
+| It must is submitted immediately. | It must **be** submitted immediately. | Modal passive = modal + **be** + V3, không dùng "is" sau modal |
+| I had my car repair last week. | I had my car **repaired** last week. | Causative "have": have + object + **V3** (past participle) |
+| The patient was looked carefully. | The patient was **looked after** carefully. | Phrasal verb passive: giữ nguyên toàn bộ cụm, không tách "after" ra |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Công thức cơ bản:** S + be (chia theo thì và chủ ngữ) + V3 + (by + agent) — "to be" thay đổi theo thì, V3 không thay đổi
+- **Modal passive:** S + modal + **be** + V3 — ví dụ: *This form must be filled in carefully.*
+- **Causative passive:** S + have/get + O + V3 — thuê/nhờ người khác làm; ví dụ: *I had my car serviced.*
+- **By vs With:** "by" = người/tác nhân (*by Hemingway*); "with" = công cụ (*with a hammer*)
+- **Reporting verbs:** It is said/believed/reported + that + clause — dùng trong IELTS Task 2 để tránh "I think"
+- **Phrasal verb passive:** giữ nguyên cả cụm — *The children were looked after* (KHÔNG tách "after")
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 4 — Mệnh đề quan hệ](../lesson_04_relative_clauses/lecture.md) — rút gọn mệnh đề quan hệ bị động dùng V3 (the report **compiled** by...) liên quan trực tiếp đến cách dùng V3 trong passive
+- [Bài 9 — Danh từ hóa](../lesson_09_nominalization/lecture.md) — nominalization kết hợp với passive để viết văn học thuật súc tích hơn
+- [Phase 2 — Bài 6: Modal Verbs](../../phase_2_elementary/lesson_06_modal_verbs/lecture.md) — nền tảng modal verbs cần thiết để hiểu modal passive
+- [Phase 4 — Bài 5: Advanced Passive](../../phase_4_advanced/lesson_05_advanced_passive/lecture.md) — thể bị động nâng cao với inversion và passive reporting verbs phức tạp

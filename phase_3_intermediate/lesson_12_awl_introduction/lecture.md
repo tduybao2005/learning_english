@@ -534,3 +534,38 @@ Sau bài này, bạn sẽ:
 ---
 
 *Tiếp theo: vocabulary.md (bảng 200 AWL đầy đủ + bài tập nhận biết) và exercise.md (luyện dùng AWL trong bài viết)*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| Technology has affected many effects on society. | Technology has had many **effects** on society. / Technology has **affected** society. | "Affect" là động từ; "effect" là danh từ — không dùng cả hai trong cùng câu theo cách này |
+| The data is conclusive. (văn học thuật) | The data **are** conclusive. | "Data" trong học thuật là danh từ số nhiều (số ít: datum) — dùng "are", không phải "is" |
+| The committee consists in twelve members. | The committee **consists of** twelve members. | "Consist" đi với giới từ "OF", không phải "in" |
+| This is a very significant achievement. / The most significant... | This is a **remarkable/substantial/considerable** achievement. | Tránh dùng "significant" quá nhiều; thay thế bằng synonyms để tăng Lexical Resource |
+| The principle reason for the failure was... | The **principal** reason for the failure was... | "Principle" (n) = nguyên tắc; "principal" (adj) = chính, chủ yếu |
+| The data indicate about an increase in temperature. | The data indicate **an increase** in temperature. / The data indicate **that** temperatures have risen. | "Indicate" không dùng giới từ "about"; dùng trực tiếp hoặc với "that-clause" |
+| Researchers identified three key variables affecting to the outcome. | Researchers identified three key variables affecting **the** outcome. | "Affect" là transitive verb — không cần giới từ "to" trước tân ngữ |
+| She acquired a new skill during the course. (IELTS Task 2) | She **developed/gained** a new skill during the course. | Chọn từ phù hợp ngữ cảnh: "acquire" thường dùng cho kỹ năng học dần theo thời gian, không phải trong một khóa học ngắn |
+
+---
+
+## TÓM TẮT NHANH
+
+- **AWL là gì:** 570 word families xuất hiện thường xuyên trong văn học thuật mọi lĩnh vực — chiếm ~10% từ trong văn bản học thuật
+- **Học theo word family:** analyse → **analysis** (n) / **analytical** (adj) / **analytically** (adv) / **analyst** (n) — học một từ = học được 4-5 từ
+- **Affect vs Effect:** affect = **động từ** (*pollution affects health*); effect = **danh từ** (*the effect of pollution on health*)
+- **Data:** số nhiều trong văn học thuật → "*The data **are***" / "*The data **show***" — không phải "data is"
+- **Tránh lặp từ:** significant → considerable / substantial / profound / remarkable / notable
+- **Học trong ngữ cảnh + collocation:** "**compelling** evidence" / "**assess** the impact" / "**identify** key factors" — không học từ đơn lẻ
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 8 — Collocations](../lesson_08_collocations/lecture.md) — AWL words thường đi kèm collocations học thuật quan trọng mà cần học cùng nhau
+- [Bài 9 — Danh từ hóa](../lesson_09_nominalization/lecture.md) — nhiều AWL words là danh từ hóa (investigation, development, implementation, analysis)
+- [Bài 11 — Discourse Markers](../lesson_11_discourse_markers/lecture.md) — nhiều discourse markers quan trọng là AWL words (consequently, furthermore, albeit, nonetheless)
+- [Phase 4 — Bài 10: AWL Mastery](../../phase_4_advanced/lesson_10_awl_mastery/lecture.md) — học AWL Sublists 4-10 ở trình độ nâng cao, mục tiêu IELTS 7.5+

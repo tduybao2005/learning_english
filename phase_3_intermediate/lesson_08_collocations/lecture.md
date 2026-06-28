@@ -390,3 +390,38 @@ Người Việt thường dùng các tính từ chung chung như "big", "good", 
 10. **draw a clear distinction** between → phân biệt rõ ràng giữa
 
 **Lời khuyên:** Khi học một từ mới, hãy luôn hỏi "Từ này đi với những từ nào?" thay vì chỉ ghi nhớ nghĩa đơn thuần. Học collocation là học theo **"cụm"**, không phải học từng từ riêng lẻ.
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| She did a decision to leave the company. | She **made** a decision to leave the company. | "Make a decision" là collocation cố định; "do" không đi với "decision" |
+| There was strong traffic on the highway. | There was **heavy** traffic on the highway. | "Traffic" đi với "heavy", không phải "strong" — phải nhớ collocation |
+| Scientists made research on climate change. | Scientists **did** research on climate change. | "Do research" là collocation đúng; "make research" là lỗi ảnh hưởng từ tiếng Việt |
+| Please say your opinion on this topic. | Please **give/express** your opinion on this topic. | "Opinion" đi với "give" hoặc "express", không phải "say" |
+| She made an exam yesterday. | She **took/sat** an exam yesterday. | "Exam" đi với "take" hoặc "sit", không phải "make" |
+| The government did a meeting last week. | The government **held/had** a meeting last week. | "Meeting" đi với "hold" (trang trọng) hoặc "have", không phải "do" |
+| The country has strong unemployment. | The country has **high** unemployment. | "Unemployment" đi với "high/rising/soaring", không phải "strong" |
+| She is very strongly concerned about pollution. | She is **deeply** concerned about pollution. | "Concerned" đi với "deeply", không phải "strongly" — cần học adverb collocations |
+
+---
+
+## TÓM TẮT NHANH
+
+- **MAKE:** thứ bạn tạo ra/bắt đầu — make a decision, make progress, make an effort, make a speech, make a mistake
+- **DO:** thứ bạn thực hiện/hoàn thành (thường vô hình) — do research, do homework, do damage, do good, do business
+- **TAKE:** hành động lấy/nhận/trải qua — take action, take part in, take responsibility, take steps, take effect
+- **HAVE:** trải nghiệm/sở hữu thụ động — have an impact on, have difficulty, have a meeting, have access to
+- **Adjective collocations:** heavy (traffic/rain/workload), strong (argument/evidence/support), high (unemployment/standards/risk), deep (concern/understanding)
+- **Adverb collocations:** deeply concerned, highly unlikely, widely accepted, largely responsible, significantly different
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 7 — Phrasal Verbs nâng cao](../lesson_07_advanced_phrasal_verbs/lecture.md) — phrasal verbs là một dạng verb + particle collocations đặc biệt
+- [Bài 12 — AWL Introduction](../lesson_12_awl_introduction/lecture.md) — từ AWL thường đi kèm collocations học thuật quan trọng (compelling evidence, assess the impact)
+- [Phase 4 — Bài 6: Vocabulary Nuances](../../phase_4_advanced/lesson_06_vocabulary_nuances/lecture.md) — sắc thái nghĩa của từ vựng nâng cao liên quan đến lựa chọn collocation chính xác
+- [Phase 5 — Bài 3: Writing Task 2 Opinion Essay](../../phase_5_ielts_prep/lesson_03_writing_task2_opinion_essay/lecture.md) — ứng dụng collocations để nâng band điểm Lexical Resource trong IELTS Writing

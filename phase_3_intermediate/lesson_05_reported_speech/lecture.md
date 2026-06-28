@@ -306,3 +306,38 @@ Khi bạn tường thuật lại điều vừa xảy ra (same conversation or sh
 | Offer | offered + to do | "I'll help." → She **offered to help**. |
 | Refusal | refused + to do | "I won't sign." → He **refused to sign**. |
 | Suggestion | suggested + -ing / that + S + should | "Let's eat." → He **suggested eating** / that we **should eat**. |
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| He told that he was tired. | He **said** that he was tired. / He **told me** that he was tired. | "Tell" phải có tân ngữ người (told me/her/them); nếu không có, dùng "say" |
+| She said me that she was busy. | She **told** me that she was busy. | "Say" không có tân ngữ người; "told + người" là đúng |
+| He said "I am tired" → He said he is tired. | He said he **was** tired. | Backshift bắt buộc: Present Simple → Past Simple trong câu tường thuật |
+| She said she will come tomorrow. | She said she **would** come the following day. | "Will" → "would" (backshift); "tomorrow" → "the following day" |
+| He asked where did she live. | He asked where **she lived**. | Câu hỏi tường thuật KHÔNG đảo ngữ — dùng trật tự S + V bình thường |
+| She asked was he ready. | She asked **if/whether** he was ready. | Yes/No question tường thuật cần "if" hoặc "whether" trước S + V |
+| She suggested to go to the cinema. | She suggested **going** to the cinema. | "Suggest" KHÔNG theo sau bằng to-infinitive; dùng -ing hoặc that-clause |
+| He said me to leave immediately. | He **told** me to leave immediately. | Mệnh lệnh tường thuật: told/asked/ordered + **tân ngữ người** + to-infinitive |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Backshift:** PS→PP; Present Continuous→Past Continuous; will→would; can→could; may→might; must→had to
+- **Say vs Tell:** say (KHÔNG tân ngữ người) — *She said that...*; tell (CÓ tân ngữ người) — *She told me that...*
+- **Câu hỏi WH:** asked + WH-word + **S + V** (không đảo ngữ) — *He asked where she lived*
+- **Câu hỏi Yes/No:** asked + **if/whether** + S + V — *She asked if he was ready*
+- **Mệnh lệnh/Yêu cầu:** told/asked/ordered/warned + obj + **to do** / **not to do**
+- **Không cần backshift:** sự thật phổ quát (*the Earth orbits the Sun*); tường thuật ngay lập tức; điều vẫn còn đúng
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 2 — Câu điều kiện Loại 1 & 2](../lesson_02_conditionals_type1_2/lecture.md) — backshift "will → would" trong câu điều kiện Loại 1 khi tường thuật
+- [Bài 3 — Câu điều kiện Loại 3 & Hỗn hợp](../lesson_03_conditionals_type3_mixed/lecture.md) — tường thuật câu điều kiện Loại 3 (would have + V3 thường giữ nguyên)
+- [Phase 2 — Bài 6: Modal Verbs](../../phase_2_elementary/lesson_06_modal_verbs/lecture.md) — modal verbs và cách backshift (can→could, may→might, must→had to)
+- [Phase 1 — Bài 3: Simple Past](../../phase_1_foundation/lesson_03_simple_past/lecture.md) — thì quá khứ đơn là nền tảng của backshift trong câu tường thuật

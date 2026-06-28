@@ -336,3 +336,38 @@ Dùng **dấu phẩy ở hai bên**:
 ---
 
 *Tiếp theo: vocabulary.md (80 discourse markers + punctuation guide) và exercise.md (luyện tập thực hành)*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| Such as Singapore, many Asian cities have developed rapidly. | Many Asian cities, **such as** Singapore, have developed rapidly. | "Such as" KHÔNG đứng đầu câu; phải đặt sau danh từ nó bổ nghĩa |
+| However the situation is improving. | However**,** the situation is improving. | Discourse marker đứng đầu câu luôn cần dấu phẩy theo sau |
+| Air pollution is bad. Moreover it's caused by vehicles. (thêm ý) | Air pollution is bad. **Specifically**, vehicle emissions are the main cause. | "Moreover" = bổ sung ý mới; đây là giải thích nguyên nhân → dùng "Specifically" |
+| Also, the government needs to invest more. | **Furthermore**, the government needs to invest more. | "Also" quá thông thường cho IELTS Academic; "Furthermore/Moreover" trang trọng hơn |
+| In conclusion, to sum up, overall, the evidence shows... | **In conclusion**, the evidence overwhelmingly shows... | Không dùng nhiều markers kết luận cùng lúc — chỉ chọn một |
+| Although the policy failed, but many people supported it. | Although the policy failed, many people supported it. | "Although" đã là liên từ tương phản; không thêm "but" — dùng một trong hai |
+| The plan was however fundamentally flawed. | The plan was**, however,** fundamentally flawed. | Khi "however" đứng giữa câu, cần dấu phẩy hai bên |
+| Consequently, technology is very useful in education. (không có nguyên nhân trước) | **Furthermore**, technology is very useful in education. | "Consequently" chỉ dùng khi câu trước là nguyên nhân; nếu chỉ bổ sung → "Furthermore" |
+
+---
+
+## TÓM TẮT NHANH
+
+- **9 nhóm discourse markers:** Addition / Contrast / Cause & Effect / Exemplification / Generalization / Emphasis / Concession / Conclusion / Clarification
+- **Dấu câu đầu câu:** However**,** / Furthermore**,** / As a result**,** — luôn có dấu phẩy sau marker
+- **Dấu câu giữa câu:** The plan was**,** however**,** flawed — dấu phẩy hai bên
+- **"Such as"** KHÔNG đứng đầu câu; **"Also"** không trang trọng cho IELTS Academic Writing
+- **Mẫu nhượng bộ chuẩn:** *Admittedly... However...* / *While it is true that... Nevertheless...*
+- **Reference devices:** this/these + summary noun (*this trend, such developments*) — liên kết ý mà không cần discourse marker
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 9 — Danh từ hóa](../lesson_09_nominalization/lecture.md) — "summary nouns" (this development, such challenges) là nominalization dùng làm reference device thay thế cho discourse markers
+- [Bài 10 — So sánh nâng cao](../lesson_10_advanced_comparisons/lecture.md) — discourse markers so sánh (whereas, in contrast, similarly, conversely) liên quan trực tiếp đến ngôn ngữ so sánh
+- [Phase 4 — Bài 8: Cohesive Devices](../../phase_4_advanced/lesson_08_cohesive_devices/lecture.md) — cohesive devices nâng cao và cách đạt Band 8+ trong Coherence & Cohesion
+- [Phase 5 — Bài 3: Writing Task 2 Opinion Essay](../../phase_5_ielts_prep/lesson_03_writing_task2_opinion_essay/lecture.md) — ứng dụng thực tế của discourse markers trong cấu trúc bài luận IELTS Task 2
