@@ -193,6 +193,25 @@
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ thích hợp để hoàn thành collocation đúng (không cần audio).*
+
+There is (G1) concern among leading scientists that climate change poses a (G2) threat to global food security in the decades ahead. Governments worldwide must (G3) decisive action to address this crisis before it becomes completely irreversible. Existing evidence suggests that rising temperatures will have a (G4) impact on agricultural yields, particularly in tropical and semi-arid regions. It is now (G5) accepted by the global scientific community that transitioning to renewable energy is absolutely essential. International organisations have recently (G6) priority to developing drought-resistant and heat-tolerant crop varieties. Research into sustainable farming practices has (G7) considerable progress over the past decade, driven by both public and private investment. However, there remains (G8) concern that funding for agricultural innovation is dangerously insufficient. Rising temperatures continue to (G9) rise to more frequent and severe weather events worldwide. Unless governments and private investors urgently (G10) to a comprehensive mutual agreement on shared climate targets, the global food system will remain dangerously exposed to the effects of climate change.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. "Governments should give priority to addressing climate change above all other policy concerns." To what extent do you agree?
+2. Describe a situation in which you or someone you know had to take decisive action under pressure.
+3. What compelling evidence exists that environmental problems are worsening globally? What measures should be taken?
+4. Discuss the extent to which there is widespread concern in your country about environmental sustainability.
+
+**Model answer (Band 7–8):** There is overwhelming evidence that climate change is posing a significant threat to both human wellbeing and global biodiversity. Governments must take decisive action to make a real difference before the damage becomes irreversible. It is now widely accepted that fossil fuel dependence gives rise to a range of severe consequences, from rising sea levels to prolonged droughts. While significant progress has been made in renewable energy development, there remains deep concern that the pace of change is insufficient. Unless all nations come to a mutual agreement and give priority to green policy, the consequences for future generations will be catastrophic.
+
 ---
 
 # ANSWER KEY — ĐÁP ÁN
@@ -261,3 +280,17 @@
 ## Section F: Sample Answer (Technology Topic)
 
 > "Technology has undoubtedly had a **profound impact** on how young people communicate today. **Social media**, in particular, has become **increasingly common** as a primary means of interaction, **giving rise to** both new opportunities and serious concerns. While it is **widely accepted** that digital tools **contribute significantly** to breaking down geographical barriers, many experts are **deeply concerned** about their effects on face-to-face communication skills. The **rapid development** of messaging applications has **fundamentally changed** social norms around conversation, with many young people now **preferring** digital contact over physical interaction. Governments and educators must **take decisive action** to ensure that these changes ultimately benefit rather than harm society."
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. widespread  G2. significant  G3. take  G4. profound  G5. widely
+G6. given  G7. made  G8. deep  G9. give  G10. come
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Sử dụng ít nhất 6 collocations từ bài (take decisive action, give rise to, widely accepted, profound impact, make progress, come to an agreement...)
+- Tránh collocations sai: KHÔNG dùng "do a difference", "make rise to", "strong evidence" thay cho "compelling/overwhelming evidence"
+- Kết hợp collocations trong câu hoàn chỉnh có chức năng học thuật rõ ràng

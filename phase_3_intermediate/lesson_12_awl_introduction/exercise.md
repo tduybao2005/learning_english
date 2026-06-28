@@ -99,6 +99,28 @@ Checklist before submitting:
 [ ] No grammar errors
 
 ---
+
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ AWL phù hợp vào mỗi chỗ trống (không cần audio).*
+
+Academic researchers must carefully (G1) data from multiple sources before they can draw reliable and defensible conclusions. The fundamental (G2) of academic integrity requires that all claims are supported by verifiable evidence. Researchers typically (G3) their central research questions before selecting an appropriate and rigorous methodology. It is essential to (G4) all key terms precisely at the outset of any scholarly study to avoid ambiguity. The (G5) gathered through careful observation, experimentation, and literature review must always be evaluated critically and objectively. A well-designed study will (G6) a clear theoretical framework that guides every stage of data collection and interpretation. Researchers then (G7) whether their emerging findings are (G8) with the results of previous studies in the same field. If the data (G9) a significant and repeatable pattern, the researchers may justifiably (G10) that a causal relationship exists between the key variables under investigation.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. What do you think is the most important factor that contributes to success in academic study? Use AWL vocabulary in your response.
+2. Describe the approach you would take if you were conducting a research project on a topic of your choice.
+3. "The concept of academic integrity is more important today than ever before." To what extent do you agree, and why?
+4. What evidence suggests that international research collaboration produces better outcomes than research conducted within a single institution?
+
+**Model answer (Band 7–8):** In my view, the most significant factor that contributes to academic success is the ability to analyse information critically rather than simply accepting it at face value. Researchers who establish clear frameworks for their work, consistently identify reliable sources, and carefully define their key concepts tend to produce the most credible and impactful findings. The concept of intellectual honesty is fundamental — if the evidence does not support a conclusion, a responsible researcher must acknowledge this openly. Ultimately, it is the consistent application of rigorous methodology that distinguishes high-quality academic research from superficial or biased investigation.
+
+---
+
 ## ANSWER KEY
 
 **Section A (AWL words):**
@@ -128,3 +150,17 @@ Checklist before submitting:
 4. factors / contribute
 5. identified / issues/factors
 6. analyze / evidence / conclusion
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. analyse  G2. concept  G3. identify  G4. define  G5. evidence
+G6. establish  G7. assess  G8. consistent  G9. indicate  G10. conclude
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Sử dụng ít nhất 6 từ AWL (analyse, concept, identify, define, establish, assess, consistent, evidence, indicate, conclude...)
+- Kết hợp với collocations học thuật đúng: conduct research, draw a conclusion, establish a framework, assess the evidence
+- Duy trì văn phong học thuật: không dùng từ viết tắt (don't → do not), không dùng từ thông tục (a lot of → considerable)

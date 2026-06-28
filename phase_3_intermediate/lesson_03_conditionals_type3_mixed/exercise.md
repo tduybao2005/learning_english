@@ -215,6 +215,27 @@
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+Historians often reflect on how the world might have been different. If Alexander Fleming (G1) penicillin, millions of people (G2) from bacterial infections that are now routinely treated. Had the Industrial Revolution (G3) differently, modern society (G4) in its current technological form. Closer to the present, if early climate scientists (G5) by policymakers, we (G6) such a severe ecological crisis today. On a personal level, many professionals admit that if they (G7) harder during their university years, they (G8) far greater career opportunities now. Similarly, if people generally (G9) their savings more wisely in previous decades, fewer families (G10) into the debt crises that devastated so many communities worldwide.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. If you could go back in time and change one historical event, what would it be and why would this change benefit humanity?
+2. Reflecting on your own past, if you had made one different decision, how might your life be different today?
+3. Some historians argue that major historical events are inevitable regardless of individual actions. Do you agree or disagree?
+4. Is dwelling on past regrets a harmful habit, or can it be a useful tool for self-improvement? Give reasons and examples.
+
+**Model answer (Band 7–8):** If I could change one historical event, I would choose the early stages of industrialisation in the nineteenth century. Had governments at the time understood the long-term consequences of burning fossil fuels, they would surely have invested in cleaner alternatives from the very beginning. If that had happened, we would not be facing the climate emergency that now threatens our planet today. Of course, if the Industrial Revolution had not occurred at all, many modern advances in medicine, transport, and communication would not exist either. It remains a deeply complex question with no simple answer.
+
+---
+
 ## ANSWER KEY
 
 ### Section A
@@ -309,3 +330,17 @@
 **F5.** If that war had not broken out, millions of people might not have lost their lives so needlessly.
 
 **F6.** If he weren't such a cautious person, he might have invested in that risky project and lost everything. *(Mixed)*
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. had not discovered  G2. would have died  G3. developed  G4. would not exist  G5. had been heeded
+G6. might not be facing  G7. had studied  G8. would now have  G9. had managed  G10. would have fallen
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Câu điều kiện Loại 3 (if + had + V3, would have + V3) để nói về quá khứ không có thật
+- Câu điều kiện hỗn hợp (if + had + V3, would/might + V) để liên kết quá khứ với hiện tại
+- Cấu trúc wish/if only + had + V3 để diễn đạt sự tiếc nuối về quá khứ

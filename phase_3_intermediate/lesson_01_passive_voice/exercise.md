@@ -214,6 +214,25 @@ Viết 5 câu về những việc bạn đã nhờ người khác làm trong 6 t
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+The history of modern medicine (G1) by countless discoveries and innovations over the past two centuries. Penicillin, for example, (G2) by Alexander Fleming in 1928, and it (G3) to save millions of lives ever since. Vaccines (G4) through years of rigorous research before they (G5) for public use. At present, a new treatment for Alzheimer's disease (G6) by scientists in laboratories across fifteen countries. Over five billion pounds (G7) in this groundbreaking research project during the past decade alone. It (G8) that a major breakthrough (G9) within the next five years. As a result, patients around the world (G10) renewed hope that this devastating illness can at last be treated effectively.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Some argue that dangerous experiments should be conducted on animals to develop life-saving medicines. To what extent do you agree or disagree?
+2. To what extent has modern science improved human quality of life compared to a century ago?
+3. Should governments allocate more funding to medical research than to the arts and humanities? Discuss.
+4. How has the role of the patient — once considered entirely passive — changed in the digital age of healthcare?
+
+**Model answer (Band 7–8):** Medical science has undoubtedly been transformed by decades of intensive research and international cooperation. Vaccines have been developed and distributed to billions of people, diseases that were once considered fatal have been cured, and life expectancy has been extended significantly across most of the world. However, it is widely argued that healthcare resources are not being distributed equally. Treatments that are approved in wealthy nations are often not made available in poorer countries. If medical advances are to benefit all of humanity, far greater attention must be paid to the urgent issue of global health equity.
+
 ---
 
 # ANSWER KEY (ĐÁP ÁN)
@@ -374,3 +393,17 @@ Viết 5 câu về những việc bạn đã nhờ người khác làm trong 6 t
 6. A new virus was detected in the jungle by researchers last year. *(Past Simple Passive)*
 7. The details of the investigation have not yet been disclosed by officials. *(Present Perfect Passive)*
 8. The vaccine is being rolled out across the country. *(Present Continuous Passive)*
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. has been shaped  G2. was discovered  G3. has since been used  G4. are developed  G5. are approved
+G6. is being tested  G7. have been invested  G8. is widely believed  G9. will be announced  G10. are being given
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Sử dụng thể bị động ở nhiều thì khác nhau (was discovered, has been used, is being tested, will be announced)
+- Sử dụng cấu trúc It is widely believed/argued that... để trình bày quan điểm học thuật
+- Dùng discourse markers: however, as a result, therefore để liên kết các ý

@@ -212,6 +212,25 @@ Viết 5 câu dùng **If I were...** hoặc **If I had...** diễn tả những 
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+Environmental scientists warn that if carbon emissions (G1) to rise at the current rate, global temperatures will increase dramatically. Unless governments (G2) decisive action now, the long-term consequences could be irreversible. If renewable energy (G3) made more affordable, more households would switch away from fossil fuels entirely. Many experts argue that if stricter regulations (G4), industries would be forced to reduce their environmental impact significantly. Provided that all nations (G5) to cooperate fully, the targets set in international climate agreements can still be achieved. If the average citizen (G6) more aware of their daily carbon footprint, consumption patterns (G7) significantly. As long as governments (G8) green investment, a sustainable future remains achievable. If the current trend (G9) unchecked for another decade, coastal cities will face devastating flooding by 2100. Therefore, unless collective action (G10) immediately, future generations will inherit a deeply and permanently damaged planet.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. If you were a world leader, what three policies would you immediately implement to address climate change?
+2. Some argue that if governments raised taxes on fossil fuels significantly, it would cause serious economic harm. To what extent do you agree?
+3. What would happen to modern society if all countries stopped using plastic overnight?
+4. If you could change one law in your country, what would it be and how would it improve life for ordinary citizens?
+
+**Model answer (Band 7–8):** If I were a world leader, I would prioritise three major policies. First, if carbon taxes were introduced globally, industries would rapidly seek cleaner alternatives. Second, provided that governments invested heavily in public transport, private car usage would fall significantly. Third, if renewable energy subsidies were increased, solar and wind power would become the default energy sources within a decade. While some economists argue that these measures would harm short-term growth, I believe that unless decisive action is taken now, the environmental consequences will ultimately cost far more than any temporary economic disruption.
+
 ---
 
 # ANSWER KEY (ĐÁP ÁN)
@@ -363,3 +382,17 @@ Viết 5 câu dùng **If I were...** hoặc **If I had...** diễn tả những 
 3. If strict legislation is introduced/were introduced, companies will/would be forced to reduce waste.
 4. If international collaboration is strengthened/were strengthened, global issues will/would be easier to tackle.
 5. If poverty is eliminated/were eliminated, social inequality will/would decrease substantially.
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. continue  G2. take  G3. were  G4. were introduced  G5. agree
+G6. were  G7. would change  G8. prioritise  G9. continues  G10. is taken
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Sử dụng câu điều kiện Loại 1 (if + present simple, will + V) cho các dự đoán có thể xảy ra
+- Sử dụng câu điều kiện Loại 2 (if + past simple, would + V) cho các giả thuyết về hiện tại
+- Dùng liên từ điều kiện: unless / provided that / as long as để đa dạng hoá câu

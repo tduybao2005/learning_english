@@ -148,6 +148,27 @@ _______________________________________________
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền dạng danh từ hóa đúng vào mỗi chỗ trống (không cần audio).*
+
+The rapid (G1) of many developing nations has created enormous and complex challenges for city planners worldwide. The (G2) of urban populations has placed immense pressure on housing, transportation networks, and sanitation systems. Experts consistently argue that the (G3) to invest adequately in basic infrastructure is one of the primary causes of persistent urban poverty. The (G4) of efficient and affordable public transport networks is therefore widely considered essential. There is also a recognised need for the (G5) of green spaces within cities to preserve both biodiversity and residents' mental wellbeing. The (G6) of rural populations to urban centres has accelerated dramatically in recent decades, driven largely by the (G7) of economic opportunities in major cities. However, the (G8) of agricultural land surrounding expanding cities poses serious long-term food security risks. The effective (G9) of sustainable urban planning policies ultimately requires strong political (G10) and genuine cross-sector collaboration between governments, developers, and local communities.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Describe the growth of a city you know well. Use at least four nominalizations in your response.
+2. "Rapid urbanisation inevitably leads to greater inequality." To what extent do you agree with this statement?
+3. What are the most significant challenges associated with the migration of rural populations to urban areas?
+4. Discuss the importance of green space development in modern city planning. What are the consequences of its absence?
+
+**Model answer (Band 7–8):** The rapid urbanisation of Vietnam's major cities over the past three decades has brought both remarkable development and serious challenges. The growth of Hanoi and Ho Chi Minh City has been extraordinary, but the failure to plan adequately for this expansion has resulted in severe traffic congestion and inadequate sanitation in many areas. The migration of rural populations seeking better economic opportunities has accelerated, placing enormous pressure on public services. The establishment of sustainable transport networks and the implementation of intelligent urban planning policies are now considered the most urgent priorities for ensuring the long-term liveability of these rapidly expanding cities.
+
+---
+
 ## ANSWER KEY — ĐÁP ÁN
 
 ### Section A:
@@ -211,3 +232,17 @@ Những nominalization đã sử dụng: argument, decline, communication, deter
 ---
 
 *Tổng: 100 điểm | Đạt: ≥70 điểm | Cần ôn lại: <70 điểm*
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. urbanisation  G2. growth  G3. failure  G4. development  G5. establishment
+G6. migration  G7. expansion  G8. loss  G9. implementation  G10. commitment
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Sử dụng danh từ hóa từ các động từ/tính từ: grow → growth, develop → development, fail → failure, migrate → migration
+- Dùng cấu trúc danh từ hóa tự nhiên: "The + nominalization + of..." thay vì "They/People + verb..."
+- Duy trì văn phong học thuật: tránh viết tắt, dùng danh từ hóa để nâng độ trang trọng của văn bản

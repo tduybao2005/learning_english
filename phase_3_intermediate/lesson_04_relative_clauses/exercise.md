@@ -172,6 +172,27 @@ Applicants from economically disadvantaged backgrounds are given priority for it
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền đại từ quan hệ hoặc từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+The United Nations Environment Programme, (G1) was founded in 1972, coordinates global efforts to protect the natural world. Scientists (G2) work for this organisation come from over 190 member states. The headquarters in Nairobi, (G3) location was chosen to reflect the programme's focus on developing nations, operates year-round. The agency addresses issues (G4) threaten ecological balance, including deforestation, ocean pollution, and biodiversity loss. The 2022 global summit, (G5) attracted more than 3,000 delegates, resulted in a landmark environmental agreement. One prominent researcher (G6) work on coral reef restoration had gained international recognition presented ground-breaking findings. The Amazon basin is the region (G7) the most critical deforestation is currently occurring. This is precisely the reason (G8) urgent international cooperation is so desperately needed. The experts (G9) the panel interviewed expressed cautious but genuine optimism about future progress. The final report, (G10) has now been translated into 30 languages, is freely accessible to governments and the public alike.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Describe an organisation or institution that you admire. Use at least three relative clauses in your response.
+2. Some argue that international organisations such as the UN are ineffective. To what extent do you agree?
+3. What qualities should a good environmental leader — someone who heads organisations like UNEP — possess?
+4. Describe a place in your country that is particularly important for nature conservation. What makes it special?
+
+**Model answer (Band 7–8):** The organisation that I most admire is Doctors Without Borders, which provides emergency medical care in conflict zones and disaster areas around the world. The doctors and nurses who work for this organisation, many of whom voluntarily give up comfortable careers, demonstrate extraordinary dedication and courage. The regions where they operate are often among the most dangerous and inaccessible in the world. Their work, which has saved countless lives since the organisation was founded in 1971, represents the very best of international humanitarian cooperation. It is an institution whose impact on global health cannot be overstated.
+
+---
+
 ## ANSWER KEY
 
 ### Section A
@@ -282,3 +303,17 @@ Applicants from economically disadvantaged backgrounds are given priority for it
 **F5.** The book (that/which) she wrote in less than six months has been translated into 25 languages.
 
 **F6.** They interviewed 40 candidates, only five of whom were selected for the final round.
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. which  G2. who  G3. whose  G4. that/which  G5. which
+G6. whose  G7. where  G8. why  G9. who/whom  G10. which
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Ít nhất một mệnh đề quan hệ xác định (defining) và một mệnh đề quan hệ không xác định (non-defining) với dấu phẩy đúng
+- Sử dụng "whose" để chỉ sở hữu và "where/why/when" đúng ngữ cảnh
+- Rút gọn mệnh đề quan hệ thành cụm phân từ (V-ing / V3) khi phù hợp

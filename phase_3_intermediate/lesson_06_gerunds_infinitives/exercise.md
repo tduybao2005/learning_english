@@ -112,6 +112,28 @@ Use at least:
 - 1 instance of a "meaning-change" pair (stop/remember/try)
 
 ---
+
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền dạng gerund hoặc infinitive đúng của động từ trong ngoặc (không cần audio).*
+
+Learning a second language successfully requires (G1: dedicate) considerable time and genuine mental effort over many years. Most linguists recommend (G2: start) at a young age, when the brain is most receptive to new sounds and structures. However, adult learners should not give up (G3: try), as research clearly shows they are entirely capable of (G4: achieve) high levels of fluency with the right approach. Many learners tend (G5: avoid) speaking in public because they fear making embarrassing mistakes. Language coaches advise (G6: practise) daily conversation whenever possible, even when it feels uncomfortable. Some students fondly remember (G7: struggle) with complex grammar for months before suddenly experiencing a breakthrough. It is truly worth (G8: note) that immersion in a language — through films, podcasts, or travel — significantly accelerates progress. Learners should also consider (G9: keep) a dedicated vocabulary journal to consolidate new words effectively. Ultimately, anyone who is determined (G10: succeed) will find that mastering a foreign language is one of the most rewarding intellectual achievements of a lifetime.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Describe your experience of learning English. Use at least four verbs that are followed by gerunds and four followed by infinitives.
+2. Some people argue that children should start learning a foreign language as early as age three. To what extent do you agree?
+3. What strategies do you recommend for someone who has given up on learning a language and wants to start again?
+4. Compare the experience of learning a language in a classroom with learning through complete immersion in a foreign country.
+
+**Model answer (Band 7–8):** I vividly remember struggling with English grammar when I first started learning. I tended to avoid speaking in class, fearing that I would make embarrassing mistakes in front of my peers. My teacher advised me to stop worrying about perfection and to practise speaking every day, even outside the classroom. She also suggested keeping a vocabulary notebook and recommended watching English-language films without subtitles. I decided to follow her advice, and over time I stopped being afraid of making errors. I now enjoy communicating in English and have even considered training to become a language teacher myself one day.
+
+---
+
 ## ANSWER KEY
 
 **Section A:**
@@ -152,3 +174,17 @@ Use at least:
 4. He admitted lying/having lied about the matter.
 5. She offered to help me with the homework.
 6. I can't help laughing every time I see that video.
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. dedicating  G2. starting  G3. trying  G4. achieving  G5. to avoid
+G6. practising  G7. struggling  G8. noting  G9. keeping  G10. to succeed
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Sử dụng đúng động từ theo sau bởi gerund (enjoy, avoid, consider, recommend, suggest, remember + V-ing)
+- Sử dụng đúng động từ theo sau bởi infinitive (tend, advise, decide, manage, hope, determine + to-V)
+- Phân biệt nghĩa khác nhau của các cặp: remember doing vs. remember to do, stop doing vs. stop to do

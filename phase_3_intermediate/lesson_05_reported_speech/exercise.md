@@ -134,6 +134,28 @@
 Write a paragraph (100-120 words) reporting a conversation you had with a friend recently. Use at least 5 different reporting verbs. Use correct backshift and pronoun changes.
 
 ---
+
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+At a major international education conference last year, leading experts shared important insights. The keynote speaker stated that technology (G1) how children learn in fundamentally new ways. She added that many governments (G2) enough to prepare their teachers for these changes. One prominent researcher claimed that students (G3) more time online than reading books or engaging in physical activity. He strongly advised educators (G4) digital tools into their existing teaching methods. A senior government official announced that new funding policies (G5) within the following twelve months. She also warned that without sustained investment, the educational gap between wealthy and developing nations (G6) significantly over the coming decade. A journalist then asked the panel whether they genuinely (G7) that technology could fully replace human teachers. The panellists agreed unanimously that it (G8), arguing that emotional intelligence and mentorship (G9) only by humans. One delegate finally suggested (G10) hybrid models that combined online and face-to-face learning.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Report what a teacher, parent, or mentor once told you that had a lasting impact on your life.
+2. "Technology will eventually replace human teachers entirely." Discuss this statement, using reported speech to cite different viewpoints.
+3. Describe a news story you heard or read recently. Use a variety of reporting verbs to convey the different perspectives mentioned.
+4. What advice would you give to a younger student learning English? Report your advice as if you were telling a friend about the conversation.
+
+**Model answer (Band 7–8):** My secondary school English teacher once told me that the secret to learning a language was not memorising grammar rules, but using the language every single day. She advised me to keep a journal in English and to watch films without subtitles. She also suggested joining an online conversation group, arguing that real interaction with other learners would accelerate my progress far more than textbooks alone. She warned me that I would make many mistakes, but insisted that this was entirely natural. I now realise how right she was — her advice transformed the way I approach language learning.
+
+---
+
 ## ANSWER KEY
 
 **Section A:**
@@ -179,3 +201,17 @@ Write a paragraph (100-120 words) reporting a conversation you had with a friend
 4. They warned us not to touch the equipment.
 5. She admitted (that) she had made a mistake.
 6. He promised (that) he would send the report the next/following day.
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. was transforming  G2. had not done  G3. were spending  G4. to integrate  G5. would be introduced
+G6. would widen  G7. believed  G8. could not  G9. could be provided  G10. exploring
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Sử dụng đa dạng động từ tường thuật (said, told, claimed, advised, warned, suggested, promised, insisted...)
+- Lùi thì đúng quy tắc (backshift): is → was, will → would, have done → had done...
+- Thay đổi đại từ và trạng từ thời gian/nơi chốn phù hợp (tomorrow → the following day, here → there...)

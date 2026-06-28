@@ -193,6 +193,25 @@
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền phrasal verb phù hợp vào mỗi chỗ trống (không cần audio).*
+
+The global technology sector has changed beyond recognition over the past two decades. Many established companies have been forced to (G1) outdated business models as digital competitors have (G2) faster and cheaper solutions. Small start-ups that once operated from shared offices have (G3) their operations to serve millions of customers worldwide. Some investors, however, (G4) promising technology ventures when economic uncertainty increased sharply. Innovation rarely happens overnight — research teams must carefully (G5) many possibilities before a viable commercial solution emerges. When colleagues (G6) over conflicting strategic priorities, project timelines and morale inevitably suffer. Successful organisations tend to (G7) internal disagreements constructively before they escalate into serious disputes. Leaders who genuinely (G8) their employees' rights and wellbeing typically see higher staff retention and productivity. As artificial intelligence continues to (G9) new technological boundaries, every industry must (G10) these rapid and transformative changes — or risk falling dangerously behind.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Describe a significant change in your workplace or school over the past five years. Use at least four phrasal verbs in your response.
+2. "Large corporations are phasing out human workers too rapidly in favour of automation." To what extent do you agree?
+3. Talk about a time when you had to come up with a creative solution to an unexpected problem.
+4. What qualities does an effective leader need to successfully turn around a failing organisation?
+
+**Model answer (Band 7–8):** Over the past decade, the organisation I work for has gone through a remarkable transformation. The management team had to phase out several outdated processes and come up with entirely new ways of serving customers online. At first, many colleagues fell out over how quickly these changes should be rolled out, which created genuine tension within the team. However, once a new director who genuinely stood up for employee wellbeing was brought in, the atmosphere improved considerably. By scaling up investment in staff training, the company managed to turn around its fortunes and is now considered a leader in digital innovation.
+
 ---
 
 # ANSWER KEY — ĐÁP ÁN
@@ -260,3 +279,17 @@
 ## Section F: Sample Answer
 
 > "Technology has **brought about** fundamental changes in the modern workplace. Tasks that once **took up** hours of manual labour can now be completed automatically, as companies **phase out** outdated systems and **roll out** advanced digital tools. To remain competitive, businesses must constantly **come up with** innovative strategies and **keep up with** the latest technological trends. Those that fail to **move on** from traditional methods often find themselves **left behind**. Looking ahead, artificial intelligence is set to **take over** many routine functions, and employees who wish to thrive must be prepared to **build on** their existing skills continuously."
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. phase out  G2. come up with  G3. scaled up  G4. backed out of  G5. look into
+G6. fall out  G7. iron out  G8. stand up for  G9. break through  G10. keep up with
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Sử dụng ít nhất 6 phrasal verbs từ bài học (phase out, scale up, come up with, fall out, iron out, stand up for...)
+- Chú ý tính tách rời (separability) của các phrasal verbs bắc cầu: phase out outdated systems / phase them out
+- Dùng phrasal verbs tự nhiên trong ngữ cảnh thực tế về công việc, kinh doanh, hoặc xã hội

@@ -171,6 +171,27 @@ _______________________________________________
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền discourse marker phù hợp vào mỗi chỗ trống (không cần audio).*
+
+Technology has transformed the nature of modern communication in many profound and far-reaching ways. (G1), not all of these changes have been uniformly positive for society as a whole. Social media platforms, (G2), have made it considerably easier to share information and experiences with people across the entire globe. (G3), these platforms have enabled previously marginalised communities to raise their voices and demand meaningful change. (G4), there are increasingly serious concerns about the rapid spread of misinformation and extremist content through these same channels. (G5), studies have repeatedly shown that false information travels far faster online than accurate, verified reporting. (G6), public trust in traditional journalism has declined dramatically in many countries. (G7), a number of news organisations have successfully adapted by placing renewed emphasis on investigative journalism and rigorous fact-checking. (G8), those outlets that have resisted necessary change have witnessed dramatic and sustained falls in both readership and revenue. (G9), the media landscape today is more fragmented and polarised than at any previous point in modern history. (G10), while digital technology offers remarkable opportunities for global communication, it simultaneously demands far greater media literacy from all citizens.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. "Social media has done more harm than good to society." Discuss this statement using a range of discourse markers from at least three functional categories.
+2. Describe the advantages and disadvantages of online learning. Use contrast and addition markers to structure your response clearly.
+3. In your opinion, what is the single most serious problem facing your country today? Structure your argument using cause-effect and concession markers.
+4. Compare traditional and modern approaches to news consumption. Use discourse markers to signal your comparisons and conclusions effectively.
+
+**Model answer (Band 7–8):** Technology has undoubtedly transformed the way people access information. Furthermore, it has given a voice to communities that were previously excluded from mainstream public debate. However, the rapid spread of misinformation is a deeply troubling consequence of this openness. In fact, research consistently shows that false stories spread far more quickly online than accurate ones. Consequently, public trust in journalism has declined significantly in many countries. That said, some media organisations have responded admirably by investing in fact-checking and investigative reporting. In conclusion, while the opportunities created by digital communication are genuinely remarkable, they demand a far more critical and discerning readership than ever before.
+
+---
+
 ## ANSWER KEY — ĐÁP ÁN
 
 ### Section A (đáp án ví dụ — chấp nhận markers cùng nhóm):
@@ -240,3 +261,17 @@ _______________________________________________
 ---
 
 *Tổng: 100 điểm | Đạt: ≥70 điểm | Cần ôn lại: <70 điểm*
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. However  G2. for instance  G3. Furthermore  G4. Nevertheless  G5. In fact
+G6. Consequently  G7. That said  G8. In contrast  G9. As a result  G10. In conclusion
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Sử dụng markers từ ít nhất 3 nhóm chức năng khác nhau: Contrast (however, nevertheless), Addition (furthermore, moreover), Cause-Effect (consequently, as a result)
+- Đặt dấu câu đúng: dấu chấm phẩy + however + dấu phẩy; hoặc câu mới bắt đầu bằng Furthermore,
+- Tránh lặp lại cùng một marker — dùng đa dạng trong một đoạn văn

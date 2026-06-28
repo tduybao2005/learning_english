@@ -173,6 +173,27 @@ _______________________________________________
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu để hoàn chỉnh cấu trúc so sánh đúng (không cần audio).*
+
+When examining global education systems, it is clear that some nations perform (G1) better than others on international assessments. Finland consistently achieves (G2) rankings than most other countries in measures of student wellbeing and academic outcomes. Its model is (G3) less focused on standardised testing than those of many East Asian nations. Finnish students spend (G4) fewer hours in the classroom than their counterparts in South Korea or Japan, yet achieve (G5) impressive results overall. Research suggests that the (G6) investment a country makes in teacher training and professional development, the (G7) the overall student outcomes tend to be. Private schools are not (G8) common in Finland as they are in nations such as the United Kingdom or the United States. Crucially, the achievement gap between wealthy and socioeconomically disadvantaged students is (G9) smaller in Finland than in most comparable nations. This powerful evidence suggests that investing equally in all schools may ultimately prove (G10) more effective than creating elite institutions for a privileged minority.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Compare the education system in your country with that of another country you know about. Use at least four different comparison structures.
+2. "The more a government invests in early childhood education, the greater the long-term economic benefits." Do you agree?
+3. Describe a graph or table comparing data from two different countries or time periods. Use a variety of comparison expressions.
+4. In your opinion, which is more important for academic success: natural ability or consistent hard work? Compare these two factors using appropriate structures.
+
+**Model answer (Band 7–8):** Vietnam's education system has improved considerably over the past two decades, yet it remains significantly less well-funded than those of developed nations. Vietnamese students spend far more hours studying than their Finnish counterparts, yet international assessments suggest that learning outcomes are not nearly as strong. The more a country invests in teacher training and smaller class sizes, the better the results tend to be. Finland's approach is clearly more effective in terms of student wellbeing, whereas Vietnam's model places considerably greater emphasis on examination performance. Both systems have strengths, but a balanced approach would arguably produce the most successful outcomes overall.
+
+---
+
 ## ANSWER KEY — ĐÁP ÁN
 
 ### Section A:
@@ -239,3 +260,17 @@ _______________________________________________
 ---
 
 *Tổng: 100 điểm | Đạt: ≥70 điểm | Cần ôn lại: <70 điểm*
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. considerably  G2. higher  G3. far  G4. significantly  G5. just as
+G6. more  G7. better  G8. nearly as  G9. considerably  G10. far
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Sử dụng cấu trúc double comparative: The more..., the better/less/greater...
+- Dùng intensifiers đúng: considerably / significantly / far / marginally / not nearly as...
+- Phân biệt: fewer (đếm được) vs. less (không đếm được); as...as và than trong so sánh ngang và hơn kém
