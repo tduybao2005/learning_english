@@ -284,4 +284,38 @@ After writing your essay, verify:
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+Successfully identifying the correct IELTS Writing Task 2 essay type before beginning to write is essential for achieving a high band score. The signal phrase 'Discuss (G1) ___ views and give your opinion' indicates a discussion essay, in which both perspectives must be developed fully before the writer states their personal position. In contrast, the phrase 'To what (G2) ___ do you agree or disagree?' demands a clear position that is maintained consistently throughout. A problem-solution essay is structured with one paragraph covering (G3) ___ and a second paragraph proposing solutions that directly correspond to each cause mentioned. In a two-part question, the writer must ensure that each body paragraph addresses (G4) ___ of the two questions separately without mixing the responses. Cause language includes phrases such as 'can be (G5) ___ to' and 'stems from'. Solution language includes expressions like 'could be (G6) ___ by' or 'one effective measure would be to'. An advantages-disadvantages essay that asks whether advantages '(G7) ___' the disadvantages requires the writer to take a clear position on which side is stronger. The introduction of any Task 2 essay should include a (G8) ___ sentence that sets out the topic in general terms, followed by a thesis signalling the essay's direction. The conclusion should (G9) ___ the key points concisely without introducing new arguments. Regardless of essay type, all Task 2 responses must exceed (G10) ___ words to avoid a penalty.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. What strategies can a candidate use to correctly identify the essay type before beginning to write in the exam?
+2. Why is it important in a problem-solution essay for solutions to directly correspond to the causes identified in the previous paragraph?
+3. How should a candidate approach a discussion essay differently from a standard opinion essay?
+4. What are the consequences of misidentifying the essay type, and how can this be avoided under exam conditions?
+
+**Model answer (Band 7–8):** Correctly identifying the essay type is arguably the most critical first step in IELTS Task 2, as misidentifying it can result in significant mark losses on Task Achievement regardless of language quality. The most reliable strategy is to identify the key signal phrase in the question: 'discuss both views and give your opinion' always indicates a discussion essay, while 'to what extent do you agree or disagree?' demands a clear and consistent personal position. Candidates should plan their paragraphs before writing, ensuring that each serves a distinct function — causes, solutions, view A, view B — and that nothing is confused or mixed between sections.
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. both  G2. extent  G3. causes  G4. one  G5. attributed / linked  G6. addressed  G7. outweigh  G8. background  G9. summarise / restate  G10. 250
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Kỹ năng nhận dạng và phân biệt các loại Task 2 essay từ signal phrases
+- Sử dụng ngôn ngữ nguyên nhân và giải pháp: attributed to, stems from, could be addressed by
+- Yếu tố band descriptor: Task Achievement — đáp ứng đúng yêu cầu đề bài; Coherence — mỗi paragraph có chức năng riêng biệt
+
+---
+
 *End of Exercise — Bài 4: Task 2 Essay Types*

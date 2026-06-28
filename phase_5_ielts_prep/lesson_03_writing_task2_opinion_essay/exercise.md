@@ -317,4 +317,38 @@ After writing your essay, check each item:
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+Writing a high-scoring IELTS opinion essay requires careful planning before any writing begins. The opening sentence of the introduction should provide context by (G1) ___ the topic in different words, avoiding direct copying from the question. The final sentence of the introduction must state the writer's (G2) ___ clearly, so that the examiner knows what argument to expect. A strong opinion essay typically contains two body paragraphs, each beginning with a (G3) ___ sentence that makes a specific argumentative claim. Evidence in each paragraph should be (G4) ___, meaning it references a named study, statistic, or real-world example rather than vague generalisations. The most common structural error is presenting both sides of an argument equally without committing to a clear (G5) ___. When acknowledging an opposing view, writers use phrases such as 'Admittedly' or '(G6) ___' to introduce the concession before refuting it. A conclusion should (G7) ___ the writer's main argument using different wording and should not introduce any new evidence. Lexical resource is assessed by examining how (G8) ___ and accurately vocabulary is used throughout the response. A band 7 writer uses a variety of cohesive devices — such as 'Furthermore', 'However', and '(G9) ___' — to connect ideas smoothly within and between paragraphs. Finally, candidates should aim to write at least (G10) ___ words to demonstrate adequate development of their argument.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. How can a candidate distinguish between a 'partially agree' response and a standard opinion essay in IELTS Task 2?
+2. What is the most effective way to incorporate specific evidence into a body paragraph without it feeling forced?
+3. Why is it important to maintain a consistent position throughout the entire opinion essay?
+4. What are the key differences between a Band 5 and a Band 7 body paragraph in terms of content, language, and structure?
+
+**Model answer (Band 7–8):** One of the most important skills in IELTS opinion essays is maintaining a clear, consistent position from introduction to conclusion. A Band 7+ writer states their thesis explicitly in the introduction — for example, 'I firmly believe that...' or 'I strongly agree that...' — and then develops this position through specific evidence in each body paragraph. A common weakness at Band 5 is presenting two sides equally without making it clear which the writer supports. Even when acknowledging an opposing view, the writer should immediately reaffirm their own position using phrases such as 'Nevertheless' or 'Despite this, it remains the case that'.
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. paraphrasing  G2. position / thesis  G3. topic  G4. specific  G5. position / stance  G6. While / Although  G7. restate  G8. diversely / widely  G9. As a result  G10. 250
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Kỹ năng trình bày và duy trì một quan điểm rõ ràng (thesis) xuyên suốt bài viết
+- Sử dụng bằng chứng cụ thể và discourse markers: Furthermore, However, Admittedly, As a result
+- Yếu tố band descriptor: Task Achievement — vị trí rõ ràng; Coherence & Cohesion — paragraphs có topic sentence và phát triển đầy đủ
+
+---
+
 *End of Exercise — Bài 3: Opinion Essay*

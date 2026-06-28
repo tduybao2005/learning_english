@@ -331,6 +331,27 @@ A striking reversal in media preferences becomes apparent in older age groups. A
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+Describing charts effectively in IELTS Writing Task 1 requires a broad range of precise vocabulary. The opening sentence should (G1) ___ the question prompt by using synonyms and restructuring the original wording rather than copying it. Most responses require an overview paragraph, which (G2) ___ the key trends without including any specific data figures. When a value increases very steeply in a short period, writers typically use verbs such as 'surge', 'soar', or (G3) ___. A (G4) ___ trend, by contrast, refers to a slow and consistent rise over time. When two categories are listed in sequence, the words '(G5) ___' and 'latter' indicate the first and second items respectively. The phrase 'accounted (G6) ___' is used when describing what proportion a category represents in a pie or bar chart. When data shows no change across the entire period, the most precise phrase is 'remained (G7) ___ throughout'. Comparing two countries or groups requires linking language such as '(G8) ___', 'whereas', or 'in contrast'. Writers should use (G9) ___ adverbs like 'approximately' or 'roughly' when the figures cited are not exact. A band 7+ response groups data (G10) ___, ensuring that similar trends are discussed together rather than item by item.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. What are the key differences between describing a line graph and a pie chart in IELTS Writing Task 1?
+2. Why is the overview paragraph considered the most important element of a Task 1 response?
+3. What vocabulary strategies can writers use to avoid repetition when describing similar trends in multiple datasets?
+4. How can a candidate organise body paragraphs effectively when a Task 1 prompt contains two separate charts?
+
+**Model answer (Band 7–8):** The overview is arguably the most important paragraph in a Task 1 response because it demonstrates the writer's ability to identify significant patterns rather than simply describe data mechanically. A strong overview selects the two or three most striking trends — such as the highest value, the most dramatic change, or a notable contrast — and presents them without specific figures. This requires the writer to process the data analytically rather than descriptively. Candidates who omit the overview or include only minor observations tend to score significantly lower on Task Achievement, regardless of their language accuracy.
+
+---
+
 ## BAND SCORE GUIDANCE
 
 ### Tự đánh giá bài viết của bạn:
@@ -356,3 +377,16 @@ A striking reversal in media preferences becomes apparent in older age groups. A
 - [ ] Dùng ngôn ngữ xấp xỉ (approximately, roughly, nearly...)?
 - [ ] Đủ 150 từ?
 - [ ] Không có lỗi ngữ pháp cơ bản?
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. paraphrase  G2. identifies / summarises  G3. rocket  G4. gradual  G5. former  G6. for  G7. stable  G8. while  G9. approximation  G10. logically
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Kỹ năng xác định xu hướng tổng thể (overview) mà không đưa số liệu cụ thể vào
+- Sử dụng từ vựng mô tả xu hướng đa dạng: surge, plummet, remain stable, gradual, steady
+- Yếu tố band descriptor: Task Achievement — bao quát đủ main features, có overview rõ ràng, so sánh chính xác

@@ -436,6 +436,27 @@ Framework:
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+IELTS Speaking Part 3 challenges candidates to engage in extended academic discussion with the examiner on abstract and complex topics. Unlike Part 1, which focuses on personal experience, Part 3 questions typically require candidates to consider (G1) ___ perspectives — for example, comparing different generational views or evaluating the role of governments in solving social problems. A Band 7+ response demonstrates the ability to (G2) ___ an idea fully, providing at least two distinct reasons or examples before reaching a conclusion. (G3) ___ language — phrases such as 'I would argue that', 'It seems to me that', and 'There is a compelling case for' — signals that the candidate can express nuanced opinions at an academic level. Strong candidates also demonstrate (G4) ___ by acknowledging an opposing argument before defending their own position more convincingly. Each response should ideally last between (G5) ___ and 90 seconds, which is long enough to develop two arguments and reach a conclusion. Candidates who use (G6) ___ such as 'That's quite a complex question' or 'It depends very much on how you define...' buy time to organise their thoughts while maintaining natural conversational fluency. The examiner may (G7) ___ on a candidate's answer with a follow-up question, so candidates should be ready to defend or expand on their views. Academic (G8) ___ — such as 'democratise', 'exacerbate', 'polarise', and 'mitigate' — demonstrates the lexical range associated with Band 7–8. Connecting an answer to a (G9) ___ context — referencing global trends, government policy, or social research — adds the analytical depth expected at higher bands. Finally, concluding with a clear (G10) ___ statement reinforces the impression of coherence and analytical ability valued by examiners.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. How can candidates develop their Part 3 answers to demonstrate analytical depth rather than simply listing opinions?
+2. What is the role of hedging language in IELTS Speaking Part 3, and how can overusing simple hedges like 'I think' become a problem?
+3. Why do examiners value concession — acknowledging an opposing view — in Part 3 responses, and how should it be structured?
+4. How can a candidate recover naturally if they run out of ideas midway through a Part 3 answer?
+
+**Model answer (Band 7–8):** Demonstrating analytical depth in Speaking Part 3 requires candidates to move beyond simply stating an opinion and instead develop it through reasoning, acknowledgement of complexity, and a nuanced conclusion. A strong response typically follows this pattern: state a clear position, provide the first reason with a brief example, concede an opposing viewpoint, and then reaffirm the original position in a more qualified way. This structure signals to the examiner that the candidate can engage in the kind of sophisticated, balanced discussion associated with Band 7 and above on both Fluency & Coherence and Lexical Resource criteria.
+
+---
+
 ## SECTION 3: Self-Assessment Rubric
 
 **Hướng dẫn:** Ghi âm bản thân trả lời 5 câu Part 3 ngẫu nhiên từ Section 1. Nghe lại và đánh giá theo bảng dưới đây.
@@ -489,3 +510,16 @@ Framework:
 | Ngày 5 | Luyện Q31–40 (Society): ghi âm 3 câu |
 | Ngày 6 | Luyện Q41–50 (Health): ghi âm 3 câu |
 | Ngày 7 | Mock Part 3: giám khảo hỏi 8 câu ngẫu nhiên từ các chủ đề — ghi âm toàn bộ |
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. broader / multiple  G2. develop  G3. Hedging  G4. nuance / balance  G5. 60 / sixty  G6. stalling phrases  G7. follow up / build  G8. vocabulary  G9. broader / wider  G10. concluding / summary
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Kỹ năng phát triển ý kiến (develop ideas): đưa ra ít nhất 2 lý do + concession + kết luận
+- Sử dụng hedging language và academic vocabulary: I would argue that, exacerbate, polarise, mitigate
+- Yếu tố band descriptor: Fluency & Coherence — câu trả lời dài 60–90 giây, mạch lạc; Lexical Resource — từ học thuật, idioms tự nhiên

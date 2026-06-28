@@ -574,6 +574,27 @@ _______________________________________________
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+Achieving a high band score in IELTS Speaking Part 1 and Part 2 requires deliberate and consistent practice of several key skills. In Part 1, candidates should aim to give answers of at least (G1) ___ sentences, each combining a direct response, a reason, and a specific personal example. Simply answering 'yes' or 'no' without any development will significantly reduce the (G2) ___ score, which assesses how fluently and coherently a candidate connects and extends their ideas. A useful technique for extending answers naturally is to use (G3) ___ markers such as 'What's more', 'That said', and 'Having said that'. In Part 2, candidates receive a cue card and are given (G4) ___ minute of preparation time before speaking for up to two minutes. During preparation, candidates should note (G5) ___ words for each bullet point rather than attempting to write full sentences. A common error is speaking too (G6) ___ in an attempt to cover more content, which reduces naturalness and lowers fluency scores. Strong Part 2 responses use signpost language such as 'To begin with', 'Moving on to', and (G7) ___ to guide the listener clearly through the answer. Candidates who use (G8) ___ vocabulary — words and phrases not found in everyday casual conversation — consistently score higher on Lexical Resource. Using a (G9) ___ of sentence structures, including conditional and relative clauses, demonstrates a wider grammatical range. Finally, recording and listening back to practice answers is one of the most (G10) ___ ways to identify personal weaknesses and monitor improvement over time.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. What is the most effective way to use the one-minute preparation time before a Part 2 cue card response?
+2. How can candidates ensure their Part 1 answers are sufficiently developed without sounding rehearsed or memorised?
+3. What role does signpost language play in a Part 2 response, and what are three effective examples?
+4. How can IELTS candidates practise Speaking skills effectively at home without a study partner?
+
+**Model answer (Band 7–8):** Using the one-minute preparation time effectively in Part 2 is one of the most important strategies for achieving a Band 7+ response. Rather than writing full sentences, candidates should jot down one or two key words for each bullet point on the cue card — these act as memory triggers during the response. It is also useful to decide on a strong opening line and a clear closing sentence in advance, as these frame the response and signal control to the examiner. Candidates who use their preparation time well tend to speak more fluently, maintain logical organisation, and avoid the long pauses that significantly reduce Fluency and Coherence scores.
+
+---
+
 ## SELF-ASSESSMENT CHECKLIST
 
 *Sau mỗi buổi luyện tập, đánh giá bản thân theo từng tiêu chí:*
@@ -632,3 +653,16 @@ To explain how it works: Anki is a spaced repetition flashcard system, which mea
 I started using it when I realised that despite years of studying English, my vocabulary was still limited in professional and academic contexts. Within three months of using Anki daily for about twenty minutes, I noticed a remarkable improvement in my reading comprehension — words that had previously required a dictionary were suddenly familiar.
 
 What makes it so particularly useful is the efficiency. Twenty minutes of well-designed spaced repetition is more effective than hours of passive re-reading. And that's why Anki has become, without question, the most valuable tool in my language learning toolkit — something I genuinely couldn't imagine studying without."
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. four / four or five  G2. Fluency & Coherence  G3. discourse  G4. one  G5. key  G6. quickly / fast  G7. Finally  G8. less common  G9. variety  G10. effective
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Kỹ năng mở rộng câu trả lời Part 1: trả lời trực tiếp + lý do + ví dụ cụ thể
+- Sử dụng signpost language và discourse markers trong Part 2: To begin with, Moving on to, Finally
+- Yếu tố band descriptor: Fluency & Coherence — nói trôi chảy, tự nhiên, có tổ chức; Lexical Resource — từ vựng ít phổ thông

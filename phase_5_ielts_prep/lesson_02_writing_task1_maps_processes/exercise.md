@@ -202,6 +202,27 @@ ___________________________________________________________________________
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+Describing maps and processes in IELTS Writing Task 1 requires both precise location language and an understanding of how to use the passive voice. When explaining how an area changed over time, passive constructions such as 'a new road (G1) ___ in the north' convey change concisely without naming a subject. The expression 'adjacent to' means directly next to another feature, while '(G2) ___' describes a position at the edge of a town or urban area. Process diagrams require steps to be described in (G3) ___ order, using sequencing adverbs such as 'initially', 'subsequently', and '(G4) ___'. In both map and process tasks, an overview should state the overall direction of change rather than listing every detail. The verb '(G5) ___' is used to describe the conversion of a building or land for a different purpose, as in a factory converted into apartments. Where a feature did not change between two time periods, the correct phrase is that it '(G6) ___ unchanged'. For process tasks, passive constructions with the present simple — such as 'is filtered' or '(G7) ___' — are preferred because the focus is on the process rather than the agent. When two map features are described together, location phrases such as '(G8) ___ the river' help to organise the description spatially. A well-written overview for a map task should identify the (G9) ___ significant change or development overall. Finally, to avoid repetition, writers should vary their synonyms: 'demolished', 'knocked down', and '(G10) ___' all describe the removal of a structure.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. What are the most common mistakes candidates make when describing map changes in IELTS Task 1?
+2. Why is passive voice particularly important in process diagram descriptions, and how should it be formed correctly?
+3. How should a candidate organise their response when asked to compare two maps from different time periods?
+4. What vocabulary is most useful for describing the location of features in relation to each other on a map?
+
+**Model answer (Band 7–8):** When describing two maps that show changes over time, organisation is critical. The most effective approach is to group changes thematically — for example, discussing the town centre first, then the north, then the south — rather than moving mechanically around the map. This grouping strategy ensures that comparisons between the two time periods are made clearly in each paragraph. Passive voice constructions such as 'was demolished', 'was extended', and 'was converted' are essential for conveying change accurately. A strong overview should identify whether the overall development represents expansion, demolition, or a combination of both.
+
+---
+
 ## ANSWER KEY
 
 ---
@@ -281,3 +302,16 @@ ___________________________________________________________________________
 - **Coherence (Band 8):** Seamless sequencing; wide range of cohesive devices.
 - **Lexical Resource (Band 8):** Technical vocabulary used accurately ("flocculation", "disinfection", "distribution network").
 - **Grammar (Band 8):** Passive construction throughout; complex sentences used correctly.
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. was built / was constructed  G2. on the outskirts of  G3. sequential / chronological  G4. finally  G5. convert / redevelop  G6. remained  G7. is heated / is treated  G8. alongside  G9. most  G10. torn down / pulled down
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Kỹ năng tổ chức mô tả theo vùng địa lý (thematic grouping) thay vì liệt kê tuần tự
+- Sử dụng bị động (passive voice) đúng thì: was built, was demolished, was extended
+- Yếu tố band descriptor: Coherence & Cohesion — tổ chức logic, dùng từ chỉ vị trí chính xác

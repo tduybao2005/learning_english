@@ -171,6 +171,27 @@ Answer: ___________
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+Developing effective IELTS reading strategies can significantly improve both speed and accuracy in the exam. The technique of (G1) ___ involves reading a passage quickly to grasp its general topic and structure before attempting any questions. In contrast, (G2) ___ means searching rapidly through the text for a specific name, number, or date without reading every word in detail. For True/False/Not Given questions, a statement is marked (G3) ___ only when the passage contains information that directly contradicts it. When the passage simply does not address a point at all, the correct answer is (G4) ___, not False, regardless of whether the statement seems plausible. Matching headings tasks require candidates to identify the (G5) ___ idea of each paragraph rather than selecting headings based on a single detail. For sentence completion tasks, answers must be (G6) ___ directly from the passage in exactly the form they appear in the text. Absolute (G7) ___ such as 'all', 'every', and 'always' in True/False/Not Given statements frequently signal a Not Given or False answer. Candidates should (G8) ___ key words in each question before locating the relevant section of the passage to read carefully. Effective time management requires spending roughly (G9) ___ minute on average per question across a sixty-minute passage. Finally, after completing all questions, candidates should review any (G10) ___ items rather than leaving blanks, since guessing carries no penalty in IELTS reading.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. How can understanding the distinction between 'False' and 'Not Given' help candidates avoid common mistakes in IELTS Reading?
+2. What is the most effective approach to matching headings questions when you have more headings than paragraphs?
+3. Why is it important to copy words exactly from the passage in sentence completion tasks rather than paraphrasing?
+4. How should candidates manage their time effectively across different question types in a single reading passage?
+
+**Model answer (Band 7–8):** The most commonly misunderstood aspect of IELTS True/False/Not Given questions is the distinction between 'False' and 'Not Given'. A statement is False only when the passage contains specific information that directly contradicts it — for instance, if the passage says participants are 'more likely to report in accessible locations' and the question says 'less accessible areas', that is a direct contradiction and therefore False. Not Given, however, means the passage simply does not address the topic of the statement at all. Candidates who answer False when information is merely absent lose marks unnecessarily, as they are making an inference rather than identifying an explicit contradiction.
+
+---
+
 ## ANSWER KEY
 
 ---
@@ -312,3 +333,16 @@ Common mistakes:
 - 10–11 correct → Band 6.5
 - 8–9 correct → Band 6.0
 - Dưới 8 → Ôn lại strategies trong lecture.md
+
+---
+
+## PHẦN G — ĐÁP ÁN
+
+G1. skimming  G2. scanning  G3. False  G4. Not Given  G5. main  G6. copied  G7. quantifiers  G8. underline / identify  G9. one  G10. unanswered
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Kỹ năng phân biệt False và Not Given: False = mâu thuẫn trực tiếp; Not Given = không được đề cập
+- Sử dụng skimming và scanning đúng cách cho từng loại câu hỏi
+- Yếu tố band descriptor: Reading accuracy — đọc đúng thông tin, không suy diễn ngoài văn bản
