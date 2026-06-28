@@ -3,7 +3,7 @@
 **Time allowed: 60 minutes**
 **Total questions: 40**
 
----
+***
 
 ## READING PASSAGE 1
 
@@ -23,7 +23,7 @@
 
 **F** Among the most prevalent modern sleep disorders is insomnia, characterised by persistent difficulty falling asleep, staying asleep, or achieving restorative sleep. Insomnia affects an estimated ten to thirty per cent of adults in developed countries and is closely associated with chronic stress, anxiety, and the demands of shift work. Obstructive sleep apnoea — in which the soft tissues of the throat partially or completely block the airway during sleep, causing repeated interruptions to breathing — is estimated to affect up to one billion people worldwide and is strongly correlated with obesity. Restless legs syndrome, characterised by an irresistible urge to move the legs during rest, affects between five and ten per cent of the adult population in Western nations. The economic cost of sleep disorders, including lost workplace productivity, increased healthcare utilisation, and higher accident rates, has been estimated by the RAND Corporation at over four hundred billion dollars annually in the United States alone.
 
----
+***
 
 ## QUESTIONS 1–13
 
@@ -46,7 +46,7 @@
 
 **5.** People who suffer from obstructive sleep apnoea are more likely than others to experience vivid nightmares during REM sleep.
 
----
+***
 
 ### Questions 6–10
 
@@ -64,7 +64,7 @@
 
 **10.** According to the passage, which organisation alongside the World Health Organisation recommends that adults obtain seven to nine hours of sleep per night?
 
----
+***
 
 ### Questions 11–13
 
@@ -78,8 +78,8 @@
 
 **13.** The RAND Corporation estimated that sleep disorders cost the United States over .......... dollars every year in lost productivity and related expenses.
 
----
----
+***
+***
 
 ## READING PASSAGE 2
 
@@ -101,7 +101,7 @@
 
 **G** In the contemporary global economy, coffee supports the livelihoods of an estimated twenty-five million smallholder farmers across the tropical belt of Africa, Asia, and Latin America. The industry has faced sustained criticism for the low prices typically paid to producers relative to the retail prices commanded by branded coffee in consuming countries. The fair trade and direct trade movements that emerged in the 1980s and 1990s sought to address this imbalance by guaranteeing minimum prices to growers and establishing more equitable supply chains. Climate change now presents a fundamental threat to global coffee production: rising temperatures, shifting rainfall patterns, and the expansion of fungal diseases such as coffee leaf rust are projected to reduce the area of land suitable for Arabica cultivation by up to fifty per cent by 2050, raising questions about the long-term future of one of the world's most beloved beverages.
 
----
+***
 
 ## QUESTIONS 14–26
 
@@ -138,7 +138,7 @@
 
 **18.** Paragraph F
 
----
+***
 
 ### Questions 19–22
 
@@ -172,7 +172,7 @@
 - **C** They arrived via slave traders who brought them from Africa.
 - **D** They were developed through independent cross-breeding experiments by Brazilian scientists.
 
----
+***
 
 ### Questions 23–26
 
@@ -188,8 +188,8 @@
 
 **26.** Environmental threats to coffee production include rising temperatures and the spread of fungal diseases such as coffee .......... .
 
----
----
+***
+***
 
 ## READING PASSAGE 3
 
@@ -213,7 +213,7 @@
 
 **H** The policy application of insights from cognitive psychology is most closely associated with the concept of nudging, which was popularised by economists Richard Thaler and Cass Sunstein in their 2008 book *Nudge*. A nudge is any feature of a decision environment that predictably alters behaviour without forbidding options or significantly changing financial incentives. Classic examples include placing healthier foods at eye level in workplace canteens, automatically enrolling employees in pension savings schemes with an opt-out option rather than an opt-in, and configuring organ donation systems as opt-out rather than opt-in. Research across multiple countries has demonstrated that such architecture interventions — which exploit the human tendency towards inertia — can produce substantial changes in behaviour at negligible cost. Critics, however, have questioned whether nudging is paternalistic, whether it manipulates people without their knowledge or consent, and whether it addresses only the symptoms of irrational decision-making while leaving its underlying causes unaddressed.
 
----
+***
 
 ## QUESTIONS 27–40
 
@@ -237,7 +237,7 @@
 
 **31.** A description of research showing that the order in which information is presented influences people's numerical estimates.
 
----
+***
 
 ### Questions 32–36
 
@@ -258,7 +258,7 @@
 
 **36.** Richard Thaler and Cass Sunstein co-authored the book *Nudge*, which was published in 2008.
 
----
+***
 
 ### Questions 37–40
 
