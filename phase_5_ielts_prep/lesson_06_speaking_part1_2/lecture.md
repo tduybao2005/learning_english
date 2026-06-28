@@ -372,3 +372,37 @@ I believe improving this skill would open significant opportunities. But beyond 
 ---
 
 *Bài tiếp theo: Bài 7 — IELTS Speaking Part 3: Thảo luận chuyên sâu về các vấn đề xã hội*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| Part 1: "Yes, I like music." (dừng lại ở đây) | "Yes, I've always been passionate about music. In particular, I love Vietnamese indie music — there's something about the blend of traditional melodies with modern instruments that I find incredibly moving. I often listen to it on my commute to unwind." | Part 1 yêu cầu mở rộng câu trả lời — trả lời một câu ngắn là dấu hiệu Band 5 về Fluency; áp dụng công thức Direct answer + Reason + Example |
+| Dùng fillers không tự nhiên liên tục: "Uh... um... you know..." | "Well, that's a good question..." / "To be honest with you..." / "Let me think about that for a moment..." | Fillers "uh/um" lặp lại nhiều lần làm giảm điểm Fluency & Coherence; thay bằng các fillers tự nhiên và mang tính học thuật hơn |
+| Cue Card: Không tận dụng 1 phút chuẩn bị, chỉ ngồi nghĩ trong đầu | Ghi 4–5 từ khóa (không viết câu đầy đủ) tương ứng với mỗi bullet point trong 1 phút chuẩn bị | 1 phút chuẩn bị là cơ hội quý — không ghi chú từ khóa là lãng phí hoàn toàn; ghi câu đầy đủ tốn quá nhiều thời gian |
+| Cue Card: Bỏ qua một trong các bullet points | Đề cập tất cả 4 bullet points theo thứ tự logic, dùng signpost language để chuyển tiếp | Bỏ sót bullet point làm giảm điểm Task Response và Coherence; examiner theo dõi kỹ xem bạn có đề cập đủ không |
+| Lặp từ đơn giản: "It's very good... very nice... very interesting... very beautiful." | "I find it remarkably compelling / genuinely fascinating / particularly meaningful / quite extraordinary." | Lặp "very + adjective" liên tục cho thấy Lexical Resource hạn chế; dùng adverb + adjective đa dạng để nâng điểm |
+| Cue Card: Dừng lại và nói "I'm sorry, I don't know what to say." | Dùng câu mở rộng: "What I find most interesting in retrospect is..." / "The reason this experience stands out for me is..." | Không bao giờ thừa nhận mất mạch ý với examiner — dùng signpost language và câu phản ánh cá nhân để kéo dài và kết nối ý |
+| Bắt đầu hầu hết mọi câu bằng "I": "I like... I think... I went... I have..." | "What strikes me is..." / "From my perspective..." / "Looking back, I..." / "What I find particularly interesting is..." | Mọi câu đều bắt đầu bằng "I" cho thấy Grammatical Range thấp; đa dạng hóa cấu trúc câu để nâng Band Score |
+| Nói quá nhanh, không có pausing tự nhiên giữa các ý | Nói ở tốc độ tự nhiên, dừng ngắn giữa các ý chính để nhấn mạnh và cho examiner xử lý thông tin | Nói nhanh không phải fluency — examiner đánh giá sự tự nhiên và khả năng tổ chức ý; pausing đúng chỗ là dấu hiệu của người nói có kỹ năng |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Công thức mở rộng Part 1 (bắt buộc):** Direct answer + Reason + Example hoặc Personal detail + Follow-up thought — không bao giờ kết thúc câu trả lời chỉ sau một câu ngắn
+- **Chuẩn bị Cue Card hiệu quả trong 1 phút:** Đọc kỹ 4 bullet points → ghi 4–5 từ khóa (không viết câu đầy đủ) → lên kế hoạch câu mở đầu và câu kết thúc → chọn thì động từ phù hợp (quá khứ hay hiện tại)
+- **Signpost language cho Part 2:** "To start with..." / "Moving on to..." / "As for..." / "Finally, and perhaps most importantly..." — dẫn dắt examiner qua các phần của bài nói một cách rõ ràng
+- **Đa dạng hóa từ vựng mô tả:** Tránh lặp "very + adjective"; thay bằng "remarkably", "genuinely", "particularly", "profoundly" + adjective phong phú hơn
+- **Tense consistency trong Cue Card:** Sự kiện quá khứ → past tense xuyên suốt; thói quen/sự thật hiện tại → present tense — lẫn lộn thì là lỗi Grammatical Accuracy
+- **Nếu nói xong sớm trong Cue Card:** Thêm phản ánh cá nhân ngay: "What I find most interesting in retrospect is..." / "The reason this experience has stayed with me is..." — đừng dừng lại và im lặng
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 7: Speaking Part 3](../lesson_07_speaking_part3/lecture.md) — kỹ năng mở rộng câu trả lời và sử dụng hedging language trong Part 1 & 2 là nền tảng trực tiếp cho kỹ thuật phân tích chuyên sâu yêu cầu trong Part 3
+- [Bài 3: Writing Task 2 — Opinion Essay](../lesson_03_writing_task2_opinion_essay/lecture.md) — kỹ năng phát triển luận điểm có lý do và ví dụ cụ thể trong Writing PEEL framework phản chiếu đúng cấu trúc mở rộng câu trả lời trong Speaking Part 1 & 2
+- [Bài 5: Reading Strategies](../lesson_05_reading_strategies/lecture.md) — luyện paraphrase qua Reading (nhận biết khi câu hỏi nói cùng ý với bài nhưng dùng từ khác) giúp tránh lỗi lặp từ và cải thiện Lexical Resource trong Speaking

@@ -233,3 +233,37 @@ Viết thêm một luận điểm hoàn toàn mới ủng hộ lập trường c
 - Coherence & Cohesion: 8 — Seamless organisation; wide range of cohesive devices
 - Lexical Resource: 8 — "desensitise", "demonstrable impact", "proportionate response", "nuanced" — sophisticated vocabulary
 - Grammatical Range & Accuracy: 8 — Complex structures used accurately; minimal errors
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| "Nowadays, technology plays an important role in our lives." | "In recent years, technology has played an increasingly significant role in modern society." | Bắt đầu bài bằng "Nowadays" là cách mở đầu bị coi là quá cũ và thiếu sáng tạo — examiner sẽ thất vọng ngay từ câu đầu tiên |
+| "I think technology is good. I think it helps people a lot." | "I firmly believe that technology benefits society greatly, as it improves access to healthcare and education." | Dùng "I think" lặp lại nhiều lần trong cùng một đoạn làm giảm điểm Lexical Resource; cần xen kẽ "I believe", "I am convinced that", "In my view" |
+| "In my opinion, I think that technology has changed the world." | "In my opinion, technology has fundamentally transformed the way people live and work." | "In my opinion" và "I think" có nghĩa trùng nhau — không dùng cả hai trong cùng một câu |
+| "Many studies show that exercise is beneficial for health." | "A study conducted at Stanford University found that regular exercise reduces the risk of heart disease by up to 35%." | Ví dụ mơ hồ, thiếu chi tiết cụ thể — IELTS không yêu cầu số liệu 100% chính xác nhưng bắt buộc phải có ví dụ đủ cụ thể |
+| Conclusion: "In conclusion, there are many reasons why technology is good, including healthcare, education, and communication." | "In conclusion, I maintain that technology has unquestionably improved human life, and its transformative benefits in healthcare and education alone justify this position." | Không đưa ra thông tin hoặc điểm mới trong kết luận — phải restate position và tóm tắt ngắn gọn bằng từ ngữ mới |
+| Body paragraph 2 câu: "Technology helps healthcare. Doctors use it every day." | "Technology has revolutionised healthcare on a global scale. Advances in diagnostic imaging and surgical techniques have extended average life expectancy significantly. For instance, the development of mRNA vaccines in under a year demonstrated technology's capacity to respond to global crises at unprecedented speed. This clearly shows that technology is a genuinely life-saving force." | Body paragraph quá ngắn — mỗi body paragraph cần đủ cấu trúc PEEL (tối thiểu 4–5 câu) để đạt điểm Coherence |
+| "The government should do something about this problem." | "Governments should implement targeted digital literacy programmes and introduce clear regulations on harmful online content." | Ngôn ngữ quá mơ hồ — cần cụ thể hóa hành động, chính sách, hoặc giải pháp thay vì chỉ nói chung chung |
+| Conclusion: "In conclusion, as I stated above, I think technology helps people in many ways such as healthcare and education." | "In conclusion, I remain firmly convinced that technology represents one of the most positive forces in modern history, having transformed both medicine and learning in ways that benefit billions." | Chép lại câu từ introduction và lặp "as I stated above" — kết luận phải dùng từ ngữ mới, không lặp nguyên câu đã viết |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Lập trường rõ ràng ngay từ đầu:** Thesis statement phải xuất hiện ở cuối introduction — examiners xác định Task Achievement dựa trên câu này; không được lập lờ hai phía
+- **Cấu trúc PEEL cho mỗi body paragraph:** Point → Explain → Evidence (cụ thể: tên quốc gia, tổ chức, sự kiện) → Link — tối thiểu 4–5 câu, không được viết body paragraph chỉ 2–3 câu
+- **Không bắt đầu bằng "Nowadays":** Thay bằng "In recent years...", "The question of whether...", "It is often argued that...", hoặc "It is widely accepted that..."
+- **Đa dạng hedging language:** Xen kẽ "I believe", "I am convinced that", "In my view", "I would argue that", "I am firmly of the opinion that" — không lặp "I think" quá 2 lần trong toàn bài
+- **Ví dụ phải cụ thể và có thể kiểm chứng:** Nêu tên quốc gia, tổ chức, hoặc nghiên cứu rõ ràng — tránh "many studies show" hoặc "some countries have proven" mà không có thêm thông tin
+- **Conclusion — chỉ restate và summarise:** Không đưa ra bất kỳ luận điểm mới nào; paraphrase lại thesis bằng từ ngữ khác và tóm tắt trong 2–3 câu
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 4: Các loại bài luận khác](../lesson_04_writing_task2_discussion_essay/lecture.md) — phân biệt Opinion Essay (một lập trường xuyên suốt) với Discussion Essay (phải phát triển cả hai phía); nhầm loại bài là lỗi nghiêm trọng nhất trong Task 2
+- [Bài 7: Speaking Part 3](../lesson_07_speaking_part3/lecture.md) — kỹ năng xây dựng luận điểm có lý do và ví dụ cụ thể trong Speaking Part 3 trực tiếp phản chiếu cấu trúc PEEL được dùng trong Opinion Essay
+- [Bài 6: Speaking Part 1 & 2](../lesson_06_speaking_part1_2/lecture.md) — luyện paraphrase qua Speaking giúp tránh lỗi chép nguyên câu từ đề bài trong Writing Task 2

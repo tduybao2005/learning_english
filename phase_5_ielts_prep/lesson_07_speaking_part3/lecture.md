@@ -319,3 +319,37 @@ Conclude: *"So on balance, I'd favour targeted, transparent regulation of specif
 **Q:** "Should wealthy nations be obligated to help developing nations address climate change?"
 
 *"I think the ethical case for this is actually quite compelling, even if the political reality is more complicated. The fundamental argument rests on historical responsibility: the countries that are now most vulnerable to the effects of climate change — low-lying Pacific island nations, sub-Saharan African countries, Bangladesh — have contributed negligibly to the cumulative carbon emissions that created the problem. The industrialised nations that drove the bulk of historical emissions accumulated their wealth partly through activities that imposed costs on the rest of the world. That seems, to me, to generate a genuine obligation — not simply a matter of charity or generosity. That said, I recognise that 'obligation' is a strong word politically, and that domestic political constraints in wealthy nations make large-scale climate finance genuinely difficult. What I'd argue is that framing this as a legal or ethical obligation might actually be less effective than framing it as enlightened self-interest: climate instability in developing nations drives migration, conflict, and economic disruption that wealthy nations cannot insulate themselves from. On balance, I think the case for substantial climate finance is overwhelming on both ethical and strategic grounds."*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| Trả lời chỉ 1–2 câu: "Yes, I think AI is important. It helps people a lot." | "Well, that's quite a complex issue. I'd argue that AI will be profoundly disruptive, particularly in sectors involving routine tasks like data processing and basic customer service. That said, history suggests new technologies typically create new roles even as they displace old ones." | Câu trả lời quá ngắn là lỗi nghiêm trọng nhất trong Part 3; examiner kỳ vọng 60–90 giây mỗi câu trả lời |
+| Bắt đầu trực tiếp bằng "Yes, I think..." hoặc "No, I don't think..." | "That's quite a complex issue, actually..." / "Hmm, it's difficult to give a simple answer, but I'd say..." | Bắt đầu ngay bằng "Yes/No" không có signal phrases cho thấy thiếu fluency và thiếu tự nhiên — dùng signal để tạo thời gian suy nghĩ |
+| Không có hedging: "AI will definitely replace all jobs within 10 years." | "I'd be inclined to say that AI might displace certain categories of jobs, though I recognise this remains a genuinely contested prediction." | Trong Part 3, không có hedging là dấu hiệu Band 5–6; hedging tự nhiên ("I'd argue", "It seems to me", "I'm somewhat sceptical") là dấu hiệu Band 7+ |
+| Không thừa nhận ý kiến đối lập, chỉ nói một chiều | "At the same time, I can see why some people would argue that..." / "That said, I'd also want to acknowledge that..." | Câu trả lời một chiều thiếu chiều sâu phân tích — Band 7+ luôn thừa nhận ý đối lập trước khi đưa ra lập trường cuối cùng |
+| Dùng từ vựng lặp lại, đơn giản: "This is a big problem for society. It's a very big challenge." | "This presents a significant societal challenge with far-reaching implications, particularly in the context of..." | Lặp từ vựng đơn giản cho thấy Lexical Resource hạn chế; Part 3 đòi hỏi từ vựng học thuật đa dạng như "far-reaching", "profound", "multifaceted" |
+| Câu trả lời "chết đứng" không có câu kết thúc | "So, on balance, I'd conclude that..." / "Ultimately, I believe that..." / "Taking everything into account, my overall view is that..." | Câu trả lời không có câu kết thúc rõ ràng làm giảm điểm Coherence; luôn kết thúc bằng một câu tóm tắt quan điểm |
+| Câu hỏi giả định: "I don't know. It's hard to say what might happen." | "Hypothetically speaking, if governments were to invest substantially in renewable energy, I imagine we might see a marked reduction in carbon emissions over the following two decades." | Câu hỏi giả định yêu cầu dùng conditional structures và speculative language — trả lời "I don't know" hoàn toàn không thể chấp nhận trong Part 3 |
+| Ví dụ thực tế quá mơ hồ: "Some countries have done this successfully." | "Countries such as Germany and Denmark have demonstrated that substantial public investment in renewable energy can reduce carbon emissions by over 40% within a decade." | Ví dụ cụ thể với tên quốc gia, tổ chức, hoặc số liệu cho thấy Lexical Resource và kiến thức nền; ví dụ mơ hồ không thuyết phục examiner |
+
+---
+
+## TÓM TẮT NHANH
+
+- **5 bước trả lời Part 3:** Signal (3–5 giây tạo thời gian suy nghĩ) → Position (1 câu nêu lập trường) → Elaborate 1 (lý do chính + ví dụ cụ thể) → Elaborate 2 hoặc Concede (lý do 2 hoặc thừa nhận ý đối lập) → Conclude (1 câu tóm tắt)
+- **Độ dài mục tiêu:** 60–90 giây mỗi câu trả lời; dưới 30 giây = dấu hiệu rõ ràng của Band 5–6; trên 2 phút = dài quá và mất tự nhiên
+- **Hedging là bắt buộc để đạt Band 7+:** "I'd argue that...", "I'm somewhat sceptical of...", "I'd be inclined to say...", "The picture is more nuanced than..." — thể hiện tư duy cẩn thận và phân tích
+- **Câu hỏi giả định — dùng conditional và speculative language:** "Were this to happen...", "Should governments invest...", "If nothing changes, I would predict that...", "It seems entirely plausible that..." — không được trả lời "I don't know"
+- **Ví dụ cụ thể mỗi câu trả lời:** Đặt tên quốc gia, tổ chức, chính sách, hoặc nghiên cứu cụ thể — "Countries such as...", "Research suggests...", "A case in point is..." — tránh "some people", "some countries"
+- **Thừa nhận ý đối lập:** Dùng "Admittedly...", "That said...", "I recognise that..." để tạo chiều sâu — không cần đồng ý nhưng cần thừa nhận sự phức tạp của vấn đề
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 6: Speaking Part 1 & 2](../lesson_06_speaking_part1_2/lecture.md) — kỹ năng mở rộng câu trả lời và sử dụng signpost language trong Part 1 & 2 là nền tảng cần thiết trước khi luyện kỹ thuật phân tích chuyên sâu của Part 3
+- [Bài 4: Các loại bài luận khác](../lesson_04_writing_task2_discussion_essay/lecture.md) — khả năng phân tích hai phía của một vấn đề trong Discussion Essay trực tiếp luyện tập cách tư duy cân bằng cần thiết để trả lời Part 3 thuyết phục
+- [Bài 3: Writing Task 2 — Opinion Essay](../lesson_03_writing_task2_opinion_essay/lecture.md) — kỹ thuật Concession + Rebuttal trong Writing Opinion Essay (thừa nhận ý đối lập rồi phản bác) chính là cấu trúc Elaborate 2/Concede bước 4 trong framework 5 bước của Part 3

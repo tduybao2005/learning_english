@@ -340,3 +340,37 @@ Before writing a single sentence, confirm:
 ---
 
 *End of Lecture — Bài 4: Task 2 Essay Types*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| Discussion essay: Chỉ phát triển phía mình đồng ý, bỏ qua phía còn lại | "This essay will examine both the arguments in favour of zoos as conservation tools and the concerns regarding animal welfare, before concluding that well-regulated zoos serve a vital purpose." | Đề hỏi "discuss BOTH views" — nếu chỉ viết một phía, Task Achievement tụt xuống Band 5 ngay lập tức |
+| Discussion essay: Không nêu ý kiến cá nhân trong Introduction lẫn Conclusion | Kết thúc Introduction: "...before concluding that responsible, accredited zoos are necessary for conservation." | Ý kiến cá nhân phải xuất hiện ngắn gọn trong Introduction và được phát triển đầy đủ hơn trong Conclusion — thiếu hoàn toàn là lỗi Task Achievement Band 6 tối đa |
+| Problem-Solution: Solution trong Body 2 không liên quan đến Cause trong Body 1 | Body 1 causes: "sedentary lifestyle + poor diet" → Body 2 solutions: "exercise promotion campaigns + taxation on junk food" | Solutions phải trực tiếp và chính xác phản chiếu từng Cause đã nêu; viết giải pháp không khớp là lỗi coherence nghiêm trọng làm giảm điểm ngay |
+| Advantages-Disadvantages (outweigh): Không nêu lập trường rõ ràng | "Working from home has advantages and disadvantages." → "I would argue that the advantages of working from home clearly outweigh the disadvantages for both employees and employers." | Khi đề hỏi "outweigh", bắt buộc có lập trường rõ ràng trong Introduction — không có lập trường = Band 5 cho Task Achievement |
+| Two-part question: Trả lời cả hai câu hỏi trong cùng một body paragraph | "People have fewer children because of economic pressure, and this is negative because it ages the population." | Mỗi body paragraph phải trả lời đúng một câu hỏi — trộn Q1 và Q2 vào cùng đoạn là lỗi cấu trúc nghiêm trọng làm mất điểm Coherence |
+| Discussion essay: Hai body paragraphs mất cân bằng nghiêm trọng | Body 1: 30 từ — Body 2: 130 từ | Hai phía trong Discussion essay phải được phát triển cân bằng; chênh lệch lớn cho thấy thiếu kế hoạch và ảnh hưởng đến Task Achievement |
+| Problem-Solution: Causes và solutions lẫn lộn trong cùng một đoạn | Body 1 nói về nguyên nhân nhưng đột ngột kết thúc bằng một giải pháp | Giữ kỷ luật cấu trúc: Body 1 = causes only; Body 2 = solutions only — không được trộn lẫn |
+| Conclusion đưa ra luận điểm hoàn toàn mới | "In conclusion, working from home is also beneficial for the environment because it reduces commuting." | Conclusion chỉ được restate và summarise — đưa thông tin mới trong kết luận là lỗi Task Achievement và Coherence |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Nhận diện đúng loại bài là bước quan trọng nhất:** "Discuss both views" ≠ Opinion essay; "Do the advantages outweigh" ≠ "Discuss advantages and disadvantages" — nhầm loại bài là lỗi nghiêm trọng nhất có thể giới hạn điểm ở Band 5
+- **Discussion essay — hai quy tắc bắt buộc:** (1) Phát triển cả hai phía cân bằng về độ dài và chiều sâu; (2) Nêu ý kiến cá nhân ngắn gọn trong Introduction và đầy đủ trong Conclusion
+- **Problem-Solution — quy tắc vàng tuyệt đối:** Mỗi solution trong Body 2 phải trực tiếp và rõ ràng giải quyết đúng cause tương ứng trong Body 1 — không được viết solution không liên quan
+- **Advantages-Disadvantages (outweigh) — lập trường không thể thiếu:** Câu "I believe the advantages clearly outweigh the disadvantages" phải có ngay trong Introduction — không có = Band 5
+- **Two-part question — kỷ luật tuyệt đối:** Một body paragraph = đúng một câu hỏi; không bao giờ trộn Q1 và Q2 vào cùng đoạn dù chúng có vẻ liên quan
+- **Kế hoạch 5 phút trước khi viết:** Xác định loại bài → xác định lập trường (nếu cần) → phác thảo 2 body points → bắt đầu viết — bỏ qua bước này dẫn đến mất cấu trúc
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 3: Writing Task 2 — Opinion Essay](../lesson_03_writing_task2_opinion_essay/lecture.md) — nắm vững Opinion Essay (một lập trường xuyên suốt) trước khi học Discussion Essay; hiểu rõ sự khác biệt để không nhầm cấu trúc khi thi
+- [Bài 7: Speaking Part 3](../lesson_07_speaking_part3/lecture.md) — kỹ năng phân tích hai phía của một vấn đề trong Speaking Part 3 trực tiếp luyện tập cách tư duy cần thiết để viết Discussion Essay; hai kỹ năng này hỗ trợ lẫn nhau
+- [Bài 5: Reading Strategies](../lesson_05_reading_strategies/lecture.md) — đọc nhiều academic texts trong IELTS Reading giúp mở rộng ngôn ngữ mô tả causes, solutions, và weighing dùng trong Task 2

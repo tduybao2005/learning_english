@@ -379,3 +379,37 @@ Nhìn vị trí trong câu: là noun/verb/adjective/adverb?
 ---
 
 *End of Lecture — Bài 5: IELTS Reading Strategies*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| T/F/NG: Đọc thấy "elderly" trong câu hỏi và bài nói về "people aged 20–30" → chọn FALSE | NOT GIVEN | Bài không đề cập gì về người cao tuổi — không thể suy luận ngầm; chỉ FALSE khi bài nói điều trực tiếp mâu thuẫn với câu hỏi |
+| T/F/NG: Bài viết "The treatment is unlikely to cause side effects" → câu hỏi "The treatment is completely safe" → chọn TRUE | FALSE | "Unlikely" ≠ "completely safe" — degree trap: bài không đảm bảo hoàn toàn an toàn, câu hỏi mâu thuẫn với nội dung bài |
+| Đọc toàn bộ bài từ đầu đến cuối trước khi nhìn vào câu hỏi | Skim bài 2 phút lấy đại ý → đọc câu hỏi → scan tìm đáp án từng câu | Đọc toàn bài trước làm câu hỏi mất 15–20 phút cho một passage; không có đủ thời gian làm 40 câu trong 60 phút |
+| Matching Headings: Chọn heading vì một từ khóa từ heading xuất hiện trong đoạn văn | Heading đúng = paraphrase ý CHÍNH của cả đoạn văn, không chỉ phản ánh một chi tiết nhỏ | Examiner cố tình đặt từ khóa của heading sai vào đoạn văn để đánh bẫy — cần xác định main idea của cả đoạn |
+| Sentence/Summary Completion: Viết đáp án bằng từ của mình (paraphrase) | Copy chính xác từ trong bài — không thay đổi dạng từ, không paraphrase | Đáp án Sentence/Summary Completion phải lấy nguyên văn từ bài; paraphrase dù đúng nghĩa vẫn bị chấm sai |
+| T/F/NG: Dùng kiến thức bên ngoài để trả lời câu hỏi | Chỉ dùng thông tin có trong bài đọc — nếu bài không đề cập, đáp án là NOT GIVEN | Common knowledge trap: dù bạn biết điều đó là đúng từ kiến thức chung, nếu bài không xác nhận thì đáp án là NOT GIVEN |
+| Dành 4–5 phút cho một câu hỏi khó, không chịu chuyển sang câu khác | Áp dụng quy tắc 2 phút: đánh dấu, điền đáp án tạm tốt nhất, chuyển ngay sang câu tiếp theo | Mỗi câu trong Reading có giá trị bằng nhau; kẹt quá lâu ở một câu khó làm mất điểm các câu dễ hơn sau đó |
+| Short Answer/Sentence Completion: Viết câu trả lời vượt quá giới hạn từ | "340 km/h" hoặc "340 kilometres" thay vì "three hundred and forty kilometres per hour" (khi giới hạn 2 words) | Vi phạm giới hạn từ là lỗi cơ bản — đáp án đúng nội dung nhưng sai số lượng từ vẫn bị chấm là sai hoàn toàn |
+
+---
+
+## TÓM TẮT NHANH
+
+- **5 chiến lược cốt lõi theo thứ tự:** Skimming (lấy ý chính toàn bài) → Scanning (tìm thông tin cụ thể bằng keyword) → Careful Reading (T/F/NG, paraphrase phức tạp) → Question Order (xác định câu hỏi có theo thứ tự passage không) → Time Discipline (tối đa 2 phút mỗi câu)
+- **T/F/NG — phân biệt FALSE và NOT GIVEN:** FALSE = bài nói điều trực tiếp mâu thuẫn với câu hỏi; NOT GIVEN = bài không đề cập chủ đề đó; không dùng kiến thức bên ngoài bài đọc để trả lời
+- **Matching Headings — không chọn theo keyword:** Heading đúng phải paraphrase ý chính của cả đoạn, không chỉ một chi tiết nhỏ; loại trừ dần các heading đã dùng
+- **Sentence/Summary Completion — copy chính xác:** Không paraphrase; đếm kỹ số từ và tuân thủ nghiêm ngặt giới hạn từ được ghi trong đề bài
+- **Câu hỏi có thứ tự trong bài:** T/F/NG, Sentence Completion, Short Answer, Summary Completion có thứ tự → chỉ scan phần sau trong bài sau khi làm xong câu trước; Matching Headings và Matching Paragraphs KHÔNG có thứ tự
+- **Không bao giờ bỏ trống:** IELTS Reading không có điểm trừ cho câu sai — nếu hết thời gian, điền đáp án cho tất cả ô còn lại (xác suất đúng > 0%; bỏ trống xác suất đúng = 0%)
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 3: Writing Task 2 — Opinion Essay](../lesson_03_writing_task2_opinion_essay/lecture.md) — đọc nhiều academic texts trong IELTS Reading giúp mở rộng vốn từ học thuật và nhận ra paraphrase nhanh hơn, hỗ trợ trực tiếp cho Writing Task 2
+- [Bài 4: Các loại bài luận khác](../lesson_04_writing_task2_discussion_essay/lecture.md) — kỹ năng nhận diện cause language và solution language khi đọc học thuật trong Reading bổ trợ khả năng viết Problem-Solution essay
+- [Bài 6: Speaking Part 1 & 2](../lesson_06_speaking_part1_2/lecture.md) — kỹ năng nhận ra paraphrase (kỹ năng cốt lõi trong T/F/NG) được luyện thêm qua việc nghe examiner paraphrase câu hỏi trong Speaking và tập phản xạ trả lời bằng ngôn ngữ khác
