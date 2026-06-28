@@ -146,3 +146,37 @@ Particle OUT thường mang ý: tìm kiếm, rời đi, hoàn thành
 ❌ *She put on it.* → SAI! → ✓ *She put it on.*
 ❌ *He gave up it.* → SAI! → ✓ *He gave it up.*
 ❌ *I will look up it.* → SAI! → ✓ *I will look it up.*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| She put on it. | She put it on. | Với separable phrasal verb + đại từ (it/them/him): đặt đại từ GIỮA verb và particle |
+| He gave up it. | He gave it up. | Đại từ không đứng sau particle với separable phrasal verbs |
+| I looked after it carefully. | I looked after it carefully. ✓ | "Look after" là inseparable: object luôn đứng sau particle |
+| She look for her keys everywhere. | She looks for her keys everywhere. | Phrasal verb chia theo ngôi như động từ thường: look → looks |
+| He turned of the light. | He turned off the light. | Particle đúng là "off", không phải "of" |
+| I ran into she at the mall. | I ran into her at the mall. | Đại từ tân ngữ (her/him/them) sau preposition, không dùng subject pronouns |
+| They call off the meeting yesterday. | They called off the meeting yesterday. | Phrasal verb chia theo thì: call → called |
+| I put up with it cannot do. | I cannot put up with it. | Phrasal verb 3 từ (inseparable): object đứng cuối cùng |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Phrasal verb = động từ + particle (preposition hoặc adverb):** get up, look after, turn off.
+- **Separable:** Object có thể đặt giữa verb và particle — "turn off the light" hoặc "turn the light off." Với đại từ: BẮT BUỘC đặt giữa — "turn it off."
+- **Inseparable:** Object luôn đứng SAU particle — "look after the children" (không thể "look the children after").
+- **Phrasal verb 3 từ:** Luôn inseparable — "put up with," "look forward to," "run out of."
+- **Một phrasal verb có thể có nhiều nghĩa:** "give up" = từ bỏ; "pick up" = nhặt lên / đón ai / học một ngôn ngữ.
+- **Chia thì:** Chia ở động từ chính — "She picks up / picked up / has picked up the phone."
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Lesson 10: Word Formation](../lesson_10_word_formation/lecture.md) — Nhiều phrasal verbs tạo ra danh từ ghép: "break down" → "a breakdown," "take off" → "a takeoff."
+- [Phase 1 - Lesson 10: Prepositions](../../phase_1_foundation/lesson_10_prepositions/lecture.md) — Hiểu nghĩa gốc của particle (up, down, out, in, off) giúp đoán nghĩa phrasal verbs.
+- [Phase 3 - Lesson 07: Advanced Phrasal Verbs](../../phase_3_intermediate/lesson_07_advanced_phrasal_verbs/lecture.md) — Mở rộng lên phrasal verbs nâng cao với nhiều nghĩa bóng và ngữ cảnh chính thức hơn.

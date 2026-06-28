@@ -308,3 +308,38 @@ Nhắc lại từ Phase 1: Các động từ **trạng thái** (diễn tả cả
 ---
 
 > **MẸO HỌC:** Khi kể chuyện hoặc viết paragraph về quá khứ, hãy nghĩ: "Hành động này đang diễn ra (QKTD) hay đã xảy ra và kết thúc (QKĐ)?" Sự phân biệt này sẽ làm cho văn viết của bạn tự nhiên và chính xác hơn nhiều.
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| She was know the answer. | She knew the answer. | "Know" là stative verb, không dùng với thì tiếp diễn |
+| I was study all night. | I was studying all night. | Phải dùng dạng V-ing: studying |
+| They were play football at 5pm. | They were playing football at 5pm. | Thiếu đuôi -ing: playing |
+| Did she was crying? | Was she crying? | Câu hỏi dùng was/were đảo lên, không dùng did |
+| He didn't was working. | He wasn't working. | Phủ định dùng was not / were not, không dùng didn't was |
+| While I read, he called me. | While I was reading, he called me. | "While" đi với Past Continuous, không đi với Past Simple |
+| I was liking the movie. | I liked the movie. | "Like" là stative verb, không dùng dạng -ing |
+| She stoped running when she saw him. | She stopped running when she saw him. | Động từ tận cùng CVC → double consonant: stop → stopped (bối cảnh Past Simple) |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Cấu trúc:** S + was/were + V-ing — "I was watching TV at 8pm."
+- **Thời điểm cụ thể:** Diễn tả hành động đang diễn ra tại một thời điểm xác định trong quá khứ — "At midnight, they were still working."
+- **When + Past Simple:** Hành động ngắn (Past Simple) xen vào hành động dài (Past Continuous) — "She was cooking when the phone rang."
+- **While/As + Past Continuous:** Hai hành động dài xảy ra song song — "While I was reading, she was sleeping."
+- **Không dùng với stative verbs:** know, love, hate, want, need, have (sở hữu), believe, understand.
+- **Bối cảnh câu chuyện:** Dùng Past Continuous để mô tả khung cảnh, nền tảng cho cốt truyện.
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Lesson 02: Past Perfect](../lesson_02_past_perfect/lecture.md) — Hai thì quá khứ thường xuất hiện cùng nhau để diễn tả chuỗi sự kiện.
+- [Lesson 03: Future Perfect Continuous](../lesson_03_future_perfect_continuous/lecture.md) — Cùng cấu trúc "continuous" nhưng ở thì tương lai hoàn thành.
+- [Phase 1 - Lesson 03: Simple Past](../../phase_1_foundation/lesson_03_simple_past/lecture.md) — Cần phân biệt rõ Past Simple (hành động hoàn thành) và Past Continuous (đang diễn ra).
+- [Phase 1 - Lesson 02: Present Continuous](../../phase_1_foundation/lesson_02_present_continuous/lecture.md) — Cùng cấu trúc "be + V-ing" nhưng ở thì hiện tại.

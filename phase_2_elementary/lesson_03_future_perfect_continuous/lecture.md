@@ -268,3 +268,36 @@ Hiện tại                    Thời điểm tương lai
 ---
 
 > **MẸO HỌC:** Nhớ "sơ đồ thập tứ": Nếu thời điểm hành động đang **bên trong** khoảng thời gian → Future Continuous. Nếu hành động **hoàn thành trước** thời điểm → Future Perfect. Hỏi: "Tại thời điểm đó, hành động đang xảy ra hay đã xong?"
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| By 2030, I will have been live here for 10 years. | By 2030, I will have been living here for 10 years. | Sau "have been" phải dùng V-ing: living |
+| She will has been working for 5 hours by then. | She will have been working for 5 hours by then. | Sau "will" luôn dùng "have", không phải "has" |
+| By next Monday, he will been studying for a month. | By next Monday, he will have been studying for a month. | Không thể bỏ "have" trong cấu trúc |
+| I will have been know her for ten years. | I will have been knowing her for ten years. | "Know" là stative verb, không dùng với continuous |
+| By the time you arrive, I am waiting for 2 hours. | By the time you arrive, I will have been waiting for 2 hours. | Phải dùng Future Perfect Continuous, không phải Present |
+| They will have been studied all day tomorrow. | They will have been studying all day tomorrow. | Cần dạng V-ing, không phải V3 |
+| At, she will have been working for 8 hours. | By 6 pm, she will have been working for 8 hours. | Dùng "by" (mốc thời gian), không dùng "at" hay "in" |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Cấu trúc:** S + will have been + V-ing — "By Friday, she will have been working here for a year."
+- **Ý nghĩa:** Hành động bắt đầu trước và còn ĐANG TIẾP DIỄN tính đến một mốc thời gian trong tương lai.
+- **Nhấn mạnh thời gian:** Khác với Future Perfect (will + have + V3), thì này nhấn mạnh THỜI LƯỢNG liên tục — dùng kèm "for + khoảng thời gian".
+- **Từ khóa:** by + mốc thời gian, by the time, for + khoảng thời gian.
+- **Không dùng với stative verbs:** know, love, believe, own, understand.
+- **Phủ định/câu hỏi:** won't have been + V-ing / Will + S + have been + V-ing?
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Lesson 01: Past Continuous](../lesson_01_past_continuous/lecture.md) — Cùng cấu trúc "be + V-ing" (continuous aspect); hiểu Past Continuous giúp nắm cấu trúc này dễ hơn.
+- [Lesson 02: Past Perfect](../lesson_02_past_perfect/lecture.md) — Cùng "perfect aspect" (had/have + V3); khái niệm "hoàn thành trước mốc thời gian" tương tự.
+- [Phase 1 - Lesson 04: Simple Future](../../phase_1_foundation/lesson_04_simple_future/lecture.md) — Nền tảng của thì tương lai trước khi học các thì tương lai phức tạp hơn.

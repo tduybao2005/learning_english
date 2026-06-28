@@ -190,3 +190,37 @@ Các liên từ này luôn **xuất hiện theo cặp**:
 ## 10. VÍ DỤ TỔNG HỢP TRONG VĂN VIẾT
 
 "**Although** the government has introduced many environmental policies, pollution levels continue to rise. **This is because** industries prioritise profit over sustainability. **However**, there are some encouraging signs. **Both** businesses **and** individuals are becoming more aware of their environmental impact. **Unless** drastic changes are made soon, **the consequences** will be severe. **Therefore**, it is essential that everyone takes action — **not only** for ourselves **but also** for future generations."
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| Although it was raining, but we went out. | Although it was raining, we went out. | Không dùng "although" và "but" cùng lúc cho một cặp mệnh đề |
+| Because he was tired, so he slept early. | Because he was tired, he slept early. | Không dùng "because" và "so" cùng lúc |
+| Despite of the rain, we continued. | Despite the rain, we continued. | "Despite" không đi với "of"; nếu dùng "of" thì viết "in spite of" |
+| I like coffee. However I don't drink it at night. | I like coffee; however, I don't drink it at night. | "However" là conjunctive adverb: cần dấu chấm phẩy (;) trước và dấu phẩy (,) sau |
+| She studied hard but she didn't pass the exam. | She studied hard, but she didn't pass the exam. | Dấu phẩy trước FANBOYS khi nối 2 mệnh đề độc lập |
+| Neither he nor she are wrong. | Neither he nor she is wrong. | "Neither...nor" chia động từ theo danh từ gần nhất: "she" → is |
+| He is not only smart, also kind. | He is not only smart but also kind. | "Not only...but also" — không thể bỏ "but" |
+| While I love coffee, but I prefer tea. | While I love coffee, I prefer tea. | "While" (tương phản) đã là conjunction, không cần thêm "but" |
+
+---
+
+## TÓM TẮT NHANH
+
+- **FANBOYS (Coordinating):** for, and, nor, but, or, yet, so — nối 2 mệnh đề độc lập, cần dấu phẩy trước.
+- **Subordinating conjunctions:** because, although, when, if, while, unless, since — tạo mệnh đề phụ.
+- **Không dùng hai từ nối cùng lúc:** although...but / because...so / while...but → chọn một.
+- **Dấu câu với conjunctive adverbs (however, therefore, nevertheless):** ; [adverb], mệnh đề.
+- **Correlative pairs:** both...and (số nhiều), either...or / neither...nor (chia theo S gần nhất), not only...but also.
+- **"Despite" và "in spite of":** đi với danh từ/V-ing, không phải mệnh đề đầy đủ — dùng "although" cho mệnh đề.
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Lesson 04: Subject-Verb Agreement](../lesson_04_subject_verb_agreement/lecture.md) — Liên từ tương quan (either...or, neither...nor) ảnh hưởng trực tiếp đến hòa hợp chủ-vị.
+- [Lesson 07: Question Formation](../lesson_07_question_formation/lecture.md) — Liên từ kết hợp với câu hỏi phức hợp và câu hỏi gián tiếp.
+- [Phase 3 - Lesson 11: Discourse Markers](../../phase_3_intermediate/lesson_11_discourse_markers/lecture.md) — Discourse markers nâng cao (furthermore, consequently, nevertheless) là phiên bản phức tạp hơn của conjunctions.
