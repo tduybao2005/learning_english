@@ -246,6 +246,27 @@
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+The school committee (G1) _____________ a new policy to improve student well-being this term. Each of the proposals (G2) _____________ reviewed carefully before any final decision is made. Not only the teachers but also the principal (G3) _____________ enthusiastic about the updated curriculum. The news about the changes (G4) _____________ spreading quickly through the community. A number of students (G5) _____________ raising concerns about the new timetable. The data collected from recent surveys (G6) _____________ that most learners prefer interactive lessons. Everyone on the school board (G7) _____________ the importance of investing in modern technology. Neither the director nor the managers (G8) _____________ fully satisfied with the current evaluation system. The criteria for the new scholarship programme (G9) _____________ both academic achievement and community service. The number of teachers applying for promotion (G10) _____________ grown significantly this year.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Do you think school management committees should have the final say on educational policy, or should individual teachers have more autonomy in the classroom?
+2. The number of students learning English is rising globally. What factors do you think are driving this trend?
+3. Do you believe that not only academic knowledge but also social and emotional skills should be formally taught in schools?
+4. Talk about a rule or policy at your school or workplace. Was everyone in the organisation satisfied with it, and what would you change?
+
+**Model answer (Band 7–8):** The number of students choosing to study abroad has increased significantly in recent years, and a number of factors explain this trend. Not only the desire for better qualifications but also the wish to experience different cultures drives young people to seek education overseas. Each of the students I know who has studied internationally has returned with broader perspectives and stronger language skills. However, the data from recent surveys suggests that financial concerns remain a major barrier for many families. The criteria for scholarship programmes should therefore be reviewed so that every deserving student has a fair opportunity to succeed.
+
+---
+
 ## ĐÁP ÁN (ANSWER KEY)
 
 ### Phần A:
@@ -300,3 +321,15 @@
 41. None of the candidates meets / meet all the criteria.
 42. The school board has met to discuss the new curriculum.
 43. The news about the flooding is spreading very quickly on social media.
+
+## PHẦN G — ĐÁP ÁN
+
+G1. has approved  G2. is  G3. is  G4. is  G5. are
+G6. shows  G7. understands  G8. are  G9. include  G10. has
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Phân biệt "the number of" (số ít) và "a number of" (số nhiều)
+- Nắm vững quy tắc "not only...but also" và "neither...nor" (động từ hòa hợp với danh từ gần nhất)
+- Nhớ rằng "everyone / each / the news / the data" thường đi với động từ số ít

@@ -162,6 +162,27 @@
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+By 2030, scientists predict that renewable energy (G1) _____________ fossil fuels as the primary source of electricity in many countries. At this time next year, thousands of engineers (G2) _____________ new solar installations across the continent. By the time today's university students graduate, artificial intelligence (G3) _____________ the nature of many professions dramatically. In five years, most offices (G4) _____________ advanced digital tools into their daily operations. This time next decade, researchers (G5) _____________ the link between diet and mental health far more thoroughly. By the end of this century, the global population (G6) _____________ ten billion. In 2040, electric vehicles (G7) _____________ for the majority of new cars sold worldwide. By the time the next generation enters the workforce, automation (G8) _____________ many routine tasks. This time next month, our team (G9) _____________ a major research proposal to the university board. By the time the conference begins in December, all speakers (G10) _____________ their presentations.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. What do you think the world will look like in 2050? What major changes will have taken place by then?
+2. Do you believe that artificial intelligence will have replaced most human jobs by the end of this century? Is this a positive or negative development?
+3. Describe what you personally hope to have achieved in the next ten years. What will you be working on this time next year?
+4. How should individuals and governments prepare for changes in the workforce that technology will be bringing in the coming decades?
+
+**Model answer (Band 7–8):** By the time I reach thirty-five, I hope I will have built a stable career in my chosen field and will be contributing meaningfully to my professional community. I expect that technology will have advanced dramatically, and many tasks I currently perform manually will have been automated. In my personal life, I plan to have travelled to at least ten countries and will be living in a city that balances professional opportunity with a high quality of life. I also intend to have developed my language skills further, as professionals who will be working across international borders will increasingly need strong communication abilities.
+
+---
+
 # ĐÁP ÁN (ANSWER KEY)
 
 ## Phần A:
@@ -212,3 +233,16 @@
 36. By 2030, humanity will have discovered many new solutions to climate change.
 37. This time next year, she will be studying at a university in England.
 38. By the time he retires, he will have taught for more than 30 years.
+
+## PHẦN G — ĐÁP ÁN
+
+G1. will have replaced  G2. will be installing  G3. will have transformed  G4. will have integrated
+G5. will be studying  G6. will have reached  G7. will be accounting  G8. will have taken over
+G9. will be presenting  G10. will have prepared
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Dùng Future Perfect (will have + V3) để diễn tả hành động sẽ hoàn thành trước một thời điểm trong tương lai
+- Dùng Future Continuous (will be + V-ing) để diễn tả hành động đang diễn ra tại thời điểm trong tương lai
+- Sử dụng cụm từ: by the time, by 2030, at this time next year, in ten years

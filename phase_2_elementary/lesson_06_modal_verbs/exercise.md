@@ -242,6 +242,27 @@
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+According to workplace safety regulations, all visitors (G1) _____________ wear a hard hat in the construction zone at all times. You look quite pale today — you (G2) _____________ consider seeing a doctor as soon as possible. When he was a child, Tom (G3) _____________ swim across the entire lake without stopping, which amazed everyone. The lights in the building are off, so everyone (G4) _____________ have gone home already. Students (G5) _____________ bring their own calculator to the exam — one will be provided at the test centre. I am not certain, but she (G6) _____________ have left earlier than planned due to the heavy traffic. You (G7) _____________ drive without a valid licence — it is a serious offence under the law. We (G8) _____________ to apologise for the inconvenience caused to our customers by the unexpected delay. She (G9) _____________ have studied more consistently — failing the exam was a great shock to everyone who knew her. According to the latest forecast, temperatures (G10) _____________ drop below freezing tonight in northern regions.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Think of a rule at school or work that you believe is unnecessary. Explain why you think people should not have to follow it and what could replace it.
+2. Should governments be allowed to ban certain unhealthy foods? What can individuals do to improve public health without being forced to change their habits?
+3. Talk about a piece of advice someone gave you that turned out to be very useful. What should you have done if you had ignored it?
+4. Describe a situation where you had to make a difficult decision under pressure. What could you have done differently?
+
+**Model answer (Band 7–8):** When I was preparing for a major exam, a teacher told me that I should organise my study time carefully rather than trying to cover everything at once. At first, I thought she might be wrong — I believed I could manage by reading through my notes the night before the test. However, I quickly realised I should have listened to her advice from the beginning. I had to re-read chapters I could not recall because I had not revised them properly. Looking back, I ought to have created a structured schedule weeks in advance. The experience taught me that good preparation must begin early, and that we should never underestimate the value of expert guidance.
+
+---
+
 ## ĐÁP ÁN (ANSWER KEY)
 
 ### Phần A:
@@ -306,3 +327,15 @@
 49. It might rain in the afternoon — you should bring an umbrella.
 50. I'm not sure, but they might have already left by the time we arrived.
 51. Students are not allowed to / must not use their phones during class.
+
+## PHẦN G — ĐÁP ÁN
+
+G1. must  G2. should  G3. could  G4. must  G5. don't have to
+G6. might  G7. mustn't  G8. ought  G9. should  G10. could / might
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Phân biệt must (bắt buộc nội tâm/quy định) và have to (bắt buộc từ bên ngoài)
+- Phân biệt mustn't (CẤM) và don't have to (không cần thiết)
+- Dùng modal perfect (should have / could have + V3) để nói về điều đáng lẽ phải làm trong quá khứ

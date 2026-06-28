@@ -210,6 +210,27 @@
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+She decided to study abroad (G1) _____________ the high cost of living in her chosen country. (G2) _____________ she had limited savings, she applied for a scholarship to help cover her expenses. She chose France (G3) _____________ she had been studying French for three years. (G4) _____________ she arrived in Paris, she began attending language classes every morning. The first few weeks were challenging; (G5) _____________, she quickly adapted to the new environment. She called her family every week (G6) _____________ they would not worry about her. Her university grades improved significantly (G7) _____________ her initial difficulties with the language. She enjoyed French cuisine, (G8) _____________ she deeply missed the flavours of Vietnamese food. She told her parents she would not return home (G9) _____________ she had completed at least one full semester. (G10) _____________ she graduated, she planned to travel across Europe before returning to Vietnam.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Talk about a challenge you overcame despite strong opposition or difficult circumstances. What kept you going?
+2. Do you think it is better to make decisions quickly or to reflect carefully before acting, even though this takes more time?
+3. Some people believe success comes from talent alone, whereas others argue that hard work is the key. Which view do you agree with and why?
+4. Describe a time when you did something not because you wanted to, but so that you could help someone else. How did you feel afterwards?
+
+**Model answer (Band 7–8):** Although preparing for the IELTS examination was extremely demanding, I remained committed because I knew the qualification would open many professional doors. I studied every evening after work, even though I was often tired after a long day. Despite the pressure, I tried to maintain a positive attitude and a consistent routine. I created a strict schedule so that I could balance exam preparation with other responsibilities. However, there were moments when I questioned whether I was on the right path. It was not only my own determination but also the encouragement of my teacher and family that kept me going. After months of effort, I finally achieved the score I needed, proving that consistent effort, provided that it is well planned, always produces results.
+
+---
+
 ## ĐÁP ÁN (ANSWER KEY)
 
 ### Phần A:
@@ -266,3 +287,15 @@
 43. Because of the noise, she couldn't concentrate on her studies. / She couldn't concentrate because of the noise.
 44. She studied hard so that she could / in order to get a full scholarship.
 45. The flight was delayed; therefore / consequently, they had to stay at the airport overnight.
+
+## PHẦN G — ĐÁP ÁN
+
+G1. despite  G2. Although / Even though  G3. because / since  G4. As soon as  G5. however
+G6. so that  G7. despite  G8. whereas / but  G9. unless  G10. After / Once
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Phân biệt although/even though/despite (đối lập) và because/since/due to (nguyên nhân)
+- Lưu ý: although/even though + mệnh đề; despite/in spite of + danh từ/danh động từ
+- Tránh dùng "although...but" — chỉ dùng một trong hai

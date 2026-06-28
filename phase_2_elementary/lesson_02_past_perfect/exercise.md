@@ -192,6 +192,27 @@
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+By the time Maya arrived at the party, most guests (G1) _____________ home and the music had stopped. She felt disappointed because she (G2) _____________ a beautiful dress especially for the occasion. The host explained that they (G3) _____________ the start time in an earlier message. Maya (G4) _____________ the message because her phone was switched off. Before leaving home, she (G5) _____________ flowers for her friend as a gift. By the time she finally got inside, the food (G6) _____________ as well. She realised she (G7) _____________ a mistake by arriving so late. After the other guests (G8) _____________, Maya helped clean up the living room. Her friend told her she (G9) _____________ so many kind messages for her throughout the evening. By the end of the night, Maya (G10) _____________ that punctuality truly mattered.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Describe a situation where you arrived somewhere to find that something important had already happened without you. How did you feel?
+2. Do you think learning from past mistakes is more valuable than learning from success? Give reasons.
+3. How does reflecting on the sequence of events help us understand why something went wrong?
+4. Talk about the most important achievement you had reached before a significant turning point in your life, such as graduation or starting a new job.
+
+**Model answer (Band 7–8):** By the time I received my university acceptance letter, I had already spent two years preparing intensively. I had studied English every day, had taken several practice exams, and had attended weekend writing workshops to strengthen my academic skills. The moment I saw the letter, I realised that everything I had worked for had finally paid off. The journey had not been easy — there had been moments when I almost gave up — but having a clear goal had kept me motivated throughout. I truly believe that the effort I had invested before that moment made the achievement feel even more meaningful and well-deserved.
+
+---
+
 # ĐÁP ÁN (ANSWER KEY)
 
 ## Phần A:
@@ -248,3 +269,15 @@
 43. Had you ever eaten pho before you came to Hanoi?
 44. By the time we arrived at the restaurant, they had already closed.
 45. After he had studied English for three years, he was confident enough to apply for a job at a foreign company.
+
+## PHẦN G — ĐÁP ÁN
+
+G1. had gone  G2. had chosen  G3. had changed  G4. hadn't read  G5. had bought
+G6. had disappeared  G7. had made  G8. had left  G9. had saved  G10. had learned
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Dùng Past Perfect (had + V3) để diễn tả hành động hoàn thành trước một hành động khác trong quá khứ
+- Sử dụng từ nối trình tự: by the time, before, after, already
+- Kết hợp Past Perfect với Past Simple để diễn đạt thứ tự sự kiện rõ ràng

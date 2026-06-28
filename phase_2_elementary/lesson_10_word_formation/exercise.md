@@ -78,6 +78,27 @@ Underline each word formation word you use.
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+The rapid (G1) _____________ of digital technology over the past decade has transformed nearly every sector of society. Governments worldwide agree that (G2) _____________ is one of the most critical investments a nation can make in its future. It takes great (G3) _____________ to design products that are both functional and visually appealing. Companies that adapt (G4) _____________ to shifting market conditions tend to outperform their competitors over time. Air (G5) _____________ remains one of the most pressing environmental challenges facing large cities globally. Every employee has a (G6) _____________ to contribute positively to their organisation's culture and values. A lack of proper (G7) _____________ often leads to missed deadlines and wasted resources. Rising (G8) _____________ rates are a growing source of concern for policymakers in many developed economies. It is extremely (G9) _____________ to operate heavy machinery without the appropriate safety training and certification. A deep (G10) _____________ of grammar rules helps language learners write more accurately and express ideas more clearly.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. How important is creativity in modern education and the workplace? Give examples of how creative thinking has led to significant progress or success.
+2. Do you think the rapid development of technology has made it easier or harder for people to gain true knowledge and understanding?
+3. Talk about a person you consider to be highly successful. What qualities and skills do you think contributed most to their achievement?
+4. In your opinion, should education focus more on developing academic knowledge or practical, real-world skills? Why?
+
+**Model answer (Band 7–8):** The development of digital technology has undoubtedly transformed education, making knowledge far more accessible than at any point in history. However, I believe that creativity and critical thinking remain the most valuable skills a person can develop, regardless of their profession. Successful individuals are not only knowledgeable but also highly organised and capable of adapting to change. In my own experience, my educational background gave me the foundation I needed, but it was my willingness to take responsibility and approach problems creatively that helped me progress professionally. I also believe that the irresponsible use of technology — such as over-relying on automated tools without truly understanding them — can ultimately reduce a person's intellectual development.
+
+---
+
 ## ANSWER KEY
 
 **Section A:**
@@ -104,3 +125,15 @@ Underline each word formation word you use.
 4. His irresponsible behaviour caused many problems.
 5. This project is very well organized.
 6. It is important to use energy efficiently.
+
+## PHẦN G — ĐÁP ÁN
+
+G1. development  G2. education  G3. creativity  G4. successfully  G5. pollution
+G6. responsibility  G7. organization  G8. unemployment  G9. dangerous  G10. knowledge
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Nắm vững các hậu tố phổ biến: -tion/-ation (danh từ), -ful/-less (tính từ), -ly (trạng từ), -ize (động từ)
+- Nắm vững các tiền tố phổ biến: un-/im-/dis-/mis- (phủ định), re- (lặp lại), over-/under- (mức độ)
+- Khi điền từ, xác định từ loại cần thiết (noun/verb/adj/adv) dựa vào vị trí trong câu

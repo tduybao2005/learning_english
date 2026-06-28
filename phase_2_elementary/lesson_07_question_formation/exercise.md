@@ -179,6 +179,27 @@
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+During the school orientation day, students had many questions for their teachers. One student raised her hand and asked, "(G1) _____________ will the library be open during the weekend?" Another student asked, "(G2) _____________ books are we allowed to borrow at one time?" A quiet student in the back row asked politely, "Could you tell me (G3) _____________ the computer labs are located?" The teacher explained the rules and then asked the class (G4) _____________ they had any further questions. A student replied that she was not sure (G5) _____________ the school canteen opened on Mondays. The teacher encouraged everyone, saying, "You will all settle in quickly, (G6) _____________?" One student wanted to know (G7) _____________ so many students had chosen this particular school. Another asked, "(G8) _____________ founded the school's English club?" The teacher replied, "You have visited the school website, (G9) _____________?" Before leaving, the head teacher asked everyone, "(G10) _____________ do you feel about your first day here?" 
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Do you think asking questions is one of the most important skills a student can develop? Why or why not?
+2. Describe a conversation you had where you learned something valuable simply by asking the right question.
+3. In your opinion, which is more important in education — the ability to ask thoughtful questions or the ability to give correct answers?
+4. Talk about a time when you had to find out important information quickly. How did you go about it, and what questions did you ask?
+
+**Model answer (Band 7–8):** I strongly believe that asking the right questions is one of the most valuable skills a person can develop. When I started my first job, I was not sure whether I was meeting my manager's expectations, so I asked directly how I was performing and which areas I should focus on. That simple question opened a conversation that completely changed my approach to work. I also made a habit of asking for feedback using polite indirect questions such as "Could you tell me what I could improve?" rather than waiting for a formal review. Knowing how to form clear, well-structured questions helped me build stronger professional relationships and improve far more quickly than I would have otherwise.
+
+---
+
 ## ĐÁP ÁN (ANSWER KEY)
 
 ### Phần A:
@@ -235,3 +256,15 @@
 43. She doesn't know why he was late.
 44. How long did the meeting last?
 45. Is there anyone at home? / Is anybody home?
+
+## PHẦN G — ĐÁP ÁN
+
+G1. When  G2. How many  G3. where  G4. whether / if  G5. when
+G6. won't you  G7. why  G8. Who  G9. haven't you  G10. How
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Nắm vững cấu trúc câu hỏi trực tiếp (đảo ngữ + trợ động từ) và gián tiếp (trật tự thường, không đảo ngữ)
+- Câu hỏi đuôi: mệnh đề chính khẳng định → đuôi phủ định; mệnh đề chính phủ định → đuôi khẳng định
+- Wh-questions với chủ ngữ: "Who wrote this?" — không dùng "did" vì "who" là chủ ngữ

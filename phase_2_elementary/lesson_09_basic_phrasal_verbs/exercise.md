@@ -89,6 +89,27 @@ Write a short story (80-100 words) about someone's typical day. Use at least 6 d
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+Every morning, Anna (G1) _____________ at six o'clock and goes for a short run before preparing breakfast. She never lets difficulties make her (G2) _____________ on her goals, no matter how tough things become. Last Monday, her car (G3) _____________ on the way to the office, which made her significantly late. She had to (G4) _____________ the important meeting she had scheduled for that morning. After calling a mechanic, she (G5) _____________ that the engine needed a major repair. During the long wait, she used the time productively to (G6) _____________ at a nearby gym. She had always wanted to (G7) _____________ a better daily routine, and that day she finally made a proper plan. By the evening, she (G8) _____________ of ideas and decided to rest and recharge. The next morning, she (G9) _____________ the living room after a busy and chaotic week. Despite all the setbacks, she (G10) _____________ feeling more organised and determined than ever before.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Describe your typical morning routine. What time do you get up, and what do you do before leaving the house?
+2. Have you ever had to give up something important? What made you decide to do that, and how did you feel about the decision?
+3. Talk about a time when a plan went wrong unexpectedly — for example, something broke down or you ran out of time. How did you handle the situation?
+4. What strategies do you use to work out solutions when you face a difficult problem at work or in your studies?
+
+**Model answer (Band 7–8):** I usually get up at around six in the morning and follow a consistent routine to start my day well. I turn on some calm music while I prepare breakfast, and then I clean up the kitchen before sitting down to review my schedule. Last year, I had to give up a part-time job because my studies were suffering — it was a difficult but necessary decision. Not long after, my laptop broke down right before an important deadline, and I almost ran out of time to resubmit my work. Despite those setbacks, I found out that I could handle pressure better than I had expected. Those experiences helped me set up a more reliable system for managing my time, and I ended up feeling far more confident in my ability to deal with unexpected challenges.
+
+---
+
 ## ANSWER KEY
 
 **Section A:**
@@ -124,3 +145,15 @@ Write a short story (80-100 words) about someone's typical day. Use at least 6 d
 4. The meeting was put off because of bad weather.
 5. He looks after his mother every day.
 6. We ran out of money while travelling.
+
+## PHẦN G — ĐÁP ÁN
+
+G1. gets up  G2. give up  G3. broke down  G4. put off  G5. found out
+G6. work out  G7. set up  G8. ran out  G9. cleaned up  G10. ended up
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Nắm vững phrasal verbs tách được (separable) và không tách được (inseparable): look after / turn off
+- Đại từ (it, them) phải đứng giữa trong phrasal verb tách được: turn it off (KHÔNG: turn off it)
+- Ghi nhớ ngữ cảnh sử dụng: give up (bỏ cuộc), find out (khám phá/biết được), end up (cuối cùng là)

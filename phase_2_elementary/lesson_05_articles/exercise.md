@@ -183,6 +183,27 @@ Nam: "Perfect. Let's meet at (47)___ entrance at 9am."
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+Last summer, I made (G1) _____________ unexpected trip to a remote village in the highlands of northern Vietnam. The village was located near (G2) _____________ old suspension bridge built during the colonial era. (G3) _____________ bridge was still used daily by villagers crossing to the local market. I stayed at (G4) _____________ small homestay run by a friendly elderly couple. In (G5) _____________ evening, we sat together and shared stories over a simple meal. The husband had spent most of his life working as (G6) _____________ farmer in the surrounding fields. He told me that (G7) _____________ life in remote areas had changed a great deal over the past decade. His wife served (G8) _____________ best homemade rice wine I had ever tasted. Before I left, I took (G9) _____________ photograph of the whole family in front of their house. That trip reminded me that (G10) _____________ simple pleasures in life are often the most meaningful.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Describe a place — a city, a natural landmark, or a historical building — that impressed you greatly. Pay attention to using articles correctly when describing it.
+2. Do you think the internet has made the world feel smaller? How has it changed the way we discover new places and cultures?
+3. Should governments invest more in preserving ancient monuments and historical sites? Why or why not?
+4. Talk about the most unusual or interesting food you have ever eaten. Where were you, and what was the experience like?
+
+**Model answer (Band 7–8):** The most memorable place I have ever visited is an ancient town in central Vietnam called Hoi An. The town is famous for its well-preserved architecture and the colourful lanterns that light up the streets every evening. On my first visit, I walked across the Japanese Bridge, which is one of the most photographed landmarks in the country. The atmosphere was unlike anything I had experienced before — the streets were quiet, the food was exceptional, and the people were remarkably welcoming. The trip reminded me of the importance of preserving cultural heritage, not just for tourism but for the sense of identity and continuity it gives to a community.
+
+---
+
 ## ĐÁP ÁN (ANSWER KEY)
 
 ### Phần A:
@@ -235,3 +256,15 @@ Nam: "Perfect. Let's meet at (47)___ entrance at 9am."
 51. The Internet has changed the way we study and work.
 52. He went to the hospital to visit a sick friend, not for treatment.
 53. The poor in this area need more support from the government.
+
+## PHẦN G — ĐÁP ÁN
+
+G1. an  G2. an  G3. The  G4. a  G5. the
+G6. a  G7. —  G8. the  G9. a  G10. the
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Phân biệt a/an (giới thiệu lần đầu, chưa xác định) và the (đã xác định hoặc chỉ có một)
+- Ghi nhớ các trường hợp zero article: tên quốc gia thông thường, môn học, bữa ăn, go to bed/work/school
+- Chú ý đặc biệt: the + danh từ số nhiều chỉ nhóm người (the poor, the elderly)

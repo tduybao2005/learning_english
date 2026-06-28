@@ -192,6 +192,27 @@
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+Yesterday afternoon, I (G1) _____________ in a quiet café when the rain suddenly started. While the rain (G2) _____________ heavily outside, most customers stayed calm and chatted quietly. A young woman near the window (G3) _____________ a novel and seemed completely absorbed in her story. Two men at the corner table (G4) _____________ a business plan in hushed voices. A waiter (G5) _____________ a tray of drinks past our table when he accidentally slipped on the wet floor. Outside, children (G6) _____________ home from school under their umbrellas. The café owner (G7) _____________ to the radio when she heard the weather forecast. While I (G8) _____________ for my friend to arrive, I began writing in my journal. My friend later told me he (G9) _____________ to the café when his car suddenly broke down. By the time he arrived by taxi, we (G10) _____________ about the whole misadventure with laughter.
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Describe a memorable moment when something surprising happened while you were busy doing something else. Use Past Continuous to set the scene.
+2. Do you think people today are more easily distracted during important activities than people were in the past? Why or why not?
+3. How can background events or context — described using Past Continuous — help a storyteller bring a scene to life?
+4. Talk about a typical day in your life two years ago. What were you doing differently from now?
+
+**Model answer (Band 7–8):** Two years ago, I was studying at university and following a very different routine. I was living in a small dormitory and usually spending my evenings in the library. One evening, while I was working on a particularly difficult assignment, a sudden power cut plunged the whole building into darkness. While everyone was searching for candles and phone torches, I was trying desperately to save my document. Looking back, moments like that were challenging but memorable — they reminded me to appreciate the ordinary days when everything was simply running as it should.
+
+---
+
 # ĐÁP ÁN (ANSWER KEY)
 
 ## Phần A:
@@ -250,3 +271,15 @@
 43. It was raining very heavily when I stepped out of the house.
 44. At this time last year, I was studying English at university.
 45. The sun was shining, the children were playing, and people were laughing and talking. It was a perfect day.
+
+## PHẦN G — ĐÁP ÁN
+
+G1. was sitting  G2. was falling  G3. was reading  G4. were discussing  G5. was carrying
+G6. were running  G7. was listening  G8. was waiting  G9. was driving  G10. were talking
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Dùng Past Continuous (was/were + V-ing) để mô tả hành động đang diễn ra tại thời điểm trong quá khứ
+- Dùng while/when để kết nối hai hành động đồng thời hoặc một hành động bị gián đoạn
+- Tránh dùng Past Continuous với stative verbs (know, hear, understand...)
