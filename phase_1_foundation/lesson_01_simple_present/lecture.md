@@ -322,3 +322,38 @@ Thường gặp trong sách dạy nấu ăn, hướng dẫn sử dụng.
 | Hướng dẫn | first, then, next | First, you press the button. |
 
 > **Ghi nhớ:** Người học tiếng Việt thường quên thêm -s/-es. Hãy luôn kiểm tra chủ ngữ trước khi viết động từ!
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| She work at a hospital. | She works at a hospital. | Ngôi thứ ba số ít (she) bắt buộc thêm -s/-es vào động từ. |
+| He don't like coffee. | He doesn't like coffee. | Với he/she/it dùng "doesn't", không dùng "don't". |
+| Do she play tennis? | Does she play tennis? | Câu hỏi với ngôi thứ ba số ít dùng "Does", không dùng "Do". |
+| She doesn't works here. | She doesn't work here. | Sau "doesn't", động từ giữ nguyên dạng nguyên thể, không thêm -s/-es. |
+| I go always to the gym. | I always go to the gym. | Trạng từ tần suất đứng trước động từ thường, không đứng sau. |
+| She is work every day. | She works every day. | Không dùng "is" với động từ thường ở Simple Present. |
+| Water freeze at 0°C. | Water freezes at 0°C. | Quy luật khoa học cũng cần chia động từ cho ngôi thứ ba. |
+| He have two cats. | He has two cats. | Động từ "have" biến đổi thành "has" với he/she/it — ngoại lệ đặc biệt. |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Cấu trúc khẳng định:** S + V (nguyên thể) với I/You/We/They; S + V-s/es với He/She/It — ví dụ: *She works every day.*
+- **Câu phủ định:** I/You/We/They + don't + V; He/She/It + doesn't + V (nguyên thể) — ví dụ: *He doesn't eat meat.*
+- **Câu hỏi:** Do/Does + S + V? — ví dụ: *Does she speak English?*
+- **Bốn cách dùng chính:** thói quen lặp đi lặp lại, sự thật hiển nhiên, lịch trình cố định, trạng thái cảm xúc/nhận thức.
+- **Vị trí trạng từ tần suất:** đứng TRƯỚC động từ thường, đứng SAU "be" — ví dụ: *She always arrives early. He is always late.*
+- **Stative verbs:** know, love, want, need, believe... dùng Simple Present, không dùng dạng -ing.
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 2 — Thì Hiện Tại Tiếp Diễn](../lesson_02_present_continuous/lecture.md) — So sánh thói quen (Simple Present) với hành động đang diễn ra (Present Continuous).
+- [Bài 3 — Thì Quá Khứ Đơn](../lesson_03_simple_past/lecture.md) — Chuyển từ hiện tại sang quá khứ: hiểu sự khác biệt về thời gian.
+- [Bài 9 — Trạng Từ](../lesson_09_adverbs/lecture.md) — Trạng từ tần suất (always, usually, never) dùng nhiều trong Simple Present.
+- [Bài 11 — Cấu Trúc Câu](../lesson_11_sentence_structure/lecture.md) — Nắm vững cấu trúc SVO giúp chia động từ đúng theo chủ ngữ.

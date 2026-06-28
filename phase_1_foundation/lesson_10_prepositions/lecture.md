@@ -279,3 +279,38 @@ Người Việt thường gặp khó khăn với giới từ vì tiếng Việt 
 | **IN** | months, years, seasons, parts of day, centuries | rooms, buildings, cities, countries, water |
 | **ON** | days, dates, specific occasions | surfaces, floors, streets, islands, transport, screens |
 | **AT** | clock times, midnight/noon/night, age | specific point, address, events, corners |
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| She was born in Monday. | She was born on Monday. | Ngày trong tuần (Monday) dùng "on", không dùng "in". |
+| The class is on 7 o'clock. | The class is at 7 o'clock. | Giờ cụ thể dùng "at", không dùng "on". |
+| I saw him on last week. | I saw him last week. | Không dùng giới từ trước last/this/next/every. |
+| She lives at Vietnam. | She lives in Vietnam. | Tên quốc gia và thành phố dùng "in", không dùng "at". |
+| We discussed about the problem. | We discussed the problem. | Động từ "discuss" không cần giới từ "about"; dùng trực tiếp với tân ngữ. |
+| Please explain me the situation. | Please explain the situation to me. | "Explain" dùng "to" khi có tân ngữ gián tiếp: explain something to someone. |
+| She arrived to home late. | She arrived home late. | "Arrive home" không cần giới từ; hoặc "arrive at home" nếu muốn nhấn mạnh. |
+| He is in the bus. | He is on the bus. | Phương tiện giao thông công cộng dùng "on": on the bus/train/plane. |
+
+---
+
+## TÓM TẮT NHANH
+
+- **IN cho thời gian:** tháng, năm, mùa, buổi trong ngày — ví dụ: *in January, in 2024, in the morning.*
+- **ON cho thời gian:** ngày trong tuần, ngày cụ thể, dịp đặc biệt — ví dụ: *on Monday, on June 15th, on my birthday.*
+- **AT cho thời gian:** giờ cụ thể, các mốc thời điểm — ví dụ: *at 3 o'clock, at midnight, at noon.*
+- **IN/ON/AT cho địa điểm:** IN = không gian bên trong, thành phố, quốc gia; ON = bề mặt, phương tiện, màn hình; AT = điểm cụ thể, địa chỉ, sự kiện.
+- **Không dùng giới từ với:** this, last, next, every, yesterday, tomorrow.
+- **Cụm giới từ cố định phải học thuộc:** on time (đúng giờ), in time (kịp lúc), by mistake (vô tình), in a hurry (vội vàng), on purpose (cố ý).
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 6 — Danh Từ](../lesson_06_nouns/lecture.md) — Giới từ luôn đứng trước danh từ hoặc đại từ; hiểu danh từ đếm được/không đếm được giúp chọn giới từ đúng.
+- [Bài 7 — Đại Từ](../lesson_07_pronouns/lecture.md) — Sau giới từ luôn dùng đại từ tân ngữ (to me, for her, with them, about us).
+- [Bài 9 — Trạng Từ](../lesson_09_adverbs/lecture.md) — Một số từ như inside/outside, near/far vừa là giới từ vừa là trạng từ; cần phân biệt qua ngữ cảnh.
+- [Bài 11 — Cấu Trúc Câu](../lesson_11_sentence_structure/lecture.md) — Cụm giới từ thường làm trạng ngữ (adverbial) trong câu, bổ sung thông tin về thời gian và địa điểm.

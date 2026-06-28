@@ -287,3 +287,38 @@ Một số danh từ **thay đổi nghĩa** tùy theo cách dùng:
 ---
 
 *Học xong bài này, làm bài tập trong exercise.md và ôn từ vựng trong vocabulary.md.*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| I have two cat and three dog. | I have two cats and three dogs. | Danh từ đếm được số nhiều phải thêm -s/-es. |
+| There are much students in the class. | There are many students in the class. | "Much" chỉ dùng với danh từ không đếm được; "many" dùng với danh từ đếm được. |
+| She gave me some advices. | She gave me some advice. | "Advice" là danh từ không đếm được, không có dạng số nhiều "advices". |
+| The news are very sad today. | The news is very sad today. | "News" là danh từ không đếm được, dùng động từ số ít. |
+| I need an information about the bus. | I need some information about the bus. | "Information" là danh từ không đếm được, không dùng "a/an" trực tiếp. |
+| She is a honest person. | She is an honest person. | "Honest" bắt đầu bằng nguyên âm /ˈɒn-/ (h câm), phải dùng "an". |
+| He is an university student. | He is a university student. | "University" phát âm bắt đầu bằng /juː/ (phụ âm), phải dùng "a". |
+| The childs are playing outside. | The children are playing outside. | "Child" có số nhiều bất quy tắc: children, không phải "childs". |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Danh từ đếm được:** có số ít và số nhiều, dùng a/an ở số ít, thêm -s/-es ở số nhiều — ví dụ: *a book → books, a city → cities.*
+- **Danh từ không đếm được:** không thêm -s, không dùng a/an, dùng some/much/a little — ví dụ: *some water, much information, a piece of advice.*
+- **Số nhiều bất quy tắc cần nhớ:** child→children, man→men, woman→women, tooth→teeth, foot→feet, mouse→mice.
+- **A/An:** "a" trước phụ âm; "an" trước nguyên âm (căn cứ vào ÂM, không phải chữ cái) — ví dụ: *an hour, a university.*
+- **Lượng từ với C và U:** many/few (đếm được); much/little (không đếm được); a lot of/some/any (cả hai loại).
+- **Partitive cho danh từ U:** dùng đơn vị để "đếm" — ví dụ: *a cup of tea, a piece of advice, a bag of rice.*
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 7 — Đại Từ](../lesson_07_pronouns/lecture.md) — Đại từ thay thế cho danh từ; phải chọn đúng he/she/it/they theo loại danh từ đã học.
+- [Bài 8 — Tính Từ](../lesson_08_adjectives/lecture.md) — Tính từ bổ nghĩa cho danh từ và phải đứng trước danh từ trong tiếng Anh.
+- [Bài 10 — Giới Từ](../lesson_10_prepositions/lecture.md) — Giới từ luôn đứng trước danh từ hoặc đại từ để tạo thành cụm giới từ.
+- [Bài 1 — Thì Hiện Tại Đơn](../lesson_01_simple_present/lecture.md) — Danh từ số ít/số nhiều ảnh hưởng trực tiếp đến việc chia động từ (she works vs they work).

@@ -289,3 +289,38 @@ Ví dụ:
 ---
 
 *Làm bài tập trong exercise.md và ôn từ vựng trong vocabulary.md trước khi chuyển sang kỳ thi cuối Phase 1.*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| She is more tall than her sister. | She is taller than her sister. | Tính từ một âm tiết (tall) thêm -er, không dùng "more". |
+| This film is more interestinger. | This film is more interesting. | Tính từ nhiều âm tiết (interesting) dùng "more", không thêm -er thêm vào. |
+| She is most beautiful girl in the class. | She is the most beautiful girl in the class. | So sánh nhất bắt buộc có "the" đứng trước. |
+| He is taller then his father. | He is taller than his father. | "Than" dùng trong so sánh hơn; "then" có nghĩa "sau đó" — hoàn toàn khác nhau. |
+| This method is more better than that one. | This method is better than that one. | "Better" đã là so sánh hơn của "good", không thêm "more" thêm vào. |
+| There are less students this year. | There are fewer students this year. | Danh từ đếm được (students) dùng "fewer", không dùng "less". |
+| She is the tallest of the school. | She is the tallest in the school. | "In" dùng với địa điểm/nhóm; "of" dùng với danh sách hoặc số lượng cụ thể. |
+| He is as taller as his brother. | He is as tall as his brother. | Trong so sánh bằng "as...as", dùng dạng nguyên thể của tính từ, không dùng -er. |
+
+---
+
+## TÓM TẮT NHANH
+
+- **So sánh bằng:** as + adj/adv + as — ví dụ: *She is as tall as her brother. He runs as fast as me.*
+- **So sánh hơn:** adj-er + than (tính từ ngắn); more + adj + than (tính từ dài) — ví dụ: *taller than, more expensive than.*
+- **So sánh nhất:** the + adj-est (tính từ ngắn); the most + adj (tính từ dài) — luôn có "the" — ví dụ: *the tallest, the most beautiful.*
+- **Bất quy tắc phải nhớ:** good/better/best; bad/worse/worst; many/much→more→most; little→less→least.
+- **Nhấn mạnh so sánh hơn:** much/far/a lot/even/a bit + comparative — ví dụ: *much taller, far more expensive.*
+- **Cấu trúc đặc biệt:** the more...the more (càng...càng); more and more + adj (ngày càng); one of the + superlative + plural noun.
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 8 — Tính Từ](../lesson_08_adjectives/lecture.md) — So sánh là ứng dụng nâng cao của tính từ; cần hiểu tính từ một âm tiết, hai âm tiết, và bất quy tắc để chia đúng.
+- [Bài 9 — Trạng Từ](../lesson_09_adverbs/lecture.md) — Trạng từ cũng có dạng so sánh (faster, more carefully, the most slowly); cấu trúc tương tự tính từ.
+- [Bài 6 — Danh Từ](../lesson_06_nouns/lecture.md) — So sánh với danh từ dùng more/fewer/less; phải phân biệt danh từ đếm được (fewer) và không đếm được (less).
+- [Bài 11 — Cấu Trúc Câu](../lesson_11_sentence_structure/lecture.md) — Câu so sánh thường là câu phức hoặc câu ghép; nắm cấu trúc câu giúp viết so sánh mạch lạc và chính xác.
