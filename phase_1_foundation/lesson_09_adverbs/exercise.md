@@ -159,6 +159,29 @@
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+My colleague Hoa works (G1)_______ (efficient → adverb) and always completes her tasks on time. She (G2)_______ (frequent → adverb) stays late to make sure everything is done (G3)_______ (correct → adverb). During meetings, she listens (G4)_______ (careful → adverb) and speaks (G5)_______ (confident → adverb). Yesterday, she presented a project proposal (G6)_______ (clear → adverb) and (G7)_______ (persuasive → adverb), which impressed the entire team. Although she was (G8)_______ (slight → adverb) nervous at the beginning, she recovered (G9)_______ (quick → adverb) and performed (G10)_______ (exception → adverb) well.
+
+**Ví dụ định dạng:** "She sings (G1)_______ (beautiful → adverb) and plays piano (G2)_______ (perfect → adverb)."
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Describe how you typically work or study. Do you work quickly and efficiently, or do you prefer to go slowly and carefully?
+2. How do you think people should behave in public places such as libraries, cinemas, or hospitals?
+3. Describe a person you know who does their job particularly well. How do they perform their duties?
+4. In your opinion, how important is it to speak English fluently? What can you do to improve quickly?
+
+**Model answer (Band 7–8):** "I believe I work most effectively in the early morning when the environment is quiet and I can think clearly. I tend to work quite methodically — I carefully plan my tasks at the beginning of each day and then systematically work through them one by one. When I am under pressure, I sometimes rush slightly and make minor errors, so I always try to review my work thoroughly before submitting it. I genuinely enjoy working as part of a team because colleagues often handle things more efficiently together than individually. Communicating clearly and listening actively are skills I am constantly trying to improve."
+
+---
+
 ## ANSWER KEY (ĐÁP ÁN)
 
 ### Section A:
@@ -218,3 +241,15 @@ E5. The teacher explained the grammar very clearly and patiently.
 E6. Lately, it has been colder. Sometimes the temperature drops very low at night.
 E7. He works very hard but still has not been promoted.
 E8. Finally, after many years of trying, she found her dream job.
+
+## PHẦN G — ĐÁP ÁN
+
+G1. efficiently  G2. frequently  G3. correctly  G4. carefully  G5. confidently
+G6. clearly  G7. persuasively  G8. slightly  G9. quickly  G10. exceptionally
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Trạng từ chỉ cách thức dùng đúng vị trí: sau động từ (work efficiently, listen carefully) hoặc trước tính từ (quite methodical, slightly nervous)
+- Trạng từ tần suất: always, often, sometimes, constantly đặt trước động từ chính hoặc sau to be
+- Liên kết diễn ngôn: When I am under pressure, so, because, together than individually

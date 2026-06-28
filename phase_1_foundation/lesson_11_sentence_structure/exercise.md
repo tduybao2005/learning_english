@@ -177,6 +177,29 @@ _______________________________________________________________
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+I enjoy learning English (G1)_______ it opens many opportunities in life. Every evening, I study grammar, (G2)_______ I also watch English films to improve my listening. (G3)_______ I started learning three years ago, I found the rules very confusing. (G4)_______, I have made steady progress because I practise every day. My teacher says that my writing has improved, (G5)_______ makes me feel proud. I hope to take an exam next year (G6)_______ I want to get an official qualification. (G7)_______ I pass, I will apply for an international position. The hardest part is pronunciation, (G8)_______ I am working on it every day. I also read articles (G9)_______ they help me learn new vocabulary in context. I believe that with enough effort, (G10)_______ student can achieve a high level.
+
+**Ví dụ định dạng:** "She studies hard (G1)_______ she wants to pass the exam, (G2)_______ she also rests well."
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. How do you think the English language helps people in their daily lives and careers?
+2. Describe your learning journey. What difficulties have you faced, and how have you overcome them?
+3. In your opinion, is it better to learn grammar rules first or to practise speaking first? Why?
+4. Describe a person who inspired you to learn something new. What was the effect of their influence?
+
+**Model answer (Band 7–8):** "I believe that learning English has changed my life in many positive ways. When I first started studying, the grammar rules seemed overwhelming, but I gradually became more confident as I practised consistently. I watch English-language films every evening, which has helped me understand natural speech patterns. Although my pronunciation is still not perfect, I work on it every day by recording myself and listening carefully. Since I started using English at work, I have noticed that my colleagues respect me more and I am given more responsibilities. In short, the effort I have invested in learning has paid off enormously."
+
+---
+
 ## ANSWER KEY (Đáp án)
 
 ### Section A:
@@ -230,3 +253,15 @@ _______________________________________________________________
 40. He is not only intelligent but also very hardworking, so he always tops the class.
 41. The woman standing at the school gate is my friend's mother.
 42. She saved money for two years so that she could study abroad.
+
+## PHẦN G — ĐÁP ÁN
+
+G1. because  G2. and/but  G3. When  G4. However  G5. which
+G6. because  G7. If  G8. but  G9. because  G10. any/every
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Câu phức: mệnh đề phụ liên kết đúng bằng when, although, since, which, because
+- Câu ghép: dùng and, but, so đúng cách không nối quá nhiều mệnh đề đơn bằng and
+- Liên kết diễn ngôn: However, In short, gradually, consistently, In many positive ways

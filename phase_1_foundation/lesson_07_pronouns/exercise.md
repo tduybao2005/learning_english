@@ -166,6 +166,29 @@
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+My friend Nam and (G1)_______ went to the library yesterday to study for our exam. Nam had forgotten (G2)_______ notes at home, so I lent (G3)_______ mine. The librarian was very helpful — (G4)_______ showed us where to find the reference books we needed. We spent three hours reading, and (G5)_______ really helped us understand the topic better. Nam thanked (G6)_______ for the help, and I told (G7)_______ it was no problem. On the way home, we met our teacher, who reminded (G8)_______ that the exam would be on Friday. She also told us to trust (G9)_______ and not to worry too much. We both felt much more confident after talking with (G10)_______.
+
+**Ví dụ định dạng:** "She forgot (G1)_______ bag, so I lent (G2)_______ mine for the day."
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Tell us about an important person in your life. Describe their personality and explain why they are special to you.
+2. How do you usually help your friends or family members when they have problems?
+3. Describe a time when you had to do something difficult by yourself. How did it feel?
+4. In your opinion, should students correct themselves when they make mistakes, or should teachers correct them?
+
+**Model answer (Band 7–8):** "My mother is the most important person in my life. She has devoted herself entirely to raising our family, and I admire her deeply for her strength and patience. Whenever I have a problem, she listens to me carefully and offers her advice without judging me. She always encourages me to believe in myself and reminds me that I can achieve my goals if I work hard. I try to help her whenever I can — I do the cleaning and cooking for her on weekends so that she can rest. Without her support, I do not think I could have come this far."
+
+---
+
 ## ANSWER KEY (ĐÁP ÁN)
 
 ### Section A:
@@ -223,3 +246,15 @@ E4. There is nothing in the refrigerator. We need to go shopping.
 E5. Can you tell me her name? I forgot it.
 E6. This is mine, not yours. Yours is in your bag.
 E7. Someone called you this morning. They didn't leave their name.
+
+## PHẦN G — ĐÁP ÁN
+
+G1. I  G2. his  G3. him  G4. She  G5. it
+G6. me  G7. him  G8. us  G9. ourselves  G10. her
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Đại từ nhân xưng, tân ngữ, sở hữu và phản thân dùng đúng vai trò ngữ pháp: she/her/herself, I/me/myself
+- Tránh lặp tên nhân vật: dùng đại từ thay thế hợp lý (she, her, herself thay tên người)
+- Liên kết diễn ngôn: Whenever, Without, so that, also

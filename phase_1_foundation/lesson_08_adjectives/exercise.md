@@ -161,6 +161,29 @@
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+The park near my house is a (G1)_______ (beauty → adjective) place to spend a Sunday afternoon. The environment feels (G2)_______ (peace → adjective) and (G3)_______ (relax → adjective). Last weekend, the weather was (G4)_______ (perfection → adjective) — it was a (G5)_______ (sun → adjective) day with a light breeze. Many families brought (G6)_______ (wood → adjective) picnic tables and enjoyed (G7)_______ (health → adjective) snacks in the shade. The flowers were (G8)_______ (colour → adjective) and (G9)_______ (fragrance → adjective), filling the air with a pleasant scent. It was without doubt the most (G10)_______ (enjoy → adjective) afternoon I have had in a long time.
+
+**Ví dụ định dạng:** "The hotel room was (G1)_______ (space → adjective) and (G2)_______ (comfort → adjective)."
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Describe your ideal neighbourhood. What qualities make it a pleasant place to live?
+2. How would you describe your personality? What are your most positive and negative traits?
+3. Describe a memorable meal you have had. What made the food and atmosphere special?
+4. In your opinion, what qualities make a good teacher?
+
+**Model answer (Band 7–8):** "My ideal neighbourhood would be quiet and safe, with clean streets and plenty of green spaces. I believe it is essential for a residential area to have friendly neighbours and accessible facilities such as schools, hospitals, and supermarkets nearby. The area I currently live in is reasonably convenient, but it can be quite noisy and crowded during rush hour. I would love to live somewhere more peaceful and spacious, perhaps near a park where I could take a relaxing walk in the evenings. A colourful and well-maintained environment has a positive effect on people's mood and mental health."
+
+---
+
 ## ANSWER KEY (ĐÁP ÁN)
 
 ### Section A:
@@ -217,3 +240,15 @@ E2. The film was very moving/touching. I cried when I watched it.
 E3. The room was small, dirty, and noisy. I felt very uncomfortable there.
 E4. This is an interesting book about ancient Japanese culture.
 E5. He looks tired and exhausted after the long trip.
+
+## PHẦN G — ĐÁP ÁN
+
+G1. beautiful  G2. peaceful  G3. relaxing  G4. perfect  G5. sunny
+G6. wooden  G7. healthy  G8. colourful  G9. fragrant  G10. enjoyable
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Tính từ đặt đúng vị trí: trước danh từ (a peaceful area, a relaxing walk) hoặc sau động từ liên kết (feel peaceful, seem friendly)
+- Từ vựng tính từ phong phú: quiet, accessible, convenient, spacious, colourful, well-maintained
+- Liên kết diễn ngôn: I believe, I would love to, perhaps, such as, where

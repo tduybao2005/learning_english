@@ -213,6 +213,29 @@
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+Of all the cities I have visited, Ha Noi is (G1)_______ (interesting → comparative) than Ho Chi Minh City, in my opinion, because it has a (G2)_______ (rich → comparative) history. However, Ho Chi Minh City is (G3)_______ (large → comparative) and (G4)_______ (modern → comparative) than Ha Noi. Da Lat is (G5)_______ (cool → superlative) of the three cities in summer, making it the (G6)_______ (popular → superlative) destination for tourists who want to escape the heat. The roads in Ha Noi are (G7)_______ (narrow → comparative) than those in Da Lat, which makes traffic (G8)_______ (difficult → comparative) to manage. I find travelling by motorbike (G9)_______ (fast → comparative) than taking the bus, but it is (G10)_______ (dangerous → comparative) too.
+
+**Ví dụ định dạng:** "This city is (G1)_______ (big → comparative) than mine, but it is not (G2)_______ (modern → comparative)."
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Compare living in a city with living in the countryside. What are the advantages and disadvantages of each?
+2. Compare two forms of transport you use regularly. Which do you prefer and why?
+3. Describe the differences between studying alone and studying in a group. Which do you find more effective?
+4. Compare yourself now with who you were five years ago. In what ways have you improved?
+
+**Model answer (Band 7–8):** "In my opinion, living in a city is far more convenient than living in the countryside because cities offer better job opportunities, more advanced healthcare, and a wider range of entertainment. However, the countryside is much quieter and more peaceful than the city, and the air is considerably cleaner. Personally, I find city life more exciting and stimulating, although it is also more expensive and more stressful. The most challenging aspect of urban living is the traffic, which is much worse than in rural areas. Overall, I believe that the best quality of life is found in smaller cities, which are not as crowded as major capitals but offer more amenities than villages."
+
+---
+
 ## ANSWER KEY (Đáp án)
 
 ### Section A:
@@ -246,3 +269,15 @@
 43. Airfare prices have been getting more and more expensive in recent months.
 44. The more you study, the more confident you will become when speaking English.
 45. In my opinion, health is more important than money, because without good health, you cannot do anything.
+
+## PHẦN G — ĐÁP ÁN
+
+G1. more interesting  G2. richer  G3. larger  G4. more modern  G5. the coolest
+G6. the most popular  G7. narrower  G8. more difficult  G9. faster  G10. more dangerous
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- So sánh hơn: more + adj (nhiều âm tiết) / adj-er (1-2 âm tiết) + than dùng đúng: more convenient, quieter, worse
+- So sánh nhất: the most + adj hoặc the adj-est đặt đúng trước danh từ: the most challenging aspect
+- Liên kết diễn ngôn: However, although, Overall, In my opinion, considerably, far more

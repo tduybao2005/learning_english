@@ -170,6 +170,29 @@
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+Next month, my company (G1)_______ a big technology fair in the city center. I (G2)_______ the event because I have already signed up as a volunteer. The fair (G3)_______ for three days and (G4)_______ hundreds of visitors from around the country. My friend Thi (G5)_______ also come — she bought her ticket last week. We (G6)_______ together in a hotel near the venue, which is very convenient. The organizers say the keynote speaker (G7)_______ at nine o'clock on the opening day. I hope there (G8)_______ be long queues at the entrance. I (G9)_______ my bag tonight so that I (G10)_______ ready to leave on time tomorrow.
+
+**Ví dụ định dạng:** "She (G1)_______ visit her parents next weekend — she has already bought the train ticket."
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. What are your plans for the next five years? Describe your personal or professional goals.
+2. How do you think cities will change in the future due to technology?
+3. Describe a trip or event you are planning. What arrangements have you already made?
+4. Do you think people will use artificial intelligence more in their daily lives in the coming years? Why or why not?
+
+**Model answer (Band 7–8):** "Over the next five years, I am planning to improve my professional qualifications by studying for a postgraduate degree in business administration. I have already researched several universities and I am going to submit my application next year. After I graduate, I will look for a position in an international company where I can use both my English and management skills. I believe that people who speak English fluently will have far more career opportunities in the future, so I am committed to reaching an advanced level within three years."
+
+---
+
 ## ANSWER KEY (ĐÁP ÁN)
 
 ### Section A:
@@ -226,3 +249,15 @@
 43. In the future, artificial intelligence will change many industries / professions.
 44. I have already booked a table at the restaurant — we are eating / having dinner there on Friday evening.
 45. It seems like he is going to get promoted — the director just called him into the office.
+
+## PHẦN G — ĐÁP ÁN
+
+G1. is hosting  G2. am attending  G3. will last  G4. will attract  G5. is going to
+G6. are staying  G7. will arrive  G8. won't  G9. am going to pack  G10. will be
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Ba cấu trúc tương lai: will + V (dự đoán), be going to + V (kế hoạch cụ thể), Present Continuous (sắp xếp đã được lên kế hoạch)
+- Từ vựng tương lai: in the next few years, within three years, over the coming months, by then
+- Liên kết diễn ngôn: After I graduate, so, I believe that, Over the next five years

@@ -182,6 +182,29 @@
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+My friend Lan has just returned from Japan, and she looks absolutely thrilled. She says it is the most beautiful country she (G1)_______ ever visited. Over the past week, she (G2)_______ hundreds of photographs on social media. Lan (G3)_______ never tried ramen before this trip, but now it is her favourite dish. Since coming home, she (G4)_______ already enrolled in a Japanese language class and (G5)_______ some basic phrases. Her parents (G6)_______ not been abroad yet, but Lan's stories (G7)_______ inspired them to start saving. She (G8)_______ already booked her flight for a return trip next spring. Her language skills (G9)_______ improved quickly, and she (G10)_______ decided to aim for a B1 level within a year.
+
+**Ví dụ định dạng:** "She (G1)_______ already finished the report, but her manager (G2)_______ not reviewed it yet."
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. What have you achieved so far this year that you are proud of?
+2. Describe a place you have always wanted to visit. Have you been there yet? Why or why not?
+3. How have you changed since you started learning English? What progress have you made?
+4. In your opinion, what life experiences are the most valuable for a young person to have?
+
+**Model answer (Band 7–8):** "So far this year, I have made significant progress in my English studies. I have completed two grammar courses and I have read three English novels from cover to cover. I have also started attending a weekly conversation club, which has boosted my confidence enormously. Before this year, I had never attempted to speak English with a native speaker, but recently I have had several successful conversations online. I have not yet taken a formal exam, but I have already registered for one in December. The journey has been challenging, but it has also been deeply rewarding."
+
+---
+
 ## ANSWER KEY (Đáp án)
 
 ### Section A:
@@ -229,3 +252,15 @@
 43. We haven't decided where the trip will go. *(We haven't decided where to go yet.)*
 44. He has won the English speech competition three times.
 45. House prices have risen/increased significantly in recent years.
+
+## PHẦN G — ĐÁP ÁN
+
+G1. has  G2. has shared  G3. had (never tried → past perfect in subordinate clause) / has  G4. has  G5. has learned
+G6. have  G7. have  G8. has  G9. have  G10. has
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Hiện tại hoàn thành: have/has + V3 dùng đúng với already, yet, so far, since, ever, never
+- Cụm từ thời gian đặc trưng: so far this year, recently, since I started, for the past few months
+- Liên kết diễn ngôn: Before this year, but recently, also, which, The journey has been

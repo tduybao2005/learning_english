@@ -152,6 +152,29 @@ __________________________________________________________________
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+I was born (G1)_______ 1998 (G2)_______ a small town (G3)_______ the north of Vietnam. My family moved to Ha Noi (G4)_______ 2010, and we have lived here ever since. Our apartment is (G5)_______ the fourth floor of a building that stands (G6)_______ the corner of two busy streets. I usually arrive (G7)_______ school (G8)_______ seven thirty (G9)_______ the morning. My favourite class is (G10)_______ Monday afternoons, when we have English conversation practice.
+
+**Ví dụ định dạng:** "She was born (G1)_______ April (G2)_______ a small village (G3)_______ the south."
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Describe where you live. Use prepositions to explain the location of your home and nearby places.
+2. How do you spend your time on weekdays and at weekends?
+3. Describe your daily schedule. Use precise time expressions with in/on/at.
+4. In your opinion, what is the best place to live — in a city, in a small town, or in the countryside? Why?
+
+**Model answer (Band 7–8):** "I live in a busy district in the centre of Ho Chi Minh City, on the third floor of an old apartment building. The building stands on a main road near a large market, so it is very convenient for shopping. On weekdays, I leave for work at eight o'clock in the morning and usually return home at around six in the evening. At weekends, I often stay at home in the morning and then go out with friends in the afternoon. I enjoy living in the city because everything I need is within easy reach — the nearest supermarket is just at the end of my street."
+
+---
+
 ## ANSWER KEY (Đáp án)
 
 ### Section A:
@@ -178,3 +201,15 @@ __________________________________________________________________
 43. We drove from Hanoi to Ninh Binh, passing through many small villages.
 44. There is a bench behind the large tree in the middle of the park.
 45. He lives on the third floor of the building, right next to the lift.
+
+## PHẦN G — ĐÁP ÁN
+
+G1. in  G2. in  G3. in  G4. in  G5. on
+G6. on  G7. at  G8. at  G9. in  G10. on
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Giới từ thời gian: in (năm/tháng/buổi), on (ngày/thứ), at (giờ cụ thể) dùng đúng và nhất quán
+- Giới từ địa điểm: in (thành phố/khu vực lớn), on (tầng/đường), at (địa điểm cụ thể như trường/nhà)
+- Liên kết diễn ngôn: near, within reach, so it is, because, at the end of

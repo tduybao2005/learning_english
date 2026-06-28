@@ -183,6 +183,29 @@
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+Right now, my family is very busy. My mother (G1)_______ dinner in the kitchen — she (G2)_______ a traditional Vietnamese dish. My father (G3)_______ in his armchair and (G4)_______ an interesting article in the newspaper. My younger sister (G5)_______ her bedroom floor while her music (G6)_______ loudly in the background. Meanwhile, I (G7)_______ this paragraph as part of my English homework and (G8)_______ hard to finish before dinner. Outside the window, some workers (G9)_______ the road with heavy machinery. The sun (G10)_______ behind the clouds now, so I have turned on the desk lamp.
+
+**Ví dụ định dạng:** "She (G1)_______ at her desk and (G2)_______ a report for tomorrow's meeting."
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Describe what you and the people around you are doing right now or at this point in your life.
+2. How is technology changing the way people learn languages these days?
+3. What changes are happening in your city or town at the moment?
+4. In your opinion, why do people today spend more and more time on their smartphones?
+
+**Model answer (Band 7–8):** "At the moment, I am working on improving my English skills because I am planning to take an international exam next year. I am spending about one hour every evening practising grammar and vocabulary. In addition, my company is expanding its business overseas, so many of my colleagues are also studying English these days. I am finding it quite challenging, especially the listening sections, but I am making steady progress each week. This year, I am trying to read at least one English article every day to build my vocabulary."
+
+---
+
 ## ANSWER KEY (ĐÁP ÁN)
 
 ### Section A:
@@ -243,3 +266,15 @@
 46. More and more companies are allowing employees to work remotely these days.
 47. She is not watching a film — she is reading a book. Please don't disturb her.
 48. Why are they arguing? What happened?
+
+## PHẦN G — ĐÁP ÁN
+
+G1. is cooking  G2. is preparing  G3. is sitting  G4. is reading  G5. is sweeping
+G6. is playing  G7. am writing  G8. am trying  G9. are repairing  G10. is hiding
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Cấu trúc hiện tại tiếp diễn: am/is/are + V-ing dùng đúng cho hành động đang xảy ra hoặc xu hướng tạm thời
+- Từ vựng thời gian/ngữ cảnh: at the moment, right now, currently, these days, this year
+- Liên kết diễn ngôn: In addition, especially, also, so

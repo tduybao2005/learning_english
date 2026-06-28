@@ -139,6 +139,29 @@ __________________________________________________________________
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+I live in (G1)_______ small apartment in (G2)_______ centre of the city. My apartment has two (G3)_______ and a tiny kitchen. Every evening, I buy (G4)_______ groceries from the supermarket near my building. I usually need (G5)_______ bread, some (G6)_______, and perhaps (G7)_______ can of tuna. (G8)_______ fresh food is always better than frozen meals, in my opinion. My neighbor, who is (G9)_______ elderly woman, often gives me (G10)_______ advice about cooking healthy meals.
+
+**Ví dụ định dạng:** "She bought (G1)_______ apple and (G2)_______ milk at the market this morning."
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Describe your ideal home. What kinds of rooms and furniture would it have?
+2. What types of food do you usually buy when you go grocery shopping?
+3. In your opinion, what is the most important piece of advice parents can give their children?
+4. How has the amount of information available to people changed over the past decade?
+
+**Model answer (Band 7–8):** "My ideal home would be a large, comfortable house in the countryside, away from the noise and pollution of the city. It would have four spacious bedrooms, a modern kitchen, and a garden where I could grow fresh vegetables and herbs. The living room would have big windows to let in plenty of natural light. I would also need a small study with enough space for books and a computer. I believe that a good home is not just about having expensive furniture — it is a place where a family can feel safe, happy, and connected."
+
+---
+
 ## ANSWER KEY (Đáp án)
 
 ### Section A:
@@ -172,3 +195,15 @@ __________________________________________________________________
 43. She has a lot of experience in the field of marketing and design.
 44. We need to buy a lot of new furniture for the office.
 45. There are many excellent students in our school this year.
+
+## PHẦN G — ĐÁP ÁN
+
+G1. a  G2. the  G3. bedrooms  G4. some  G5. some
+G6. vegetables  G7. a  G8. —  G9. an  G10. some
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Danh từ đếm được và không đếm được dùng chính xác: furniture (không đếm), rooms (đếm), advice (không đếm)
+- Mạo từ a/an/the và không mạo từ dùng đúng ngữ cảnh: a garden, the countryside, fresh vegetables (không mạo từ)
+- Liên kết diễn ngôn: away from, where, I believe that, also

@@ -183,6 +183,29 @@
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+My colleague Linh (G1)_______ to work by bicycle every morning. She (G2)_______ at 7:30 and (G3)_______ about twenty minutes to reach the office. Linh (G4)_______ not use the lift — she always (G5)_______ the stairs to stay fit. Her manager, Mr. Trung, (G6)_______ at 8 o'clock sharp and (G7)_______ team meetings every Monday. The team (G8)_______ not work on Saturdays, but they sometimes (G9)_______ extra hours on Fridays. At the end of each month, the company (G10)_______ bonuses to employees who meet their targets.
+
+**Ví dụ định dạng:** "Every morning, she (G1)_______ breakfast before she (G2)_______ to work."
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Describe your typical daily routine. What do you usually do before going to work or school?
+2. What habits do people in your family have that you think are healthy or unhealthy?
+3. In your opinion, why is it important to follow a regular routine?
+4. What is one habit you would like to change about yourself and why?
+
+**Model answer (Band 7–8):** "I usually wake up at six o'clock in the morning. First, I make my bed and do some light stretching exercises for about fifteen minutes. After that, I prepare a simple breakfast — I normally have bread and fruit because I believe a nutritious morning meal helps me concentrate better at work. I take the bus to my office, which takes around thirty minutes. In the evening, I rarely stay up past ten o'clock because I know that regular sleep plays an important role in maintaining good health."
+
+---
+
 ## ANSWER KEY (ĐÁP ÁN)
 
 ### Section A:
@@ -242,3 +265,15 @@
 46. What do you usually do in the evening after work?
 47. Water freezes at 0°C and boils at 100°C.
 48. My parents often take a walk together in the morning. They rarely miss a day.
+
+## PHẦN G — ĐÁP ÁN
+
+G1. cycles/goes  G2. leaves  G3. takes  G4. does  G5. takes
+G6. arrives  G7. holds  G8. does  G9. work  G10. gives
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Động từ thì hiện tại đơn chia đúng ngôi thứ ba số ít (-s/-es): she cycles, he arrives, it takes
+- Trạng từ tần suất (usually, always, rarely, sometimes) đặt đúng vị trí trước động từ chính
+- Liên kết diễn ngôn: First, After that, In the evening, because

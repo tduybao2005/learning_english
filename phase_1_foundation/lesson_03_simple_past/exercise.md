@@ -183,6 +183,29 @@
 
 ---
 
+## PHẦN G: LISTENING-STYLE DICTATION / GAP-FILL (10 câu)
+
+*Đọc đoạn văn và điền từ còn thiếu dựa vào ngữ cảnh (không cần audio).*
+
+Last summer, my family (G1)_______ a short holiday to Da Lat. We (G2)_______ our bags the night before and (G3)_______ early in the morning. The journey by coach (G4)_______ about six hours, so we (G5)_______ several stops along the way. When we (G6)_______ at the hotel, the receptionist (G7)_______ us a room with a beautiful mountain view. That evening, we (G8)_______ out for dinner at a local restaurant where the owner (G9)_______ some traditional dishes. The trip (G10)_______ wonderful and we all returned home feeling very refreshed.
+
+**Ví dụ định dạng:** "Last week, she (G1)_______ to the market and (G2)_______ fresh vegetables for dinner."
+
+---
+
+## PHẦN H: SPEAKING / DISCUSSION PROMPT
+
+*Trả lời miệng hoặc viết câu trả lời, dùng cấu trúc/từ vựng của bài.*
+
+1. Describe a memorable trip or holiday you took in the past. What did you do and where did you go?
+2. Tell us about an important event in your life. How did it change you?
+3. What did you do last weekend? Describe your activities in detail.
+4. Describe a challenge you faced in the past. How did you overcome it?
+
+**Model answer (Band 7–8):** "Two years ago, I visited Hoi An for the first time with my university friends. We took a bus from Ho Chi Minh City, which was quite long but enjoyable because we talked and played games along the way. When we arrived, we checked into a small guesthouse near the ancient town. The next morning, we hired bicycles and explored the narrow streets lined with yellow houses. We tried several local specialities such as Cao Lau and White Rose dumplings. I took many photographs and bought some silk scarves as souvenirs. It was without doubt one of the best trips I have ever taken."
+
+---
+
 ## ANSWER KEY (ĐÁP ÁN)
 
 ### Section A:
@@ -242,3 +265,15 @@
 46. Did he come to the party last night? — No, he didn't come because he felt unwell / didn't feel well.
 47. When I was young / little, I used to play football with my friends every afternoon after school.
 48. The teacher explained the grammar rule very clearly and all the students understood.
+
+## PHẦN G — ĐÁP ÁN
+
+G1. took  G2. packed  G3. left  G4. took  G5. made
+G6. arrived  G7. gave  G8. went  G9. recommended  G10. was
+
+## PHẦN H — GỢI Ý
+
+*Câu trả lời tốt nên bao gồm:*
+- Động từ bất quy tắc chia đúng ở thì quá khứ: went, took, visited, tried, bought, found
+- Từ vựng thời gian quá khứ: two years ago, the next morning, along the way, when we arrived, after that
+- Liên kết diễn ngôn: because, such as, without doubt, which
