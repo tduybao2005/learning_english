@@ -36,8 +36,7 @@ Locate the answer key → score on a fixed rubric → explain every error in Eng
 |---|---|---|---|
 | Lesson exercise | `phase_*/lesson_*/exercise.md` | Embedded `## ANSWER KEY (ĐÁP ÁN)` section in same file | Points + band table (this file) |
 | Phase exam | `phase_*/exam/phaseN_exam.md` | `phase_*/exam/phaseN_answer_key.md` (separate file) | Points + band table (reuse exam's rubric if present) |
-| IELTS reading | `ielts_practice_tests/test_NN/reading.md` | `ielts_practice_tests/test_NN/answer_key.md` | Raw-score → band from that file's conversion table |
-| IELTS writing/speaking | `ielts_practice_tests/test_NN/{writing,speaking}.md` | `ielts_practice_tests/test_NN/answer_key.md` | Checklist self-assessment only (no numeric score) |
+| IELTS test | `ielts_practice_tests/test_NN/{reading,writing,speaking}.md` | `ielts_practice_tests/test_NN/answer_key.md` | **IELTS band 0–9, never 0–100%** — reading: native raw→band table; writing/speaking: estimated band from descriptor rubric + checklist |
 
 ---
 
@@ -51,7 +50,7 @@ Locate the answer key → score on a fixed rubric → explain every error in Eng
   - 1 point for meaning/vocabulary
   - Half-credit (1 pt) is allowed when meaning is conveyed but grammar errors remain, or vice versa.
 - **Acceptable-variant rule:** Keys list alternatives with `/` (e.g. `finishes / ends`) or parenthetical notes (e.g. `made / gave (both acceptable)`). Any listed variant = fully correct. Ignore differences in capitalization, surrounding whitespace, and contraction spelling (`doesn't` = `does not`).
-- **Total** = sum of item points. **Percentage** = `round(earned / total × 100)`.
+- **Total (lessons & phase exams)** = sum of item points. **Percentage** = `round(earned / total × 100)`. IELTS tests do NOT use this percentage — see the IELTS band rule below.
 
 ### Band table (lessons and phase exams)
 
@@ -62,9 +61,10 @@ Locate the answer key → score on a fixed rubric → explain every error in Eng
 | 60–74 | Khá | Ôn lại phần yếu trước khi tiếp |
 | < 60 | Cần ôn lại | Học lại `lecture.md` của bài rồi làm lại |
 
-**IELTS reading:** Do NOT use the band table above. Read the raw-score → band conversion table inside that test's `answer_key.md` and report whatever band it yields.
-
-**IELTS writing/speaking:** Not auto-scored. Run the self-assessment checklist from `answer_key.md` and report which checklist items pass/fail. State this limitation explicitly in the report.
+**IELTS practice tests — band scale only (never 0–100%):** IELTS tests are scored on the IELTS band (0–9), not on the percentage/Xếp loại table above.
+- **Reading:** Count raw correct out of 40, then read the raw-score → band conversion table printed inside *that* test's `answer_key.md` and report the band it yields. Use each test's own table verbatim — the tables differ between tests. Never use one test's table for another test.
+- **Writing & speaking:** Not objectively gradable, but still report an **estimated band (0–9)**. Map the response against the band-descriptor rubric in that test's `answer_key.md`. Where a test ships only a pass/fail self-assessment checklist, derive the estimate from how many checklist items pass. Always label writing/speaking bands explicitly as a **self-estimate**, not an official score, and list which checklist/descriptor items pass or fail.
+- **Overall Band:** Report each section's band and compute an **Overall Band** = average of available section bands, rounded to the nearest 0.5 (IELTS rounding). Note that listening is not included in this curriculum.
 
 ---
 
@@ -162,10 +162,10 @@ Sub-total: 4/7 for these 6 items.
 ## Common Mistakes (Grader Pitfalls)
 
 1. **Marking a valid `/`-variant as wrong.** If the key says `finishes / ends`, both are correct. Check for parenthetical notes too (`(both acceptable)`).
-2. **Auto-scoring IELTS writing or speaking.** These sections cannot be auto-graded. Use the checklist in `answer_key.md` and say explicitly: "IELTS writing/speaking uses self-assessment — see checklist below."
+2. **Giving IELTS writing/speaking an unlabeled band.** Always label writing/speaking bands explicitly as a **self-estimate** — never claim an official score for these sections. Derive the estimate from the descriptor rubric or, where only a checklist exists, from the pass rate of checklist items.
 3. **Forgetting the SỔ GHI LỖI and KHUYẾN NGHỊ sections.** Every report must include the error-log table and study recommendations — do not skip them.
 4. **Writing explanations in Vietnamese.** The rule: explanation content (the why-clauses, tips, rules) must be in English. Vietnamese is for headings and band labels only.
-5. **Using the lesson band table for IELTS reading.** IELTS reading uses the raw→band table printed in that specific test's `answer_key.md`. Never apply the 90/75/60 percentage cutoffs to IELTS reading.
+5. **Using the lesson band table (90/75/60%) for IELTS reading.** IELTS reading uses the raw→band table printed in that specific test's `answer_key.md`, never the percentage cutoffs. Also: never use one test's raw→band table for a different test — each test ships its own conversion table.
 6. **Forgetting half-credit for productive items.** Translations worth 2 pts can earn 1 pt when meaning is right but grammar fails (or vice versa). Do not round to 0 or 2.
 7. **Editing exercise.md.** Always write output to a NEW `score_report_<date>.md` file in the same folder. Never modify the exercise file.
 
@@ -177,5 +177,4 @@ Sub-total: 4/7 for these 6 items.
 |---|---|---|---|
 | Lesson exercise | `phase_*/lesson_*/exercise.md` | Embedded `## ANSWER KEY` in same file | Points + band table |
 | Phase exam | `phase_*/exam/phaseN_exam.md` | `phase_*/exam/phaseN_answer_key.md` | Points + band table |
-| IELTS reading | `ielts_practice_tests/test_NN/reading.md` | `test_NN/answer_key.md` | Native raw→band table |
-| IELTS writing/speaking | `test_NN/{writing,speaking}.md` | `test_NN/answer_key.md` | Checklist only |
+| IELTS test | `ielts_practice_tests/test_NN/{reading,writing,speaking}.md` | `test_NN/answer_key.md` | Band 0–9 only — reading: native raw→band table; writing/speaking: estimated band (self-estimate) + Overall Band |
