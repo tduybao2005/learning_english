@@ -354,3 +354,38 @@ Once it reaches the ground, water follows one of two paths. Some flows across th
 ---
 
 *Tiếp theo: Bài 3 — Writing Task 2 Opinion Essay*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| "in the north direction" / "at north" | "in the north" | Hướng địa lý dùng giới từ "in", không phải "at"; không thêm "direction" — đây là lỗi ngữ pháp cơ bản |
+| Dùng active voice cho quy trình nhân tạo: "Workers sort the materials and then heat them." | "The materials are sorted and then heated in a kiln." | Quy trình nhân tạo (man-made process) phải dùng passive voice vì tập trung vào quy trình, không phải người thực hiện |
+| Dùng passive voice cho quy trình tự nhiên: "Water is evaporated by the sun." | "Water evaporates from the ocean surface when heated by the sun." | Quy trình tự nhiên (water cycle, life cycle) dùng active voice vì chủ thể là lực tự nhiên, không phải con người hay máy móc |
+| Chỉ mô tả những gì CÓ trong bản đồ, không mô tả THAY ĐỔI: "In 1985, there was a forest. There was a beach." | "The forest in the north was partially cleared to make way for ten accommodation huts, while the beach remained unchanged along the southern coastline." | Map task yêu cầu mô tả SỰ THAY ĐỔI (before/after), không phải liệt kê những gì có trong bản đồ |
+| Không đề cập những gì KHÔNG THAY ĐỔI | "The church in the centre remained unchanged throughout the period." | Thông tin "không thay đổi" (remained unchanged/was retained) là đặc điểm quan trọng giúp hoàn thiện bài Map |
+| Overview quá đơn giản: "Overall, there are 7 steps in the process." | "Overall, the process comprises seven distinct stages, beginning with the extraction of raw clay and culminating in the packaged delivery of finished bricks to construction sites." | Overview phải nêu tổng số bước, input, output — không chỉ đếm số bước |
+| Mô tả Process không theo thứ tự: nhảy từ bước 1 sang bước 5 rồi bước 3 | Mô tả theo thứ tự tuyến tính với sequencing language: "First... Subsequently... At this stage... Finally..." | Thứ tự trình bày phải khớp với thứ tự của quy trình; nhảy bước làm giảm điểm Coherence nghiêm trọng |
+| Dùng thì quá khứ cho quy trình tự nhiên: "Water evaporated and then condensed." | "Water evaporates from the ocean surface and rises into the atmosphere, where it condenses to form clouds." | Quy trình tự nhiên dùng present simple (mô tả sự thật chung); quy trình nhân tạo cũng thường dùng present simple passive |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Map task — tập trung vào thay đổi:** Cốt lõi là mô tả điều gì ĐÃ THAY ĐỔI (was built, was demolished, was replaced by, was converted into) và điều gì CÒN NGUYÊN VẸN (remained unchanged, was retained, continued to exist). Đừng chỉ liệt kê những gì có.
+- **Vị trí địa lý chuẩn:** Dùng "in the north/south/east/west", "in the northeastern corner", "adjacent to [X]", "opposite to [Y]", "in the centre of the area". Tuyệt đối tránh "at north" hoặc "in north direction".
+- **Active vs Passive trong Process — quy tắc cứng:** Quy trình tự nhiên (water cycle, butterfly life cycle) → Active voice. Quy trình nhân tạo (brick manufacturing, recycling) → Passive voice. Không được nhầm hai loại này.
+- **Overview cho Process phải có:** (1) Tổng số bước; (2) Điểm bắt đầu (input/raw material); (3) Điểm kết thúc (output/finished product); (4) Quy trình tuyến tính (linear) hay vòng tròn (cyclical).
+- **Sequencing language bắt buộc:** "First / Initially / The process begins with..." → "Next / Then / Subsequently..." → "At this stage / Once X has been completed..." → "Finally / Lastly / The process concludes with...". Không được mô tả process mà thiếu từ nối thứ tự.
+- **Từ vựng Map task theo nhóm:** Xây mới (was built/was constructed/appeared), phá bỏ (was demolished/was torn down/disappeared), chuyển đổi (was converted into/was replaced by/became), mở rộng (was extended/was enlarged), không thay đổi (remained unchanged/was retained).
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 1 — Writing Task 1 Charts](../lesson_01_writing_task1_charts/lecture.md) — cùng là Task 1; kỹ năng viết Introduction và Overview chuẩn áp dụng giống nhau cho cả charts lẫn maps/processes
+- [Bài 3 — Writing Task 2 Opinion Essay](../lesson_03_writing_task2_opinion_essay/lecture.md) — sau khi thành thạo Task 1, chuyển sang Task 2 với yêu cầu lập luận và từ vựng học thuật cao hơn
+- [Phase 3 — Passive Voice](../../phase_3_intermediate/lesson_01_passive_voice/lecture.md) — passive voice là kỹ năng cốt lõi cho mọi bài Process diagram về quy trình nhân tạo
+- [Phase 1 — Prepositions](../../phase_1_foundation/lesson_10_prepositions/lecture.md) — giới từ vị trí (in/on/at/to/beside/opposite/adjacent to) cần thiết để mô tả bản đồ chính xác

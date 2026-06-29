@@ -428,3 +428,38 @@ By 2015, the energy mix had diversified considerably. Coal's share had fallen sh
 ---
 
 *Tiếp theo: Bài 2 — Maps & Process Diagrams*
+
+---
+
+## LỖI THƯỜNG GẶP
+
+| Sai | Đúng | Giải thích |
+|---|---|---|
+| Chép nguyên văn đề bài trong Introduction: "The line graph shows the percentage of people using the internet..." | "The line graph illustrates the proportion of the population who accessed the internet..." | Sao chép nguyên văn câu đề bài làm giảm điểm Lexical Resource; phải paraphrase ít nhất 50% từ |
+| Không viết đoạn Overview: bắt đầu chi tiết luôn sau Introduction | "Overall, internet usage increased significantly in all three countries, with the USA maintaining the highest rates throughout." | Thiếu Overview là lỗi nghiêm trọng nhất — bị trừ điểm Task Achievement nặng, không thể đạt Band 7+ |
+| Liệt kê từng con số: "In 2000 it was 10%, in 2001 it was 12%, in 2002 it was 11%..." | "The figure rose gradually from 10% in 2000 to around 15% by 2005, before dipping slightly to 11% in 2002." | Giám khảo muốn thấy bạn nhận ra xu hướng và nhóm số liệu lại, không phải đọc từng điểm dữ liệu |
+| Đưa số liệu cụ thể vào Overview: "Overall, the USA had 70% and the UK had 65% in 2020." | "Overall, all three countries saw significant growth, with the USA consistently recording the highest figures." | Overview không được chứa số liệu cụ thể — chỉ nêu xu hướng và đặc điểm tổng quát |
+| Không dùng ngôn ngữ xấp xỉ: "The figure was 47.3%." | "The figure was approximately 47%, or just under half." | Ngôn ngữ xấp xỉ (roughly/approximately/just over/nearly) làm bài viết tự nhiên và chuyên nghiệp hơn |
+| Bắt đầu nhiều câu liên tiếp bằng "The": "The figure rose. The UK increased. The USA declined." | "While the UK saw a steady rise, the USA's figures declined sharply over the same period." | Cấu trúc câu đơn điệu làm giảm điểm Grammatical Range and Accuracy; cần đa dạng cấu trúc câu |
+| Không so sánh các đối tượng: mô tả từng đường riêng biệt mà không liên kết | "France's growth was far more dramatic than Germany's, despite starting from a considerably lower base in 2000." | So sánh trực tiếp giữa các đối tượng là yếu tố phân biệt Band 6 và Band 7+ |
+| Viết bài quá ngắn (dưới 150 từ) | Bài viết đầy đủ 160–180 từ với đủ Introduction, Overview, và hai Body Paragraphs có số liệu cụ thể | Dưới 150 từ bị trừ điểm Task Achievement tự động; mục tiêu 160–180 từ là lý tưởng |
+
+---
+
+## TÓM TẮT NHANH
+
+- **Cấu trúc 4 đoạn bắt buộc:** Introduction (paraphrase đề bài) → Overview (2–3 xu hướng chính, không có số liệu) → Body 1 (chi tiết + số liệu cụ thể) → Body 2 (chi tiết + so sánh). Áp dụng cho mọi dạng biểu đồ: line chart, bar chart, pie chart, table.
+- **Overview là trọng tâm:** Luôn bắt đầu bằng "Overall," hoặc "In general," và nêu điểm đặc biệt nhất (cao nhất, thấp nhất, thay đổi lớn nhất, xu hướng chung). Ví dụ: "Overall, internet usage rose in all three countries, with the USA maintaining the highest rates throughout the period."
+- **Ngôn ngữ xu hướng có sắc thái:** Phân biệt tốc độ (gradually/sharply/dramatically) và mức độ (rose slightly → climbed → surged → soared). Ví dụ: "Sales surged dramatically from 20% to 65% between 2000 and 2010."
+- **Xấp xỉ hóa số liệu:** Dùng "approximately 45%", "just over a quarter", "nearly 80%", "roughly double" thay vì luôn dùng số chính xác để câu văn tự nhiên và đa dạng hơn.
+- **So sánh là bắt buộc:** Sử dụng "whereas", "in contrast", "compared to", "while" để liên kết các đối tượng. Ví dụ: "While France saw a dramatic rise, Germany's figures remained relatively stable throughout the period."
+- **Mục tiêu số từ:** 160–180 từ là lý tưởng. Dưới 150 từ bị trừ điểm tự động; trên 250 từ sẽ lãng phí thời gian cần thiết cho Task 2.
+
+---
+
+## LIÊN KẾT BÀI HỌC
+
+- [Bài 2 — Maps & Processes](../lesson_02_writing_task1_maps_processes/lecture.md) — cùng là Writing Task 1 nhưng không có số liệu thống kê; kỹ năng paraphrase và viết Overview áp dụng cho cả hai dạng
+- [Bài 3 — Writing Task 2 Opinion Essay](../lesson_03_writing_task2_opinion_essay/lecture.md) — kỹ năng viết đoạn văn có cấu trúc và paraphrase từ Task 1 là nền tảng trực tiếp cho Task 2
+- [Phase 3 — Advanced Comparisons](../../phase_3_intermediate/lesson_10_advanced_comparisons/lecture.md) — ngôn ngữ so sánh nâng cao (whereas/in contrast/compared to) cần thiết cho Body Paragraphs của biểu đồ
+- [Phase 3 — Discourse Markers](../../phase_3_intermediate/lesson_11_discourse_markers/lecture.md) — từ nối (Furthermore, Moreover, By contrast, In addition) giúp các Body Paragraphs mạch lạc và có liên kết
