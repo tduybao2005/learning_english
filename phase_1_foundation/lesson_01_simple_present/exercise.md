@@ -1,7 +1,7 @@
 # EXERCISE - BÀI 1: THÌ HIỆN TẠI ĐƠN (SIMPLE PRESENT TENSE)
 ## Bài tập tổng hợp
 
-**Tổng số câu: 40 | Thời gian làm bài: 45-60 phút**
+**Tổng số câu: 39 | Thời gian làm bài: 45-60 phút**
 
 ---
 
@@ -10,88 +10,88 @@
 
 **A1 (Câu khẳng định)**
 
-1. My mother ____________ (cook) dinner every evening.
-2. The bank ____________ (open) at 8 am and ____________ (close) at 5 pm.
-3. Water ____________ (freeze) at 0 degrees Celsius.
-4. She ____________ (study) English for two hours every day.
-5. They ____________ (live) in a small apartment near the university.
-6. My dog ____________ (bark) at strangers but ____________ (not / bite).
-7. The sun ____________ (set) in the west every evening.
-8. He ____________ (have) breakfast at 7 am and ____________ (arrive) at work by 8.
+1. My mother ______cooks______ (cook) dinner every evening.
+2. The bank ______opens______ (open) at 8 am and ______closes______ (close) at 5 pm.
+3. Water ______freezes______ (freeze) at 0 degrees Celsius.
+4. She ______studies______ (study) English for two hours every day.
+5. They ______live______ (live) in a small apartment near the university.
+6. My dog ______barks______ (bark) at strangers but ______does not______ (not / bite).
+7. The sun ______sets______ (set) in the west every evening.
+8. He ______has______ (have) breakfast at 7 am and ______arrives______ (arrive) at work by 8.
 
 **A2 (Câu phủ định)**
 
-9. I ____________ (not / drink) coffee. I prefer tea.
-10. She ____________ (not / like) horror movies.
-11. They ____________ (not / speak) Chinese — they speak Japanese.
-12. My brother ____________ (not / eat) vegetables. He only eats meat.
+9. I ______do not drink______ (not / drink) coffee. I prefer tea.
+10. She ______does not like______ (not / like) horror movies.
+11. They ______do not speak______ (not / speak) Chinese — they speak Japanese.
+12. My brother ______does not eat______ (not / eat) vegetables. He only eats meat.
 
 **A3 (Câu hỏi)**
 
-13. ____________ (Do/Does) your father work on weekends?
-14. ____________ (Do/Does) you understand this exercise?
-15. What time ____________ the first bus ____________ (leave)?
+13. ______Does______ (Do/Does) your father work on weekends?
+14. ______Do______ (Do/Does) you understand this exercise?
+15. What time ______does______ the first bus ______leave______ (leave)?
 
 ---
 
 ## SECTION B: MULTIPLE CHOICE (Trắc nghiệm)
 *Chọn đáp án đúng (A, B, C, hoặc D).*
 
-16. She ______ English at a language center in the city.
+16. She ___teaches___ English at a language center in the city.
     - A) teach
     - B) teaches
     - C) is teach
     - D) teaching
 
-17. My father ______ the newspaper every morning after breakfast.
+17. My father ___reads___ the newspaper every morning after breakfast.
     - A) read
     - B) reads
     - C) is reading
     - D) do read
 
-18. They ______ go to church on Sundays.
+18. They ___don't___ go to church on Sundays.
     - A) don't
     - B) doesn't
     - C) not
     - D) isn't
 
-19. ______ your sister speak French?
+19. ___Does___ your sister speak French?
     - A) Do
     - B) Is
     - C) Does
     - D) Are
 
-20. The Earth ______ around the sun.
+20. The Earth ___revolves___ around the sun.
     - A) revolve
     - B) revolves
     - C) is revolving
     - D) has revolved
 
-21. I ______ always ______ my homework before dinner.
+21. I ___-___ always ___do___ my homework before dinner.
     - A) do / do
     - B) do / does
     - C) am / doing
     - D) — / do (no auxiliary needed with "always")
 
-22. He ______ at the gym three times a week.
+22. He ___exercises___ at the gym three times a week.
     - A) exercise
     - B) exercises
     - C) is exercise
     - D) exercised
 
-23. Water ______ at 100°C at sea level.
+23. Water ___boils___ at 100°C at sea level.
     - A) boil
     - B) boils
     - C) boiled
     - D) is boil
 
-24. She ______ never ______ late for work.
+24. She ___is___ never ___-___ late for work.
     - A) is / — (no main verb needed)
     - B) does / be
     - C) do / be
     - D) has / been
 
-25. ______ often ______ your family visit your grandparents?
+25. ___How___ often ___do___ your family visit your grandparents?
     - A) How / do
     - B) How / does
     - C) When / do
@@ -103,83 +103,80 @@
 *Viết lại câu theo yêu cầu, giữ nguyên nghĩa.*
 
 26. Tom goes to work by motorbike. *(Chuyển sang phủ định)*
-    → Tom _______________________________________________
+    → Tom _____________________does not go to work by motorbike._____________________
 
 27. She drinks milk every morning. *(Chuyển sang câu hỏi Yes/No)*
-    → _______________________________________________?
+    → ______________________Does she drink milk every morning______________________?
 
 28. They play football on weekends. *(Chuyển sang câu hỏi Wh- với "When")*
-    → When _______________________________________________?
+    → When _______________________do they play football on weekends_______________________?
 
 29. My sister studies medicine at university. *(Chuyển chủ ngữ sang "My brothers")*
-    → My brothers _______________________________________________
+    → My brothers _______________________studies medicine at university._______________________
 
 30. He doesn't like spicy food. *(Chuyển sang câu khẳng định)*
-    → He _______________________________________________
+    → He _______________________likes spicy food._______________________
 
 31. Do you eat breakfast every day? *(Chuyển sang câu hỏi với "your father" làm chủ ngữ)*
-    → Does your father _______________________________________________?
+    → Does your father _______________________eat breakfast every day_______________________?
 
-32. The train leaves at 7 am. *(Thêm câu hỏi đuôi - Question tag)*
-    → The train leaves at 7 am, _______________________________________________?
-
-33. I always do my homework. *(Chuyển sang phủ định, giữ "always")*
-    → I don't always _______________________________________________
+32. I always do my homework. *(Chuyển sang phủ định, giữ "always")*
+    → I don't always _______________________do my homework._______________________
 
 ---
 
 ## SECTION D: ERROR CORRECTION (Sửa lỗi sai)
 *Mỗi câu có MỘT lỗi sai. Tìm và sửa lỗi đó.*
 
-34. She don't like vegetables. She prefer fruit.
-    → Lỗi: _______ → Sửa: _______________________________________
+33. She don't like vegetables. She prefer fruit.
+    → Lỗi: ___don't , prefer___ → Sửa: _________________She doesn't like vegetables. She prefers fruit._________________
 
-35. Does your brother goes to school by bus?
-    → Lỗi: _______ → Sửa: _______________________________________
+34. Does your brother goes to school by bus?
+    → Lỗi: ___goes___ → Sửa: _________________Does your brother go to school by bus?______________________
 
-36. My mother always is tired after work.
-    → Lỗi: _______ → Sửa: _______________________________________
+35. My mother always is tired after work.
+    → Lỗi: ___is___ → Sửa: __________________My mother is always tired after work._____________________
 
-37. He work at a bank in the city center.
-    → Lỗi: _______ → Sửa: _______________________________________
+36. He work at a bank in the city center.
+    → Lỗi: ___work___ → Sửa: __________________He works at a bank in the city center._____________________
 
-38. I am go to the gym every Monday.
-    → Lỗi: _______ → Sửa: _______________________________________
+37. I am go to the gym every Monday.
+    → Lỗi: ___am____ → Sửa: _________________I go to the gym every Monday.______________________
 
-39. Do she speak English well?
-    → Lỗi: _______ → Sửa: _______________________________________
+38. Do she speak English well?
+    → Lỗi: ___Does____ → Sửa: _________________Does she speak English well?______________________
 
-40. They doesn't understand the problem.
-    → Lỗi: _______ → Sửa: _______________________________________
+39. They doesn't understand the problem.
+    → Lỗi: ___doesn't____ → Sửa: _________________They don't understand the problem.______________________
 
-41. The sun rising in the east every morning.
-    → Lỗi: _______ → Sửa: _______________________________________
+40. The sun rising in the east every morning.
+    → Lỗi: ___rising____ → Sửa: _________________The sun rises in the east every morning.______________________
 
 ---
 
 ## SECTION E: TRANSLATION VIETNAMESE → ENGLISH (Dịch Việt → Anh)
 *Dịch các câu sau sang tiếng Anh, sử dụng Thì Hiện Tại Đơn.*
 
-42. Chị gái tôi thức dậy lúc 5 giờ sáng mỗi ngày vì cô ấy làm việc rất xa nhà.
-    → _______________________________________________________
+41. Chị gái tôi thức dậy lúc 5 giờ sáng mỗi ngày vì cô ấy làm việc rất xa nhà.
+    → ___My sister wakes up at 5 o'clock every days because she works very away from home.________________________
 
-43. Trường học của chúng tôi bắt đầu lúc 7:30 sáng và kết thúc lúc 5 giờ chiều.
-    → _______________________________________________________
+42. Trường học của chúng tôi bắt đầu lúc 7:30 sáng và kết thúc lúc 5 giờ chiều.
+    → __Our school starts at 7:30 AM on the morning and end at 5 PM.____________________
 
-44. Anh ấy không bao giờ ăn fast food vì anh ấy quan tâm đến sức khỏe.
-    → _______________________________________________________
+43. Anh ấy không bao giờ ăn fast food vì anh ấy quan tâm đến sức khỏe.
+    → __He never eats fast food because he takes care strength.___
 
-45. Cô ấy có nói tiếng Nhật không? — Có, cô ấy nói tiếng Nhật rất giỏi.
-    → _______________________________________________________
+44. Cô ấy có nói tiếng Nhật không? — Có, cô ấy nói tiếng Nhật rất giỏi.
+    → ___Does she speak Japanese? Yes, she speaks Japanese very well___
 
-46. Bạn thường làm gì vào buổi tối sau khi đi làm về?
-    → _______________________________________________________
+45. Bạn thường làm gì vào buổi tối sau khi đi làm về?
+    → _What do you do on the evening after go home?__
 
-47. Nước đóng băng ở 0 độ C và sôi ở 100 độ C.
-    → _______________________________________________________
+46. Nước đóng băng ở 0 độ C và sôi ở 100 độ C.
+    → __Water freezes at 0°C and boils at 100°C.___
 
-48. Bố mẹ tôi thường xuyên đi dạo cùng nhau vào buổi sáng. Họ hiếm khi bỏ qua ngày nào.
-    → _______________________________________________________
+47. Bố mẹ tôi thường xuyên đi dạo cùng nhau vào buổi sáng. Họ hiếm khi bỏ qua ngày nào.
+    → __My parent usually go together on the morning. They rarely forget.___
 
 ---
 
@@ -221,24 +218,23 @@
 29. My brothers study medicine at university.
 30. He likes spicy food.
 31. Does your father eat breakfast every day?
-32. The train leaves at 7 am, doesn't it?
-33. I don't always do my homework.
+32. I don't always do my homework.
 
 ### Section D:
-34. "don't" → **doesn't** (She doesn't like vegetables. She prefers fruit.)
-35. "goes" → **go** (Does your brother go to school by bus?)
-36. "always is" → **is always** (My mother is always tired after work.)
-37. "work" → **works** (He works at a bank in the city center.)
-38. "am go" → **go** (I go to the gym every Monday.)
-39. "Do" → **Does** (Does she speak English well?)
-40. "doesn't" → **don't** (They don't understand the problem.)
-41. "rising" → **rises** (The sun rises in the east every morning.)
+33. "don't" → **doesn't** (She doesn't like vegetables. She prefers fruit.)
+34. "goes" → **go** (Does your brother go to school by bus?)
+35. "always is" → **is always** (My mother is always tired after work.)
+36. "work" → **works** (He works at a bank in the city center.)
+37. "am go" → **go** (I go to the gym every Monday.)
+38. "Do" → **Does** (Does she speak English well?)
+39. "doesn't" → **don't** (They don't understand the problem.)
+40. "rising" → **rises** (The sun rises in the east every morning.)
 
 ### Section E (Sample Answers):
-42. My sister wakes up at 5 o'clock every morning because she works far from home.
-43. Our school starts at 7:30 am and finishes / ends at 5 pm.
-44. He never eats fast food because he cares about his health.
-45. Does she speak Japanese? — Yes, she speaks Japanese very well.
-46. What do you usually do in the evening after work?
-47. Water freezes at 0°C and boils at 100°C.
-48. My parents often take a walk together in the morning. They rarely miss a day.
+41. My sister wakes up at 5 o'clock every morning because she works far from home.
+42. Our school starts at 7:30 am and finishes / ends at 5 pm.
+43. He never eats fast food because he cares about his health.
+44. Does she speak Japanese? — Yes, she speaks Japanese very well.
+45. What do you usually do in the evening after work?
+46. Water freezes at 0°C and boils at 100°C.
+47. My parents often take a walk together in the morning. They rarely miss a day.
