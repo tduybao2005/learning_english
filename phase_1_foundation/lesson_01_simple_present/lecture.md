@@ -204,6 +204,19 @@ Thường gặp trong sách dạy nấu ăn, hướng dẫn sử dụng.
   - He **is always** late. (Anh ấy luôn đến muộn.)
   - They **are usually** happy. (Họ thường vui vẻ.)
 
+- **Trong câu phủ định:** S + do/does + not + adverb + V
+  - I **don't always** do my homework. (Tôi không phải lúc nào cũng làm bài tập.)
+  - She **doesn't usually** eat breakfast. (Cô ấy thường không ăn sáng.)
+  - He **doesn't often** go to the gym. (Anh ấy không thường xuyên đến phòng gym.)
+
+  **Lưu ý quan trọng:** Trạng từ tần suất đứng SAU trợ động từ phủ định (don't/doesn't), KHÔNG đứng sau động từ chính.
+  - SAI: I always don't do my homework. ❌
+  - ĐÚNG: I **don't always** do my homework. ✓
+
+  **Sắc thái nghĩa của "always" trong câu phủ định:**
+  - "I **always** do my homework." → thói quen mạnh mẽ: luôn luôn làm (habit — every single time)
+  - "I **don't always** do my homework." → không phải lúc nào cũng làm — đôi khi có, đôi khi không (not every time / không phải lúc nào cũng)
+
 ---
 
 ## PHẦN 4: PHÂN BIỆT SIMPLE PRESENT VÀ PRESENT CONTINUOUS
@@ -300,11 +313,11 @@ Thường gặp trong sách dạy nấu ăn, hướng dẫn sử dụng.
 ## PHẦN 7: BÀI TẬP LUYỆN TÂM (QUICK PRACTICE)
 
 **Điền vào chỗ trống:**
-1. My sister ______ (study) medicine at university.
-2. They ______ (not / eat) breakfast on weekdays.
-3. ______ (Do/Does) your teacher speak Vietnamese?
-4. The concert ______ (start) at 8 pm tonight.
-5. Water ______ (freeze) at 0°C.
+1. My sister ___studies___ (study) medicine at university.
+2. They ___don't eat___ (not / eat) breakfast on weekdays.
+3. ___Does___ (Do/Does) your teacher speak Vietnamese?
+4. The concert ___starts___ (start) at 8 pm tonight.
+5. Water ___freezes___ (freeze) at 0°C.
 
 **Đáp án:**
 1. studies | 2. don't eat | 3. Does | 4. starts | 5. freezes
